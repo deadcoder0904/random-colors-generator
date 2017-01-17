@@ -1,0 +1,14 @@
+{
+  "name": "random-colors-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "node colors"
+  },
+  "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "jsonfile": "^2.4.0"
+  }
+}
