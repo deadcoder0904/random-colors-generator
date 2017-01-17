@@ -1,4002 +1,4002 @@
 [
   {
-    "backgroundColor": "hsla(179,12%,19%,0.91)",
-    "color": "hsla(299,87%,69%,0.54)"
+    "backgroundColor": "hsla(275,45%,0%,0.95)",
+    "color": "hsla(35,20%,50%,0.96)"
   },
   {
-    "backgroundColor": "hsla(215,82%,53%,0.79)",
-    "color": "hsla(335,57%,3%,0.56)"
+    "backgroundColor": "hsla(179,6%,98%,0.93)",
+    "color": "hsla(299,81%,48%,0.97)"
   },
   {
-    "backgroundColor": "hsla(9,38%,54%,0.72)",
-    "color": "hsla(129,13%,4%,0.49)"
+    "backgroundColor": "hsla(100,33%,85%,0.88)",
+    "color": "hsla(220,8%,35%,0.95)"
   },
   {
-    "backgroundColor": "hsla(239,79%,28%,0.94)",
-    "color": "hsla(359,54%,78%,0.41)"
+    "backgroundColor": "hsla(155,69%,86%,0.84)",
+    "color": "hsla(275,44%,36%,0.87)"
   },
   {
-    "backgroundColor": "hsla(160,41%,64%,0.85)",
-    "color": "hsla(280,16%,14%,0.47)"
+    "backgroundColor": "hsla(85,99%,50%,0.75)",
+    "color": "hsla(205,74%,0%,0.84)"
   },
   {
-    "backgroundColor": "hsla(270,12%,32%,0.70)",
-    "color": "hsla(30,87%,82%,0.46)"
+    "backgroundColor": "hsla(207,82%,54%,0.91)",
+    "color": "hsla(327,57%,4%,0.88)"
   },
   {
-    "backgroundColor": "hsla(208,74%,6%,0.76)",
-    "color": "hsla(328,49%,56%,0.57)"
+    "backgroundColor": "hsla(266,45%,79%,0.71)",
+    "color": "hsla(26,20%,29%,0.94)"
   },
   {
-    "backgroundColor": "hsla(135,1%,22%,0.83)",
-    "color": "hsla(255,76%,72%,0.58)"
+    "backgroundColor": "hsla(41,38%,68%,0.77)",
+    "color": "hsla(161,13%,18%,0.86)"
   },
   {
-    "backgroundColor": "hsla(170,1%,3%,0.91)",
-    "color": "hsla(290,76%,53%,0.45)"
+    "backgroundColor": "hsla(123,61%,18%,0.82)",
+    "color": "hsla(243,36%,68%,0.98)"
   },
   {
-    "backgroundColor": "hsla(94,87%,13%,0.75)",
-    "color": "hsla(214,62%,63%,0.50)"
+    "backgroundColor": "hsla(66,64%,51%,0.97)",
+    "color": "hsla(186,39%,1%,0.82)"
   },
   {
-    "backgroundColor": "hsla(302,48%,82%,0.86)",
-    "color": "hsla(62,23%,32%,0.60)"
+    "backgroundColor": "hsla(323,86%,9%,0.74)",
+    "color": "hsla(83,61%,59%,0.99)"
   },
   {
-    "backgroundColor": "hsla(86,59%,10%,0.78)",
-    "color": "hsla(206,34%,60%,0.51)"
+    "backgroundColor": "hsla(50,25%,73%,0.93)",
+    "color": "hsla(170,0%,23%,0.90)"
   },
   {
-    "backgroundColor": "hsla(200,8%,35%,1.00)",
-    "color": "hsla(320,83%,85%,0.44)"
+    "backgroundColor": "hsla(238,6%,68%,0.71)",
+    "color": "hsla(358,81%,18%,0.87)"
   },
   {
-    "backgroundColor": "hsla(144,4%,86%,0.89)",
-    "color": "hsla(264,79%,36%,0.56)"
+    "backgroundColor": "hsla(215,37%,47%,0.99)",
+    "color": "hsla(335,12%,97%,0.86)"
   },
   {
-    "backgroundColor": "hsla(335,56%,22%,0.90)",
-    "color": "hsla(95,31%,72%,0.43)"
+    "backgroundColor": "hsla(253,86%,34%,0.85)",
+    "color": "hsla(13,61%,84%,0.91)"
   },
   {
-    "backgroundColor": "hsla(255,92%,64%,0.93)",
-    "color": "hsla(15,67%,14%,0.52)"
+    "backgroundColor": "hsla(352,26%,88%,0.96)",
+    "color": "hsla(112,1%,38%,0.92)"
   },
   {
-    "backgroundColor": "hsla(66,7%,17%,0.82)",
-    "color": "hsla(186,82%,67%,0.58)"
+    "backgroundColor": "hsla(31,82%,0%,0.88)",
+    "color": "hsla(151,57%,50%,0.90)"
   },
   {
-    "backgroundColor": "hsla(211,55%,61%,0.78)",
-    "color": "hsla(331,30%,11%,0.51)"
+    "backgroundColor": "hsla(208,36%,46%,0.84)",
+    "color": "hsla(328,11%,96%,0.87)"
   },
   {
-    "backgroundColor": "hsla(44,69%,33%,0.75)",
-    "color": "hsla(164,44%,83%,0.49)"
+    "backgroundColor": "hsla(82,58%,68%,0.79)",
+    "color": "hsla(202,33%,18%,0.82)"
   },
   {
-    "backgroundColor": "hsla(228,15%,80%,0.82)",
-    "color": "hsla(348,90%,30%,0.55)"
+    "backgroundColor": "hsla(188,70%,85%,0.97)",
+    "color": "hsla(308,45%,35%,0.91)"
   },
   {
-    "backgroundColor": "hsla(11,21%,33%,0.78)",
-    "color": "hsla(131,96%,83%,0.56)"
+    "backgroundColor": "hsla(162,71%,90%,0.75)",
+    "color": "hsla(282,46%,40%,0.93)"
   },
   {
-    "backgroundColor": "hsla(109,33%,49%,0.82)",
-    "color": "hsla(229,8%,99%,0.50)"
+    "backgroundColor": "hsla(351,68%,47%,0.80)",
+    "color": "hsla(111,43%,97%,0.90)"
   },
   {
-    "backgroundColor": "hsla(125,42%,70%,0.82)",
-    "color": "hsla(245,17%,20%,0.53)"
+    "backgroundColor": "hsla(58,99%,52%,0.96)",
+    "color": "hsla(178,74%,2%,0.88)"
   },
   {
-    "backgroundColor": "hsla(295,17%,71%,0.93)",
-    "color": "hsla(55,92%,21%,0.56)"
+    "backgroundColor": "hsla(59,84%,0%,0.84)",
+    "color": "hsla(179,59%,50%,0.90)"
   },
   {
-    "backgroundColor": "hsla(134,88%,5%,0.84)",
-    "color": "hsla(254,63%,55%,0.44)"
+    "backgroundColor": "hsla(287,24%,26%,0.73)",
+    "color": "hsla(47,99%,76%,0.95)"
   },
   {
-    "backgroundColor": "hsla(264,23%,51%,0.82)",
-    "color": "hsla(24,98%,1%,0.55)"
+    "backgroundColor": "hsla(25,2%,54%,0.81)",
+    "color": "hsla(145,77%,4%,0.81)"
   },
   {
-    "backgroundColor": "hsla(20,87%,47%,0.79)",
-    "color": "hsla(140,62%,97%,0.46)"
+    "backgroundColor": "hsla(347,31%,57%,0.89)",
+    "color": "hsla(107,6%,7%,0.95)"
   },
   {
-    "backgroundColor": "hsla(54,32%,27%,0.95)",
-    "color": "hsla(174,7%,77%,0.53)"
+    "backgroundColor": "hsla(337,99%,31%,0.91)",
+    "color": "hsla(97,74%,81%,0.94)"
   },
   {
-    "backgroundColor": "hsla(212,80%,82%,0.93)",
-    "color": "hsla(332,55%,32%,0.59)"
+    "backgroundColor": "hsla(71,83%,26%,0.75)",
+    "color": "hsla(191,58%,76%,0.88)"
   },
   {
-    "backgroundColor": "hsla(21,28%,38%,0.98)",
-    "color": "hsla(141,3%,88%,0.45)"
+    "backgroundColor": "hsla(66,19%,7%,0.76)",
+    "color": "hsla(186,94%,57%,0.80)"
   },
   {
-    "backgroundColor": "hsla(209,61%,42%,0.98)",
-    "color": "hsla(329,36%,92%,0.53)"
+    "backgroundColor": "hsla(302,67%,22%,0.91)",
+    "color": "hsla(62,42%,72%,0.98)"
   },
   {
-    "backgroundColor": "hsla(87,41%,71%,0.79)",
-    "color": "hsla(207,16%,21%,0.49)"
+    "backgroundColor": "hsla(249,99%,37%,0.82)",
+    "color": "hsla(9,74%,87%,0.83)"
   },
   {
-    "backgroundColor": "hsla(103,25%,89%,0.81)",
-    "color": "hsla(223,0%,39%,0.42)"
+    "backgroundColor": "hsla(108,31%,42%,0.70)",
+    "color": "hsla(228,6%,92%,0.81)"
   },
   {
-    "backgroundColor": "hsla(310,62%,4%,0.93)",
-    "color": "hsla(70,37%,54%,0.42)"
+    "backgroundColor": "hsla(278,56%,33%,0.89)",
+    "color": "hsla(38,31%,83%,0.93)"
   },
   {
-    "backgroundColor": "hsla(52,80%,16%,0.81)",
-    "color": "hsla(172,55%,66%,0.59)"
+    "backgroundColor": "hsla(152,36%,50%,0.94)",
+    "color": "hsla(272,11%,0%,0.91)"
   },
   {
-    "backgroundColor": "hsla(273,34%,19%,0.99)",
-    "color": "hsla(33,9%,69%,0.50)"
+    "backgroundColor": "hsla(8,62%,17%,0.80)",
+    "color": "hsla(128,37%,67%,0.94)"
   },
   {
-    "backgroundColor": "hsla(359,28%,46%,0.75)",
-    "color": "hsla(119,3%,96%,0.43)"
+    "backgroundColor": "hsla(263,45%,83%,0.90)",
+    "color": "hsla(23,20%,33%,0.94)"
   },
   {
-    "backgroundColor": "hsla(247,93%,65%,0.71)",
-    "color": "hsla(7,68%,15%,0.45)"
+    "backgroundColor": "hsla(82,84%,99%,0.70)",
+    "color": "hsla(202,59%,49%,0.95)"
   },
   {
-    "backgroundColor": "hsla(55,39%,50%,0.73)",
-    "color": "hsla(175,14%,0%,0.52)"
+    "backgroundColor": "hsla(45,92%,27%,0.99)",
+    "color": "hsla(165,67%,77%,0.80)"
   },
   {
-    "backgroundColor": "hsla(328,38%,8%,0.73)",
-    "color": "hsla(88,13%,58%,0.53)"
+    "backgroundColor": "hsla(132,57%,51%,0.74)",
+    "color": "hsla(252,32%,1%,0.91)"
   },
   {
-    "backgroundColor": "hsla(171,87%,27%,0.96)",
-    "color": "hsla(291,62%,77%,0.58)"
+    "backgroundColor": "hsla(177,97%,37%,0.77)",
+    "color": "hsla(297,72%,87%,0.82)"
   },
   {
-    "backgroundColor": "hsla(234,42%,23%,0.83)",
-    "color": "hsla(354,17%,73%,0.52)"
+    "backgroundColor": "hsla(32,87%,45%,0.72)",
+    "color": "hsla(152,62%,95%,0.92)"
   },
   {
-    "backgroundColor": "hsla(322,37%,89%,0.90)",
-    "color": "hsla(82,12%,39%,0.57)"
+    "backgroundColor": "hsla(110,8%,68%,0.83)",
+    "color": "hsla(230,83%,18%,0.90)"
   },
   {
-    "backgroundColor": "hsla(279,48%,39%,0.97)",
-    "color": "hsla(39,23%,89%,0.50)"
+    "backgroundColor": "hsla(139,68%,47%,0.74)",
+    "color": "hsla(259,43%,97%,0.95)"
   },
   {
-    "backgroundColor": "hsla(204,46%,23%,0.80)",
-    "color": "hsla(324,21%,73%,0.55)"
+    "backgroundColor": "hsla(70,2%,71%,0.74)",
+    "color": "hsla(190,77%,21%,0.81)"
   },
   {
-    "backgroundColor": "hsla(104,87%,71%,0.87)",
-    "color": "hsla(224,62%,21%,0.49)"
+    "backgroundColor": "hsla(358,39%,77%,0.92)",
+    "color": "hsla(118,14%,27%,0.80)"
   },
   {
-    "backgroundColor": "hsla(263,25%,18%,0.91)",
-    "color": "hsla(23,0%,68%,0.48)"
+    "backgroundColor": "hsla(358,46%,30%,0.81)",
+    "color": "hsla(118,21%,80%,0.90)"
   },
   {
-    "backgroundColor": "hsla(189,81%,40%,0.76)",
-    "color": "hsla(309,56%,90%,0.48)"
+    "backgroundColor": "hsla(192,26%,20%,0.79)",
+    "color": "hsla(312,1%,70%,0.98)"
   },
   {
-    "backgroundColor": "hsla(19,90%,11%,0.82)",
-    "color": "hsla(139,65%,61%,0.55)"
+    "backgroundColor": "hsla(106,82%,79%,0.97)",
+    "color": "hsla(226,57%,29%,0.99)"
   },
   {
-    "backgroundColor": "hsla(354,96%,71%,0.71)",
-    "color": "hsla(114,71%,21%,0.46)"
+    "backgroundColor": "hsla(89,55%,90%,0.88)",
+    "color": "hsla(209,30%,40%,0.83)"
   },
   {
-    "backgroundColor": "hsla(267,26%,88%,0.94)",
-    "color": "hsla(27,1%,38%,0.59)"
+    "backgroundColor": "hsla(293,87%,37%,0.71)",
+    "color": "hsla(53,62%,87%,0.89)"
   },
   {
-    "backgroundColor": "hsla(304,1%,64%,0.95)",
-    "color": "hsla(64,76%,14%,0.40)"
+    "backgroundColor": "hsla(225,60%,28%,0.90)",
+    "color": "hsla(345,35%,78%,0.94)"
   },
   {
-    "backgroundColor": "hsla(8,8%,73%,0.89)",
-    "color": "hsla(128,83%,23%,0.55)"
+    "backgroundColor": "hsla(155,59%,88%,0.99)",
+    "color": "hsla(275,34%,38%,0.85)"
   },
   {
-    "backgroundColor": "hsla(332,36%,13%,0.95)",
-    "color": "hsla(92,11%,63%,0.58)"
+    "backgroundColor": "hsla(349,61%,34%,0.79)",
+    "color": "hsla(109,36%,84%,1.00)"
   },
   {
-    "backgroundColor": "hsla(7,1%,66%,0.92)",
-    "color": "hsla(127,76%,16%,0.40)"
+    "backgroundColor": "hsla(320,31%,84%,0.76)",
+    "color": "hsla(80,6%,34%,0.94)"
   },
   {
-    "backgroundColor": "hsla(186,17%,66%,0.70)",
-    "color": "hsla(306,92%,16%,0.58)"
+    "backgroundColor": "hsla(79,99%,48%,0.80)",
+    "color": "hsla(199,74%,98%,0.95)"
   },
   {
-    "backgroundColor": "hsla(233,62%,53%,0.91)",
-    "color": "hsla(353,37%,3%,0.57)"
+    "backgroundColor": "hsla(292,44%,69%,0.87)",
+    "color": "hsla(52,19%,19%,0.98)"
   },
   {
-    "backgroundColor": "hsla(54,27%,55%,0.77)",
-    "color": "hsla(174,2%,5%,0.41)"
+    "backgroundColor": "hsla(204,45%,73%,0.85)",
+    "color": "hsla(324,20%,23%,0.95)"
   },
   {
-    "backgroundColor": "hsla(195,15%,31%,0.80)",
-    "color": "hsla(315,90%,81%,0.48)"
+    "backgroundColor": "hsla(116,78%,56%,0.86)",
+    "color": "hsla(236,53%,6%,0.89)"
   },
   {
-    "backgroundColor": "hsla(231,97%,44%,0.84)",
-    "color": "hsla(351,72%,94%,0.58)"
+    "backgroundColor": "hsla(282,3%,20%,0.92)",
+    "color": "hsla(42,78%,70%,0.97)"
   },
   {
-    "backgroundColor": "hsla(30,19%,38%,0.90)",
-    "color": "hsla(150,94%,88%,0.41)"
+    "backgroundColor": "hsla(203,31%,32%,0.91)",
+    "color": "hsla(323,6%,82%,0.83)"
   },
   {
-    "backgroundColor": "hsla(322,0%,83%,0.86)",
-    "color": "hsla(82,75%,33%,0.51)"
+    "backgroundColor": "hsla(330,5%,10%,0.70)",
+    "color": "hsla(90,80%,60%,0.93)"
   },
   {
-    "backgroundColor": "hsla(63,86%,8%,0.82)",
-    "color": "hsla(183,61%,58%,0.57)"
+    "backgroundColor": "hsla(45,6%,33%,0.71)",
+    "color": "hsla(165,81%,83%,1.00)"
   },
   {
-    "backgroundColor": "hsla(142,30%,79%,0.83)",
-    "color": "hsla(262,5%,29%,0.52)"
+    "backgroundColor": "hsla(225,82%,83%,0.98)",
+    "color": "hsla(345,57%,33%,0.94)"
   },
   {
-    "backgroundColor": "hsla(282,52%,2%,0.94)",
-    "color": "hsla(42,27%,52%,0.57)"
+    "backgroundColor": "hsla(232,85%,8%,0.89)",
+    "color": "hsla(352,60%,58%,0.82)"
   },
   {
-    "backgroundColor": "hsla(164,76%,23%,0.79)",
-    "color": "hsla(284,51%,73%,0.50)"
+    "backgroundColor": "hsla(69,33%,60%,0.71)",
+    "color": "hsla(189,8%,10%,0.98)"
   },
   {
-    "backgroundColor": "hsla(31,87%,19%,0.77)",
-    "color": "hsla(151,62%,69%,0.43)"
+    "backgroundColor": "hsla(135,80%,50%,0.99)",
+    "color": "hsla(255,55%,0%,0.98)"
   },
   {
-    "backgroundColor": "hsla(9,66%,69%,0.99)",
-    "color": "hsla(129,41%,19%,0.53)"
+    "backgroundColor": "hsla(264,18%,89%,0.91)",
+    "color": "hsla(24,93%,39%,0.98)"
   },
   {
-    "backgroundColor": "hsla(134,54%,13%,0.96)",
-    "color": "hsla(254,29%,63%,0.43)"
+    "backgroundColor": "hsla(109,60%,23%,0.74)",
+    "color": "hsla(229,35%,73%,0.93)"
   },
   {
-    "backgroundColor": "hsla(300,84%,80%,0.85)",
-    "color": "hsla(60,59%,30%,0.59)"
+    "backgroundColor": "hsla(20,78%,30%,0.77)",
+    "color": "hsla(140,53%,80%,0.88)"
   },
   {
-    "backgroundColor": "hsla(168,65%,68%,0.90)",
-    "color": "hsla(288,40%,18%,0.52)"
+    "backgroundColor": "hsla(45,95%,36%,0.95)",
+    "color": "hsla(165,70%,86%,0.90)"
   },
   {
-    "backgroundColor": "hsla(151,11%,14%,0.78)",
-    "color": "hsla(271,86%,64%,0.58)"
+    "backgroundColor": "hsla(299,27%,44%,0.81)",
+    "color": "hsla(59,2%,94%,0.92)"
   },
   {
-    "backgroundColor": "hsla(242,95%,64%,0.97)",
-    "color": "hsla(2,70%,14%,0.49)"
+    "backgroundColor": "hsla(298,94%,2%,0.84)",
+    "color": "hsla(58,69%,52%,0.87)"
   },
   {
-    "backgroundColor": "hsla(295,82%,51%,0.73)",
-    "color": "hsla(55,57%,1%,0.57)"
+    "backgroundColor": "hsla(344,31%,59%,0.84)",
+    "color": "hsla(104,6%,9%,0.99)"
   },
   {
-    "backgroundColor": "hsla(181,8%,6%,0.96)",
-    "color": "hsla(301,83%,56%,0.49)"
+    "backgroundColor": "hsla(12,72%,89%,0.83)",
+    "color": "hsla(132,47%,39%,0.84)"
   },
   {
-    "backgroundColor": "hsla(333,87%,5%,0.82)",
-    "color": "hsla(93,62%,55%,0.58)"
+    "backgroundColor": "hsla(299,37%,65%,0.78)",
+    "color": "hsla(59,12%,15%,0.89)"
   },
   {
-    "backgroundColor": "hsla(156,78%,60%,0.72)",
-    "color": "hsla(276,53%,10%,0.50)"
+    "backgroundColor": "hsla(315,39%,98%,0.72)",
+    "color": "hsla(75,14%,48%,0.82)"
   },
   {
-    "backgroundColor": "hsla(332,74%,40%,0.81)",
-    "color": "hsla(92,49%,90%,0.54)"
+    "backgroundColor": "hsla(39,72%,40%,0.73)",
+    "color": "hsla(159,47%,90%,0.93)"
   },
   {
-    "backgroundColor": "hsla(142,67%,67%,0.76)",
-    "color": "hsla(262,42%,17%,0.49)"
+    "backgroundColor": "hsla(226,76%,77%,0.97)",
+    "color": "hsla(346,51%,27%,0.88)"
   },
   {
-    "backgroundColor": "hsla(259,12%,75%,0.92)",
-    "color": "hsla(19,87%,25%,0.55)"
+    "backgroundColor": "hsla(51,71%,41%,0.98)",
+    "color": "hsla(171,46%,91%,0.91)"
   },
   {
-    "backgroundColor": "hsla(225,60%,49%,0.78)",
-    "color": "hsla(345,35%,99%,0.46)"
+    "backgroundColor": "hsla(24,75%,82%,0.88)",
+    "color": "hsla(144,50%,32%,0.84)"
   },
   {
-    "backgroundColor": "hsla(174,35%,19%,0.99)",
-    "color": "hsla(294,10%,69%,0.59)"
+    "backgroundColor": "hsla(68,31%,11%,0.82)",
+    "color": "hsla(188,6%,61%,0.88)"
   },
   {
-    "backgroundColor": "hsla(8,63%,57%,0.97)",
-    "color": "hsla(128,38%,7%,0.56)"
+    "backgroundColor": "hsla(329,4%,23%,0.87)",
+    "color": "hsla(89,79%,73%,0.83)"
   },
   {
-    "backgroundColor": "hsla(191,11%,60%,0.70)",
-    "color": "hsla(311,86%,10%,0.43)"
+    "backgroundColor": "hsla(3,14%,84%,0.94)",
+    "color": "hsla(123,89%,34%,0.90)"
   },
   {
-    "backgroundColor": "hsla(101,3%,87%,0.82)",
-    "color": "hsla(221,78%,37%,0.56)"
+    "backgroundColor": "hsla(216,61%,31%,0.85)",
+    "color": "hsla(336,36%,81%,0.84)"
   },
   {
-    "backgroundColor": "hsla(299,73%,15%,0.94)",
-    "color": "hsla(59,48%,65%,0.41)"
+    "backgroundColor": "hsla(345,10%,97%,0.78)",
+    "color": "hsla(105,85%,47%,0.97)"
   },
   {
-    "backgroundColor": "hsla(346,15%,87%,0.87)",
-    "color": "hsla(106,90%,37%,0.59)"
+    "backgroundColor": "hsla(174,19%,23%,0.77)",
+    "color": "hsla(294,94%,73%,0.86)"
   },
   {
-    "backgroundColor": "hsla(162,94%,45%,0.87)",
-    "color": "hsla(282,69%,95%,0.60)"
+    "backgroundColor": "hsla(346,91%,44%,0.84)",
+    "color": "hsla(106,66%,94%,0.90)"
   },
   {
-    "backgroundColor": "hsla(355,92%,54%,0.85)",
-    "color": "hsla(115,67%,4%,0.41)"
+    "backgroundColor": "hsla(357,56%,78%,0.76)",
+    "color": "hsla(117,31%,28%,0.86)"
   },
   {
-    "backgroundColor": "hsla(176,79%,88%,0.97)",
-    "color": "hsla(296,54%,38%,0.45)"
+    "backgroundColor": "hsla(93,67%,86%,0.75)",
+    "color": "hsla(213,42%,36%,0.84)"
   },
   {
-    "backgroundColor": "hsla(291,67%,71%,0.92)",
-    "color": "hsla(51,42%,21%,0.57)"
+    "backgroundColor": "hsla(215,52%,4%,0.73)",
+    "color": "hsla(335,27%,54%,0.87)"
   },
   {
-    "backgroundColor": "hsla(241,84%,23%,0.93)",
-    "color": "hsla(1,59%,73%,0.52)"
+    "backgroundColor": "hsla(238,93%,50%,0.98)",
+    "color": "hsla(358,68%,0%,0.85)"
   },
   {
-    "backgroundColor": "hsla(353,31%,54%,0.78)",
-    "color": "hsla(113,6%,4%,0.47)"
+    "backgroundColor": "hsla(334,80%,71%,0.75)",
+    "color": "hsla(94,55%,21%,1.00)"
   },
   {
-    "backgroundColor": "hsla(140,9%,73%,0.72)",
-    "color": "hsla(260,84%,23%,0.53)"
+    "backgroundColor": "hsla(189,34%,47%,0.98)",
+    "color": "hsla(309,9%,97%,0.89)"
   },
   {
-    "backgroundColor": "hsla(330,7%,99%,0.76)",
-    "color": "hsla(90,82%,49%,0.45)"
+    "backgroundColor": "hsla(192,98%,32%,0.78)",
+    "color": "hsla(312,73%,82%,0.84)"
   },
   {
-    "backgroundColor": "hsla(92,12%,20%,0.74)",
-    "color": "hsla(212,87%,70%,0.48)"
+    "backgroundColor": "hsla(52,68%,34%,0.76)",
+    "color": "hsla(172,43%,84%,0.90)"
   },
   {
-    "backgroundColor": "hsla(324,72%,86%,0.98)",
-    "color": "hsla(84,47%,36%,0.49)"
+    "backgroundColor": "hsla(14,39%,18%,0.81)",
+    "color": "hsla(134,14%,68%,0.85)"
   },
   {
-    "backgroundColor": "hsla(225,0%,40%,0.79)",
-    "color": "hsla(345,75%,90%,0.52)"
+    "backgroundColor": "hsla(346,78%,88%,0.89)",
+    "color": "hsla(106,53%,38%,0.84)"
   },
   {
-    "backgroundColor": "hsla(153,82%,62%,0.94)",
-    "color": "hsla(273,57%,12%,0.57)"
+    "backgroundColor": "hsla(2,8%,11%,0.84)",
+    "color": "hsla(122,83%,61%,0.85)"
   },
   {
-    "backgroundColor": "hsla(166,92%,13%,0.99)",
-    "color": "hsla(286,67%,63%,0.51)"
+    "backgroundColor": "hsla(163,52%,86%,0.82)",
+    "color": "hsla(283,27%,36%,0.83)"
   },
   {
-    "backgroundColor": "hsla(28,50%,7%,0.71)",
-    "color": "hsla(148,25%,57%,0.59)"
+    "backgroundColor": "hsla(305,23%,32%,0.88)",
+    "color": "hsla(65,98%,82%,0.83)"
   },
   {
-    "backgroundColor": "hsla(228,95%,56%,0.77)",
-    "color": "hsla(348,70%,6%,0.41)"
+    "backgroundColor": "hsla(214,85%,65%,0.74)",
+    "color": "hsla(334,60%,15%,0.91)"
   },
   {
-    "backgroundColor": "hsla(330,39%,54%,0.89)",
-    "color": "hsla(90,14%,4%,0.51)"
+    "backgroundColor": "hsla(239,12%,81%,0.76)",
+    "color": "hsla(359,87%,31%,0.89)"
   },
   {
-    "backgroundColor": "hsla(172,68%,6%,0.91)",
-    "color": "hsla(292,43%,56%,0.52)"
+    "backgroundColor": "hsla(146,56%,2%,0.96)",
+    "color": "hsla(266,31%,52%,0.87)"
   },
   {
-    "backgroundColor": "hsla(24,10%,18%,0.99)",
-    "color": "hsla(144,85%,68%,0.55)"
+    "backgroundColor": "hsla(353,53%,61%,0.92)",
+    "color": "hsla(113,28%,11%,0.84)"
   },
   {
-    "backgroundColor": "hsla(292,22%,82%,0.81)",
-    "color": "hsla(52,97%,32%,0.51)"
+    "backgroundColor": "hsla(356,7%,14%,0.82)",
+    "color": "hsla(116,82%,64%,0.81)"
   },
   {
-    "backgroundColor": "hsla(112,20%,42%,0.97)",
-    "color": "hsla(232,95%,92%,0.42)"
+    "backgroundColor": "hsla(30,13%,4%,0.82)",
+    "color": "hsla(150,88%,54%,0.95)"
   },
   {
-    "backgroundColor": "hsla(333,31%,80%,0.87)",
-    "color": "hsla(93,6%,30%,0.59)"
+    "backgroundColor": "hsla(330,11%,52%,0.71)",
+    "color": "hsla(90,86%,2%,0.93)"
   },
   {
-    "backgroundColor": "hsla(146,24%,22%,0.88)",
-    "color": "hsla(266,99%,72%,0.48)"
+    "backgroundColor": "hsla(187,24%,42%,0.85)",
+    "color": "hsla(307,99%,92%,0.99)"
   },
   {
-    "backgroundColor": "hsla(281,71%,51%,1.00)",
-    "color": "hsla(41,46%,1%,0.46)"
+    "backgroundColor": "hsla(54,99%,96%,0.76)",
+    "color": "hsla(174,74%,46%,0.82)"
   },
   {
-    "backgroundColor": "hsla(213,8%,83%,0.72)",
-    "color": "hsla(333,83%,33%,0.44)"
+    "backgroundColor": "hsla(148,71%,6%,0.97)",
+    "color": "hsla(268,46%,56%,0.97)"
   },
   {
-    "backgroundColor": "hsla(220,32%,20%,0.92)",
-    "color": "hsla(340,7%,70%,0.40)"
+    "backgroundColor": "hsla(305,42%,73%,0.84)",
+    "color": "hsla(65,17%,23%,0.80)"
   },
   {
-    "backgroundColor": "hsla(154,89%,8%,0.71)",
-    "color": "hsla(274,64%,58%,0.47)"
+    "backgroundColor": "hsla(356,79%,78%,0.82)",
+    "color": "hsla(116,54%,28%,1.00)"
   },
   {
-    "backgroundColor": "hsla(219,4%,64%,0.91)",
-    "color": "hsla(339,79%,14%,0.50)"
+    "backgroundColor": "hsla(274,23%,12%,0.81)",
+    "color": "hsla(34,98%,62%,0.91)"
   },
   {
-    "backgroundColor": "hsla(219,36%,90%,0.73)",
-    "color": "hsla(339,11%,40%,0.50)"
+    "backgroundColor": "hsla(346,8%,43%,0.86)",
+    "color": "hsla(106,83%,93%,0.94)"
   },
   {
-    "backgroundColor": "hsla(303,41%,67%,0.90)",
-    "color": "hsla(63,16%,17%,0.58)"
+    "backgroundColor": "hsla(169,75%,99%,0.94)",
+    "color": "hsla(289,50%,49%,0.85)"
   },
   {
-    "backgroundColor": "hsla(167,51%,5%,0.98)",
-    "color": "hsla(287,26%,55%,0.41)"
+    "backgroundColor": "hsla(128,41%,50%,0.79)",
+    "color": "hsla(248,16%,0%,0.90)"
   },
   {
-    "backgroundColor": "hsla(225,14%,32%,0.89)",
-    "color": "hsla(345,89%,82%,0.41)"
+    "backgroundColor": "hsla(328,13%,9%,1.00)",
+    "color": "hsla(88,88%,59%,0.93)"
   },
   {
-    "backgroundColor": "hsla(24,12%,50%,0.83)",
-    "color": "hsla(144,87%,0%,0.57)"
+    "backgroundColor": "hsla(308,51%,80%,0.72)",
+    "color": "hsla(68,26%,30%,0.93)"
   },
   {
-    "backgroundColor": "hsla(9,15%,62%,0.92)",
-    "color": "hsla(129,90%,12%,0.43)"
+    "backgroundColor": "hsla(234,59%,66%,0.91)",
+    "color": "hsla(354,34%,16%,0.83)"
   },
   {
-    "backgroundColor": "hsla(15,92%,96%,1.00)",
-    "color": "hsla(135,67%,46%,0.50)"
+    "backgroundColor": "hsla(134,17%,63%,0.71)",
+    "color": "hsla(254,92%,13%,0.98)"
   },
   {
-    "backgroundColor": "hsla(232,41%,99%,0.92)",
-    "color": "hsla(352,16%,49%,0.53)"
+    "backgroundColor": "hsla(240,98%,43%,0.85)",
+    "color": "hsla(0,73%,93%,0.92)"
   },
   {
-    "backgroundColor": "hsla(276,42%,48%,0.85)",
-    "color": "hsla(36,17%,98%,0.48)"
+    "backgroundColor": "hsla(82,84%,47%,0.74)",
+    "color": "hsla(202,59%,97%,0.94)"
   },
   {
-    "backgroundColor": "hsla(142,31%,49%,0.88)",
-    "color": "hsla(262,6%,99%,0.57)"
+    "backgroundColor": "hsla(308,12%,75%,0.81)",
+    "color": "hsla(68,87%,25%,0.93)"
   },
   {
-    "backgroundColor": "hsla(308,15%,53%,0.89)",
-    "color": "hsla(68,90%,3%,0.43)"
+    "backgroundColor": "hsla(65,61%,90%,0.76)",
+    "color": "hsla(185,36%,40%,0.96)"
   },
   {
-    "backgroundColor": "hsla(227,36%,74%,0.82)",
-    "color": "hsla(347,11%,24%,0.56)"
+    "backgroundColor": "hsla(232,13%,55%,0.90)",
+    "color": "hsla(352,88%,5%,0.87)"
   },
   {
-    "backgroundColor": "hsla(67,5%,61%,0.89)",
-    "color": "hsla(187,80%,11%,0.58)"
+    "backgroundColor": "hsla(209,11%,85%,0.88)",
+    "color": "hsla(329,86%,35%,0.83)"
   },
   {
-    "backgroundColor": "hsla(296,97%,52%,0.94)",
-    "color": "hsla(56,72%,2%,0.43)"
+    "backgroundColor": "hsla(285,87%,77%,0.88)",
+    "color": "hsla(45,62%,27%,0.88)"
   },
   {
-    "backgroundColor": "hsla(102,86%,92%,0.89)",
-    "color": "hsla(222,61%,42%,0.46)"
+    "backgroundColor": "hsla(58,16%,70%,0.83)",
+    "color": "hsla(178,91%,20%,1.00)"
   },
   {
-    "backgroundColor": "hsla(144,19%,61%,0.77)",
-    "color": "hsla(264,94%,11%,0.60)"
+    "backgroundColor": "hsla(191,86%,13%,0.99)",
+    "color": "hsla(311,61%,63%,0.82)"
   },
   {
-    "backgroundColor": "hsla(246,31%,15%,0.98)",
-    "color": "hsla(6,6%,65%,0.60)"
+    "backgroundColor": "hsla(84,5%,83%,0.71)",
+    "color": "hsla(204,80%,33%,0.91)"
   },
   {
-    "backgroundColor": "hsla(26,82%,55%,0.76)",
-    "color": "hsla(146,57%,5%,0.44)"
+    "backgroundColor": "hsla(271,19%,9%,0.99)",
+    "color": "hsla(31,94%,59%,0.88)"
   },
   {
-    "backgroundColor": "hsla(326,45%,12%,0.74)",
-    "color": "hsla(86,20%,62%,0.57)"
+    "backgroundColor": "hsla(130,24%,48%,0.94)",
+    "color": "hsla(250,99%,98%,0.90)"
   },
   {
-    "backgroundColor": "hsla(258,23%,24%,0.99)",
-    "color": "hsla(18,98%,74%,0.45)"
+    "backgroundColor": "hsla(13,46%,82%,0.71)",
+    "color": "hsla(133,21%,32%,0.96)"
   },
   {
-    "backgroundColor": "hsla(280,41%,32%,0.99)",
-    "color": "hsla(40,16%,82%,0.46)"
+    "backgroundColor": "hsla(107,77%,45%,0.92)",
+    "color": "hsla(227,52%,95%,0.94)"
   },
   {
-    "backgroundColor": "hsla(309,91%,42%,0.86)",
-    "color": "hsla(69,66%,92%,0.57)"
+    "backgroundColor": "hsla(218,59%,50%,0.91)",
+    "color": "hsla(338,34%,0%,0.85)"
   },
   {
-    "backgroundColor": "hsla(192,43%,68%,0.96)",
-    "color": "hsla(312,18%,18%,0.52)"
+    "backgroundColor": "hsla(12,8%,28%,0.89)",
+    "color": "hsla(132,83%,78%,0.89)"
   },
   {
-    "backgroundColor": "hsla(292,75%,90%,0.96)",
-    "color": "hsla(52,50%,40%,0.42)"
+    "backgroundColor": "hsla(60,52%,27%,0.93)",
+    "color": "hsla(180,27%,77%,0.85)"
   },
   {
-    "backgroundColor": "hsla(16,37%,35%,0.95)",
-    "color": "hsla(136,12%,85%,0.54)"
+    "backgroundColor": "hsla(198,10%,62%,0.87)",
+    "color": "hsla(318,85%,12%,0.89)"
   },
   {
-    "backgroundColor": "hsla(80,50%,56%,0.79)",
-    "color": "hsla(200,25%,6%,0.40)"
+    "backgroundColor": "hsla(69,65%,77%,0.94)",
+    "color": "hsla(189,40%,27%,0.90)"
   },
   {
-    "backgroundColor": "hsla(175,52%,83%,0.95)",
-    "color": "hsla(295,27%,33%,0.57)"
+    "backgroundColor": "hsla(23,37%,16%,0.94)",
+    "color": "hsla(143,12%,66%,0.95)"
   },
   {
-    "backgroundColor": "hsla(32,46%,64%,0.94)",
-    "color": "hsla(152,21%,14%,0.57)"
+    "backgroundColor": "hsla(129,23%,18%,0.82)",
+    "color": "hsla(249,98%,68%,0.85)"
   },
   {
-    "backgroundColor": "hsla(100,60%,5%,0.97)",
-    "color": "hsla(220,35%,55%,0.54)"
+    "backgroundColor": "hsla(179,13%,50%,0.78)",
+    "color": "hsla(299,88%,0%,0.82)"
   },
   {
-    "backgroundColor": "hsla(254,32%,11%,0.85)",
-    "color": "hsla(14,7%,61%,0.41)"
+    "backgroundColor": "hsla(256,5%,11%,0.98)",
+    "color": "hsla(16,80%,61%,0.89)"
   },
   {
-    "backgroundColor": "hsla(243,91%,38%,0.75)",
-    "color": "hsla(3,66%,88%,0.51)"
+    "backgroundColor": "hsla(330,49%,90%,0.79)",
+    "color": "hsla(90,24%,40%,0.88)"
   },
   {
-    "backgroundColor": "hsla(289,41%,64%,0.71)",
-    "color": "hsla(49,16%,14%,0.41)"
+    "backgroundColor": "hsla(231,57%,36%,0.83)",
+    "color": "hsla(351,32%,86%,0.95)"
   },
   {
-    "backgroundColor": "hsla(344,67%,22%,0.86)",
-    "color": "hsla(104,42%,72%,0.44)"
+    "backgroundColor": "hsla(240,52%,27%,0.89)",
+    "color": "hsla(0,27%,77%,0.98)"
   },
   {
-    "backgroundColor": "hsla(84,90%,26%,0.87)",
-    "color": "hsla(204,65%,76%,0.54)"
+    "backgroundColor": "hsla(324,65%,62%,0.83)",
+    "color": "hsla(84,40%,12%,0.93)"
   },
   {
-    "backgroundColor": "hsla(298,96%,61%,0.90)",
-    "color": "hsla(58,71%,11%,0.53)"
+    "backgroundColor": "hsla(142,82%,50%,0.82)",
+    "color": "hsla(262,57%,0%,0.86)"
   },
   {
-    "backgroundColor": "hsla(136,36%,21%,0.96)",
-    "color": "hsla(256,11%,71%,0.43)"
+    "backgroundColor": "hsla(74,81%,59%,0.79)",
+    "color": "hsla(194,56%,9%,0.99)"
   },
   {
-    "backgroundColor": "hsla(194,8%,2%,0.94)",
-    "color": "hsla(314,83%,52%,0.48)"
+    "backgroundColor": "hsla(62,41%,95%,0.95)",
+    "color": "hsla(182,16%,45%,1.00)"
   },
   {
-    "backgroundColor": "hsla(101,94%,46%,0.92)",
-    "color": "hsla(221,69%,96%,0.54)"
+    "backgroundColor": "hsla(122,33%,15%,0.73)",
+    "color": "hsla(242,8%,65%,0.86)"
   },
   {
-    "backgroundColor": "hsla(33,72%,82%,0.92)",
-    "color": "hsla(153,47%,32%,0.43)"
+    "backgroundColor": "hsla(307,33%,78%,0.77)",
+    "color": "hsla(67,8%,28%,0.94)"
   },
   {
-    "backgroundColor": "hsla(141,99%,77%,0.73)",
-    "color": "hsla(261,74%,27%,0.49)"
+    "backgroundColor": "hsla(216,29%,41%,0.90)",
+    "color": "hsla(336,4%,91%,0.99)"
   },
   {
-    "backgroundColor": "hsla(354,43%,64%,0.80)",
-    "color": "hsla(114,18%,14%,0.41)"
+    "backgroundColor": "hsla(127,19%,23%,0.97)",
+    "color": "hsla(247,94%,73%,0.88)"
   },
   {
-    "backgroundColor": "hsla(81,29%,15%,0.81)",
-    "color": "hsla(201,4%,65%,0.47)"
+    "backgroundColor": "hsla(194,2%,5%,0.80)",
+    "color": "hsla(314,77%,55%,0.98)"
   },
   {
-    "backgroundColor": "hsla(231,85%,45%,0.84)",
-    "color": "hsla(351,60%,95%,0.50)"
+    "backgroundColor": "hsla(94,17%,74%,0.99)",
+    "color": "hsla(214,92%,24%,0.83)"
   },
   {
-    "backgroundColor": "hsla(72,8%,91%,0.95)",
-    "color": "hsla(192,83%,41%,0.46)"
+    "backgroundColor": "hsla(42,83%,93%,0.82)",
+    "color": "hsla(162,58%,43%,0.85)"
   },
   {
-    "backgroundColor": "hsla(165,79%,59%,0.81)",
-    "color": "hsla(285,54%,9%,0.40)"
+    "backgroundColor": "hsla(354,99%,65%,0.81)",
+    "color": "hsla(114,74%,15%,0.89)"
   },
   {
-    "backgroundColor": "hsla(106,61%,88%,0.76)",
-    "color": "hsla(226,36%,38%,0.58)"
+    "backgroundColor": "hsla(39,18%,51%,0.89)",
+    "color": "hsla(159,93%,1%,0.95)"
   },
   {
-    "backgroundColor": "hsla(82,1%,65%,0.92)",
-    "color": "hsla(202,76%,15%,0.58)"
+    "backgroundColor": "hsla(108,18%,98%,0.80)",
+    "color": "hsla(228,93%,48%,0.80)"
   },
   {
-    "backgroundColor": "hsla(146,85%,16%,0.71)",
-    "color": "hsla(266,60%,66%,0.55)"
+    "backgroundColor": "hsla(164,37%,86%,0.71)",
+    "color": "hsla(284,12%,36%,0.96)"
   },
   {
-    "backgroundColor": "hsla(59,68%,35%,0.89)",
-    "color": "hsla(179,43%,85%,0.40)"
+    "backgroundColor": "hsla(71,21%,4%,0.76)",
+    "color": "hsla(191,96%,54%,0.92)"
   },
   {
-    "backgroundColor": "hsla(313,30%,51%,0.81)",
-    "color": "hsla(73,5%,1%,0.45)"
+    "backgroundColor": "hsla(21,58%,5%,0.87)",
+    "color": "hsla(141,33%,55%,0.91)"
   },
   {
-    "backgroundColor": "hsla(359,31%,88%,0.92)",
-    "color": "hsla(119,6%,38%,0.56)"
+    "backgroundColor": "hsla(300,36%,10%,0.70)",
+    "color": "hsla(60,11%,60%,0.98)"
   },
   {
-    "backgroundColor": "hsla(40,94%,10%,0.96)",
-    "color": "hsla(160,69%,60%,0.55)"
+    "backgroundColor": "hsla(263,4%,93%,0.90)",
+    "color": "hsla(23,79%,43%,0.81)"
   },
   {
-    "backgroundColor": "hsla(285,39%,0%,0.91)",
-    "color": "hsla(45,14%,50%,0.45)"
+    "backgroundColor": "hsla(67,26%,20%,0.74)",
+    "color": "hsla(187,1%,70%,0.85)"
   },
   {
-    "backgroundColor": "hsla(287,55%,2%,1.00)",
-    "color": "hsla(47,30%,52%,0.56)"
+    "backgroundColor": "hsla(125,94%,6%,0.95)",
+    "color": "hsla(245,69%,56%,0.83)"
   },
   {
-    "backgroundColor": "hsla(331,88%,46%,0.70)",
-    "color": "hsla(91,63%,96%,0.59)"
+    "backgroundColor": "hsla(134,12%,57%,0.88)",
+    "color": "hsla(254,87%,7%,0.93)"
   },
   {
-    "backgroundColor": "hsla(75,89%,1%,0.70)",
-    "color": "hsla(195,64%,51%,0.47)"
+    "backgroundColor": "hsla(172,55%,67%,0.81)",
+    "color": "hsla(292,30%,17%,0.87)"
   },
   {
-    "backgroundColor": "hsla(4,46%,19%,0.99)",
-    "color": "hsla(124,21%,69%,0.56)"
+    "backgroundColor": "hsla(193,49%,16%,0.87)",
+    "color": "hsla(313,24%,66%,0.96)"
   },
   {
-    "backgroundColor": "hsla(219,29%,27%,0.78)",
-    "color": "hsla(339,4%,77%,0.52)"
+    "backgroundColor": "hsla(284,60%,43%,0.75)",
+    "color": "hsla(44,35%,93%,0.89)"
   },
   {
-    "backgroundColor": "hsla(291,66%,39%,0.86)",
-    "color": "hsla(51,41%,89%,0.48)"
+    "backgroundColor": "hsla(339,44%,60%,0.93)",
+    "color": "hsla(99,19%,10%,0.81)"
   },
   {
-    "backgroundColor": "hsla(8,42%,82%,0.99)",
-    "color": "hsla(128,17%,32%,0.47)"
+    "backgroundColor": "hsla(245,82%,50%,0.78)",
+    "color": "hsla(5,57%,0%,0.83)"
   },
   {
-    "backgroundColor": "hsla(331,4%,29%,0.73)",
-    "color": "hsla(91,79%,79%,0.47)"
+    "backgroundColor": "hsla(259,23%,83%,0.99)",
+    "color": "hsla(19,98%,33%,0.87)"
   },
   {
-    "backgroundColor": "hsla(144,3%,46%,0.92)",
-    "color": "hsla(264,78%,96%,0.49)"
+    "backgroundColor": "hsla(130,84%,80%,0.83)",
+    "color": "hsla(250,59%,30%,0.93)"
   },
   {
-    "backgroundColor": "hsla(239,27%,56%,0.85)",
-    "color": "hsla(359,2%,6%,0.54)"
+    "backgroundColor": "hsla(158,44%,56%,0.78)",
+    "color": "hsla(278,19%,6%,0.86)"
   },
   {
-    "backgroundColor": "hsla(243,94%,61%,0.81)",
-    "color": "hsla(3,69%,11%,0.59)"
+    "backgroundColor": "hsla(47,78%,52%,0.86)",
+    "color": "hsla(167,53%,2%,0.84)"
   },
   {
-    "backgroundColor": "hsla(75,52%,69%,0.81)",
-    "color": "hsla(195,27%,19%,0.48)"
+    "backgroundColor": "hsla(137,70%,31%,0.72)",
+    "color": "hsla(257,45%,81%,1.00)"
   },
   {
-    "backgroundColor": "hsla(145,5%,8%,0.82)",
-    "color": "hsla(265,80%,58%,0.53)"
+    "backgroundColor": "hsla(56,60%,27%,0.97)",
+    "color": "hsla(176,35%,77%,0.88)"
   },
   {
-    "backgroundColor": "hsla(14,12%,18%,0.77)",
-    "color": "hsla(134,87%,68%,0.45)"
+    "backgroundColor": "hsla(229,96%,2%,0.75)",
+    "color": "hsla(349,71%,52%,0.98)"
   },
   {
-    "backgroundColor": "hsla(200,57%,70%,0.87)",
-    "color": "hsla(320,32%,20%,0.46)"
+    "backgroundColor": "hsla(104,78%,22%,0.89)",
+    "color": "hsla(224,53%,72%,0.98)"
   },
   {
-    "backgroundColor": "hsla(110,82%,7%,0.88)",
-    "color": "hsla(230,57%,57%,0.46)"
+    "backgroundColor": "hsla(200,36%,62%,0.72)",
+    "color": "hsla(320,11%,12%,0.91)"
   },
   {
-    "backgroundColor": "hsla(253,93%,52%,0.75)",
-    "color": "hsla(13,68%,2%,0.50)"
+    "backgroundColor": "hsla(320,98%,50%,0.93)",
+    "color": "hsla(80,73%,0%,0.96)"
   },
   {
-    "backgroundColor": "hsla(220,15%,27%,0.93)",
-    "color": "hsla(340,90%,77%,0.44)"
+    "backgroundColor": "hsla(67,51%,12%,0.85)",
+    "color": "hsla(187,26%,62%,0.96)"
   },
   {
-    "backgroundColor": "hsla(293,11%,99%,0.78)",
-    "color": "hsla(53,86%,49%,0.54)"
+    "backgroundColor": "hsla(291,57%,55%,0.93)",
+    "color": "hsla(51,32%,5%,0.81)"
   },
   {
-    "backgroundColor": "hsla(74,91%,36%,0.86)",
-    "color": "hsla(194,66%,86%,0.53)"
+    "backgroundColor": "hsla(21,33%,35%,0.80)",
+    "color": "hsla(141,8%,85%,0.87)"
   },
   {
-    "backgroundColor": "hsla(347,62%,18%,0.87)",
-    "color": "hsla(107,37%,68%,0.47)"
+    "backgroundColor": "hsla(292,81%,66%,0.91)",
+    "color": "hsla(52,56%,16%,0.89)"
   },
   {
-    "backgroundColor": "hsla(294,85%,81%,0.87)",
-    "color": "hsla(54,60%,31%,0.51)"
+    "backgroundColor": "hsla(246,90%,17%,0.72)",
+    "color": "hsla(6,65%,67%,0.87)"
   },
   {
-    "backgroundColor": "hsla(192,63%,46%,0.86)",
-    "color": "hsla(312,38%,96%,0.43)"
+    "backgroundColor": "hsla(228,54%,46%,0.77)",
+    "color": "hsla(348,29%,96%,0.86)"
   },
   {
-    "backgroundColor": "hsla(309,88%,51%,0.92)",
-    "color": "hsla(69,63%,1%,0.57)"
+    "backgroundColor": "hsla(143,68%,97%,0.85)",
+    "color": "hsla(263,43%,47%,0.90)"
   },
   {
-    "backgroundColor": "hsla(224,95%,93%,0.92)",
-    "color": "hsla(344,70%,43%,0.56)"
+    "backgroundColor": "hsla(130,78%,66%,0.84)",
+    "color": "hsla(250,53%,16%,0.89)"
   },
   {
-    "backgroundColor": "hsla(124,6%,40%,0.77)",
-    "color": "hsla(244,81%,90%,0.57)"
+    "backgroundColor": "hsla(177,7%,76%,0.86)",
+    "color": "hsla(297,82%,26%,0.98)"
   },
   {
-    "backgroundColor": "hsla(176,59%,78%,0.94)",
-    "color": "hsla(296,34%,28%,0.44)"
+    "backgroundColor": "hsla(64,53%,42%,0.76)",
+    "color": "hsla(184,28%,92%,0.87)"
   },
   {
-    "backgroundColor": "hsla(64,49%,43%,0.73)",
-    "color": "hsla(184,24%,93%,0.50)"
+    "backgroundColor": "hsla(30,57%,35%,0.98)",
+    "color": "hsla(150,32%,85%,0.86)"
   },
   {
-    "backgroundColor": "hsla(318,90%,4%,0.99)",
-    "color": "hsla(78,65%,54%,0.44)"
+    "backgroundColor": "hsla(193,94%,38%,0.89)",
+    "color": "hsla(313,69%,88%,0.94)"
   },
   {
-    "backgroundColor": "hsla(82,72%,22%,0.81)",
-    "color": "hsla(202,47%,72%,0.51)"
+    "backgroundColor": "hsla(73,3%,50%,0.85)",
+    "color": "hsla(193,78%,0%,0.95)"
   },
   {
-    "backgroundColor": "hsla(93,63%,85%,0.95)",
-    "color": "hsla(213,38%,35%,0.46)"
+    "backgroundColor": "hsla(51,78%,24%,0.98)",
+    "color": "hsla(171,53%,74%,0.88)"
   },
   {
-    "backgroundColor": "hsla(178,52%,14%,0.92)",
-    "color": "hsla(298,27%,64%,0.47)"
+    "backgroundColor": "hsla(137,1%,76%,0.92)",
+    "color": "hsla(257,76%,26%,0.95)"
   },
   {
-    "backgroundColor": "hsla(276,18%,41%,0.98)",
-    "color": "hsla(36,93%,91%,0.49)"
+    "backgroundColor": "hsla(189,54%,18%,0.82)",
+    "color": "hsla(309,29%,68%,1.00)"
   },
   {
-    "backgroundColor": "hsla(319,0%,57%,0.80)",
-    "color": "hsla(79,75%,7%,0.49)"
+    "backgroundColor": "hsla(272,2%,56%,0.83)",
+    "color": "hsla(32,77%,6%,0.94)"
   },
   {
-    "backgroundColor": "hsla(213,17%,47%,0.86)",
-    "color": "hsla(333,92%,97%,0.53)"
+    "backgroundColor": "hsla(328,23%,81%,0.95)",
+    "color": "hsla(88,98%,31%,0.88)"
   },
   {
-    "backgroundColor": "hsla(345,38%,61%,0.99)",
-    "color": "hsla(105,13%,11%,0.48)"
+    "backgroundColor": "hsla(344,97%,16%,0.71)",
+    "color": "hsla(104,72%,66%,0.85)"
   },
   {
-    "backgroundColor": "hsla(259,32%,5%,0.82)",
-    "color": "hsla(19,7%,55%,0.48)"
+    "backgroundColor": "hsla(131,67%,39%,0.79)",
+    "color": "hsla(251,42%,89%,0.80)"
   },
   {
-    "backgroundColor": "hsla(223,26%,71%,0.73)",
-    "color": "hsla(343,1%,21%,0.43)"
+    "backgroundColor": "hsla(203,1%,24%,0.97)",
+    "color": "hsla(323,76%,74%,0.83)"
   },
   {
-    "backgroundColor": "hsla(104,42%,69%,0.77)",
-    "color": "hsla(224,17%,19%,0.59)"
+    "backgroundColor": "hsla(195,6%,19%,0.94)",
+    "color": "hsla(315,81%,69%,0.83)"
   },
   {
-    "backgroundColor": "hsla(44,56%,26%,0.95)",
-    "color": "hsla(164,31%,76%,0.58)"
+    "backgroundColor": "hsla(210,38%,40%,0.75)",
+    "color": "hsla(330,13%,90%,0.88)"
   },
   {
-    "backgroundColor": "hsla(168,39%,7%,0.88)",
-    "color": "hsla(288,14%,57%,0.44)"
+    "backgroundColor": "hsla(274,80%,8%,0.90)",
+    "color": "hsla(34,55%,58%,0.87)"
   },
   {
-    "backgroundColor": "hsla(43,46%,94%,0.78)",
-    "color": "hsla(163,21%,44%,0.41)"
+    "backgroundColor": "hsla(51,12%,67%,1.00)",
+    "color": "hsla(171,87%,17%,0.98)"
   },
   {
-    "backgroundColor": "hsla(281,67%,82%,0.88)",
-    "color": "hsla(41,42%,32%,0.44)"
+    "backgroundColor": "hsla(18,88%,80%,0.90)",
+    "color": "hsla(138,63%,30%,0.84)"
   },
   {
-    "backgroundColor": "hsla(174,66%,63%,0.99)",
-    "color": "hsla(294,41%,13%,0.50)"
+    "backgroundColor": "hsla(81,92%,72%,0.83)",
+    "color": "hsla(201,67%,22%,0.88)"
   },
   {
-    "backgroundColor": "hsla(263,38%,78%,0.87)",
-    "color": "hsla(23,13%,28%,0.60)"
+    "backgroundColor": "hsla(46,3%,51%,0.78)",
+    "color": "hsla(166,78%,1%,1.00)"
   },
   {
-    "backgroundColor": "hsla(51,56%,59%,0.87)",
-    "color": "hsla(171,31%,9%,0.59)"
+    "backgroundColor": "hsla(31,27%,4%,0.79)",
+    "color": "hsla(151,2%,54%,0.88)"
   },
   {
-    "backgroundColor": "hsla(86,82%,95%,0.98)",
-    "color": "hsla(206,57%,45%,0.49)"
+    "backgroundColor": "hsla(323,13%,19%,0.75)",
+    "color": "hsla(83,88%,69%,0.93)"
   },
   {
-    "backgroundColor": "hsla(140,80%,89%,0.92)",
-    "color": "hsla(260,55%,39%,0.43)"
+    "backgroundColor": "hsla(108,12%,44%,0.84)",
+    "color": "hsla(228,87%,94%,0.88)"
   },
   {
-    "backgroundColor": "hsla(297,67%,41%,0.80)",
-    "color": "hsla(57,42%,91%,0.52)"
+    "backgroundColor": "hsla(95,85%,38%,0.76)",
+    "color": "hsla(215,60%,88%,0.84)"
   },
   {
-    "backgroundColor": "hsla(169,88%,98%,0.93)",
-    "color": "hsla(289,63%,48%,0.44)"
+    "backgroundColor": "hsla(158,4%,6%,0.84)",
+    "color": "hsla(278,79%,56%,0.96)"
   },
   {
-    "backgroundColor": "hsla(236,75%,75%,0.73)",
-    "color": "hsla(356,50%,25%,0.59)"
+    "backgroundColor": "hsla(223,45%,36%,0.75)",
+    "color": "hsla(343,20%,86%,0.83)"
   },
   {
-    "backgroundColor": "hsla(81,82%,50%,0.77)",
-    "color": "hsla(201,57%,0%,0.57)"
+    "backgroundColor": "hsla(0,73%,35%,0.92)",
+    "color": "hsla(120,48%,85%,0.84)"
   },
   {
-    "backgroundColor": "hsla(163,31%,29%,0.74)",
-    "color": "hsla(283,6%,79%,0.52)"
+    "backgroundColor": "hsla(329,95%,90%,0.84)",
+    "color": "hsla(89,70%,40%,0.89)"
   },
   {
-    "backgroundColor": "hsla(126,72%,7%,0.97)",
-    "color": "hsla(246,47%,57%,0.52)"
+    "backgroundColor": "hsla(300,54%,89%,0.82)",
+    "color": "hsla(60,29%,39%,0.94)"
   },
   {
-    "backgroundColor": "hsla(31,12%,40%,0.74)",
-    "color": "hsla(151,87%,90%,0.45)"
+    "backgroundColor": "hsla(11,29%,14%,0.71)",
+    "color": "hsla(131,4%,64%,0.95)"
   },
   {
-    "backgroundColor": "hsla(50,45%,60%,0.94)",
-    "color": "hsla(170,20%,10%,0.57)"
+    "backgroundColor": "hsla(121,30%,6%,0.91)",
+    "color": "hsla(241,5%,56%,0.87)"
   },
   {
-    "backgroundColor": "hsla(216,5%,93%,0.95)",
-    "color": "hsla(336,80%,43%,0.52)"
+    "backgroundColor": "hsla(347,65%,98%,0.80)",
+    "color": "hsla(107,40%,48%,0.81)"
   },
   {
-    "backgroundColor": "hsla(196,2%,66%,0.72)",
-    "color": "hsla(316,77%,16%,0.43)"
+    "backgroundColor": "hsla(174,72%,57%,0.94)",
+    "color": "hsla(294,47%,7%,0.87)"
   },
   {
-    "backgroundColor": "hsla(327,95%,48%,0.84)",
-    "color": "hsla(87,70%,98%,0.59)"
+    "backgroundColor": "hsla(68,99%,73%,0.99)",
+    "color": "hsla(188,74%,23%,0.95)"
   },
   {
-    "backgroundColor": "hsla(243,64%,29%,0.78)",
-    "color": "hsla(3,39%,79%,0.50)"
+    "backgroundColor": "hsla(244,58%,16%,0.70)",
+    "color": "hsla(4,33%,66%,0.82)"
   },
   {
-    "backgroundColor": "hsla(203,82%,85%,0.73)",
-    "color": "hsla(323,57%,35%,0.52)"
+    "backgroundColor": "hsla(176,50%,49%,0.91)",
+    "color": "hsla(296,25%,99%,0.86)"
   },
   {
-    "backgroundColor": "hsla(329,89%,99%,0.96)",
-    "color": "hsla(89,64%,49%,0.56)"
+    "backgroundColor": "hsla(13,34%,4%,0.75)",
+    "color": "hsla(133,9%,54%,0.96)"
   },
   {
-    "backgroundColor": "hsla(178,96%,24%,0.94)",
-    "color": "hsla(298,71%,74%,0.48)"
+    "backgroundColor": "hsla(120,67%,67%,0.85)",
+    "color": "hsla(240,42%,17%,0.91)"
   },
   {
-    "backgroundColor": "hsla(232,40%,5%,0.87)",
-    "color": "hsla(352,15%,55%,0.48)"
+    "backgroundColor": "hsla(314,77%,3%,0.90)",
+    "color": "hsla(74,52%,53%,0.92)"
   },
   {
-    "backgroundColor": "hsla(215,81%,39%,0.90)",
-    "color": "hsla(335,56%,89%,0.46)"
+    "backgroundColor": "hsla(358,52%,96%,0.77)",
+    "color": "hsla(118,27%,46%,0.88)"
   },
   {
-    "backgroundColor": "hsla(114,55%,27%,0.96)",
-    "color": "hsla(234,30%,77%,0.58)"
+    "backgroundColor": "hsla(95,44%,19%,0.82)",
+    "color": "hsla(215,19%,69%,0.89)"
   },
   {
-    "backgroundColor": "hsla(278,82%,21%,0.92)",
-    "color": "hsla(38,57%,71%,0.43)"
+    "backgroundColor": "hsla(241,50%,10%,0.85)",
+    "color": "hsla(1,25%,60%,1.00)"
   },
   {
-    "backgroundColor": "hsla(294,64%,43%,0.97)",
-    "color": "hsla(54,39%,93%,0.43)"
+    "backgroundColor": "hsla(192,28%,49%,0.83)",
+    "color": "hsla(312,3%,99%,0.85)"
   },
   {
-    "backgroundColor": "hsla(90,18%,31%,0.76)",
-    "color": "hsla(210,93%,81%,0.41)"
+    "backgroundColor": "hsla(42,12%,11%,0.73)",
+    "color": "hsla(162,87%,61%,0.83)"
   },
   {
-    "backgroundColor": "hsla(223,19%,3%,0.71)",
-    "color": "hsla(343,94%,53%,0.43)"
+    "backgroundColor": "hsla(109,73%,94%,0.83)",
+    "color": "hsla(229,48%,44%,0.82)"
   },
   {
-    "backgroundColor": "hsla(32,99%,3%,0.98)",
-    "color": "hsla(152,74%,53%,0.41)"
+    "backgroundColor": "hsla(172,44%,65%,0.81)",
+    "color": "hsla(292,19%,15%,0.95)"
   },
   {
-    "backgroundColor": "hsla(6,53%,55%,0.73)",
-    "color": "hsla(126,28%,5%,0.42)"
+    "backgroundColor": "hsla(112,99%,86%,0.94)",
+    "color": "hsla(232,74%,36%,0.85)"
   },
   {
-    "backgroundColor": "hsla(45,8%,5%,0.82)",
-    "color": "hsla(165,83%,55%,0.43)"
+    "backgroundColor": "hsla(96,81%,82%,0.99)",
+    "color": "hsla(216,56%,32%,0.84)"
   },
   {
-    "backgroundColor": "hsla(56,30%,84%,0.79)",
-    "color": "hsla(176,5%,34%,0.51)"
+    "backgroundColor": "hsla(12,65%,20%,0.73)",
+    "color": "hsla(132,40%,70%,0.87)"
   },
   {
-    "backgroundColor": "hsla(297,7%,24%,0.97)",
-    "color": "hsla(57,82%,74%,0.44)"
+    "backgroundColor": "hsla(50,43%,93%,0.95)",
+    "color": "hsla(170,18%,43%,0.97)"
   },
   {
-    "backgroundColor": "hsla(96,63%,19%,0.79)",
-    "color": "hsla(216,38%,69%,0.48)"
+    "backgroundColor": "hsla(168,16%,68%,0.85)",
+    "color": "hsla(288,91%,18%,0.95)"
   },
   {
-    "backgroundColor": "hsla(305,53%,5%,0.88)",
-    "color": "hsla(65,28%,55%,0.50)"
+    "backgroundColor": "hsla(10,46%,5%,0.99)",
+    "color": "hsla(130,21%,55%,0.96)"
   },
   {
-    "backgroundColor": "hsla(118,38%,58%,1.00)",
-    "color": "hsla(238,13%,8%,0.41)"
+    "backgroundColor": "hsla(255,42%,99%,0.95)",
+    "color": "hsla(15,17%,49%,0.83)"
   },
   {
-    "backgroundColor": "hsla(284,55%,91%,0.81)",
-    "color": "hsla(44,30%,41%,0.40)"
+    "backgroundColor": "hsla(90,78%,57%,0.89)",
+    "color": "hsla(210,53%,7%,0.83)"
   },
   {
-    "backgroundColor": "hsla(20,15%,39%,0.85)",
-    "color": "hsla(140,90%,89%,0.43)"
+    "backgroundColor": "hsla(71,38%,40%,0.90)",
+    "color": "hsla(191,13%,90%,1.00)"
   },
   {
-    "backgroundColor": "hsla(98,68%,61%,0.89)",
-    "color": "hsla(218,43%,11%,0.54)"
+    "backgroundColor": "hsla(236,8%,97%,0.90)",
+    "color": "hsla(356,83%,47%,0.83)"
   },
   {
-    "backgroundColor": "hsla(167,49%,47%,0.75)",
-    "color": "hsla(287,24%,97%,0.43)"
+    "backgroundColor": "hsla(236,20%,88%,0.79)",
+    "color": "hsla(356,95%,38%,0.87)"
   },
   {
-    "backgroundColor": "hsla(338,2%,38%,0.80)",
-    "color": "hsla(98,77%,88%,0.58)"
+    "backgroundColor": "hsla(333,76%,45%,0.80)",
+    "color": "hsla(93,51%,95%,0.99)"
   },
   {
-    "backgroundColor": "hsla(227,33%,92%,0.89)",
-    "color": "hsla(347,8%,42%,0.59)"
+    "backgroundColor": "hsla(68,33%,1%,0.98)",
+    "color": "hsla(188,8%,51%,0.98)"
   },
   {
-    "backgroundColor": "hsla(328,12%,65%,0.80)",
-    "color": "hsla(88,87%,15%,0.42)"
+    "backgroundColor": "hsla(120,79%,40%,0.88)",
+    "color": "hsla(240,54%,90%,0.84)"
   },
   {
-    "backgroundColor": "hsla(242,10%,73%,0.75)",
-    "color": "hsla(2,85%,23%,0.46)"
+    "backgroundColor": "hsla(15,6%,21%,0.99)",
+    "color": "hsla(135,81%,71%,0.99)"
   },
   {
-    "backgroundColor": "hsla(12,53%,39%,0.98)",
-    "color": "hsla(132,28%,89%,0.47)"
+    "backgroundColor": "hsla(81,85%,65%,0.74)",
+    "color": "hsla(201,60%,15%,0.85)"
   },
   {
-    "backgroundColor": "hsla(336,96%,74%,0.95)",
-    "color": "hsla(96,71%,24%,0.56)"
+    "backgroundColor": "hsla(164,30%,57%,0.81)",
+    "color": "hsla(284,5%,7%,0.84)"
   },
   {
-    "backgroundColor": "hsla(254,37%,47%,0.97)",
-    "color": "hsla(14,12%,97%,0.58)"
+    "backgroundColor": "hsla(120,58%,45%,0.96)",
+    "color": "hsla(240,33%,95%,0.87)"
   },
   {
-    "backgroundColor": "hsla(93,2%,31%,0.74)",
-    "color": "hsla(213,77%,81%,0.50)"
+    "backgroundColor": "hsla(127,14%,11%,0.95)",
+    "color": "hsla(247,89%,61%,0.97)"
   },
   {
-    "backgroundColor": "hsla(168,99%,42%,0.76)",
-    "color": "hsla(288,74%,92%,0.43)"
+    "backgroundColor": "hsla(31,75%,35%,0.79)",
+    "color": "hsla(151,50%,85%,0.86)"
   },
   {
-    "backgroundColor": "hsla(309,54%,38%,0.72)",
-    "color": "hsla(69,29%,88%,0.41)"
+    "backgroundColor": "hsla(241,10%,30%,0.84)",
+    "color": "hsla(1,85%,80%,0.91)"
   },
   {
-    "backgroundColor": "hsla(68,17%,22%,0.91)",
-    "color": "hsla(188,92%,72%,0.55)"
+    "backgroundColor": "hsla(219,59%,39%,0.96)",
+    "color": "hsla(339,34%,89%,0.84)"
   },
   {
-    "backgroundColor": "hsla(130,33%,63%,0.76)",
-    "color": "hsla(250,8%,13%,0.44)"
+    "backgroundColor": "hsla(301,17%,6%,0.88)",
+    "color": "hsla(61,92%,56%,0.95)"
   },
   {
-    "backgroundColor": "hsla(19,41%,29%,0.81)",
-    "color": "hsla(139,16%,79%,0.53)"
+    "backgroundColor": "hsla(26,92%,64%,0.79)",
+    "color": "hsla(146,67%,14%,0.97)"
   },
   {
-    "backgroundColor": "hsla(320,45%,43%,0.87)",
-    "color": "hsla(80,20%,93%,0.41)"
+    "backgroundColor": "hsla(203,77%,9%,0.71)",
+    "color": "hsla(323,52%,59%,0.92)"
   },
   {
-    "backgroundColor": "hsla(213,70%,72%,0.76)",
-    "color": "hsla(333,45%,22%,0.43)"
+    "backgroundColor": "hsla(70,46%,82%,0.81)",
+    "color": "hsla(190,21%,32%,0.88)"
   },
   {
-    "backgroundColor": "hsla(84,75%,60%,0.96)",
-    "color": "hsla(204,50%,10%,0.59)"
+    "backgroundColor": "hsla(122,16%,43%,0.94)",
+    "color": "hsla(242,91%,93%,0.90)"
   },
   {
-    "backgroundColor": "hsla(164,67%,46%,0.78)",
-    "color": "hsla(284,42%,96%,0.56)"
+    "backgroundColor": "hsla(67,58%,21%,0.90)",
+    "color": "hsla(187,33%,71%,0.81)"
   },
   {
-    "backgroundColor": "hsla(42,27%,93%,0.92)",
-    "color": "hsla(162,2%,43%,0.53)"
+    "backgroundColor": "hsla(217,48%,7%,0.99)",
+    "color": "hsla(337,23%,57%,0.98)"
   },
   {
-    "backgroundColor": "hsla(301,48%,24%,0.99)",
-    "color": "hsla(61,23%,74%,0.50)"
+    "backgroundColor": "hsla(328,19%,62%,0.91)",
+    "color": "hsla(88,94%,12%,0.90)"
   },
   {
-    "backgroundColor": "hsla(133,23%,23%,0.93)",
-    "color": "hsla(253,98%,73%,0.52)"
+    "backgroundColor": "hsla(204,41%,49%,0.76)",
+    "color": "hsla(324,16%,99%,0.85)"
   },
   {
-    "backgroundColor": "hsla(285,85%,82%,0.78)",
-    "color": "hsla(45,60%,32%,0.40)"
+    "backgroundColor": "hsla(316,19%,53%,0.95)",
+    "color": "hsla(76,94%,3%,0.89)"
   },
   {
-    "backgroundColor": "hsla(38,71%,87%,0.97)",
-    "color": "hsla(158,46%,37%,0.60)"
+    "backgroundColor": "hsla(36,54%,63%,0.87)",
+    "color": "hsla(156,29%,13%,0.81)"
   },
   {
-    "backgroundColor": "hsla(119,32%,17%,0.83)",
-    "color": "hsla(239,7%,67%,0.56)"
+    "backgroundColor": "hsla(246,0%,78%,0.90)",
+    "color": "hsla(6,75%,28%,0.88)"
   },
   {
-    "backgroundColor": "hsla(301,52%,51%,0.92)",
-    "color": "hsla(61,27%,1%,0.43)"
+    "backgroundColor": "hsla(205,33%,28%,0.73)",
+    "color": "hsla(325,8%,78%,0.84)"
   },
   {
-    "backgroundColor": "hsla(350,14%,76%,0.75)",
-    "color": "hsla(110,89%,26%,0.47)"
+    "backgroundColor": "hsla(105,85%,40%,0.94)",
+    "color": "hsla(225,60%,90%,0.83)"
   },
   {
-    "backgroundColor": "hsla(141,13%,27%,0.92)",
-    "color": "hsla(261,88%,77%,0.51)"
+    "backgroundColor": "hsla(168,57%,79%,0.74)",
+    "color": "hsla(288,32%,29%,0.86)"
   },
   {
-    "backgroundColor": "hsla(348,53%,38%,0.78)",
-    "color": "hsla(108,28%,88%,0.47)"
+    "backgroundColor": "hsla(358,68%,73%,0.93)",
+    "color": "hsla(118,43%,23%,0.99)"
   },
   {
-    "backgroundColor": "hsla(229,86%,95%,0.98)",
-    "color": "hsla(349,61%,45%,0.43)"
+    "backgroundColor": "hsla(345,13%,14%,0.79)",
+    "color": "hsla(105,88%,64%,0.82)"
   },
   {
-    "backgroundColor": "hsla(212,25%,49%,0.77)",
-    "color": "hsla(332,0%,99%,0.53)"
+    "backgroundColor": "hsla(119,41%,46%,0.74)",
+    "color": "hsla(239,16%,96%,0.92)"
   },
   {
-    "backgroundColor": "hsla(95,53%,33%,0.98)",
-    "color": "hsla(215,28%,83%,0.43)"
+    "backgroundColor": "hsla(351,97%,74%,0.84)",
+    "color": "hsla(111,72%,24%,0.99)"
   },
   {
-    "backgroundColor": "hsla(13,46%,15%,0.98)",
-    "color": "hsla(133,21%,65%,0.46)"
+    "backgroundColor": "hsla(339,20%,47%,0.91)",
+    "color": "hsla(99,95%,97%,0.84)"
   },
   {
-    "backgroundColor": "hsla(13,77%,74%,0.88)",
-    "color": "hsla(133,52%,24%,0.56)"
+    "backgroundColor": "hsla(245,33%,77%,0.95)",
+    "color": "hsla(5,8%,27%,0.99)"
   },
   {
-    "backgroundColor": "hsla(279,55%,84%,0.80)",
-    "color": "hsla(39,30%,34%,0.57)"
+    "backgroundColor": "hsla(185,56%,14%,0.73)",
+    "color": "hsla(305,31%,64%,0.93)"
   },
   {
-    "backgroundColor": "hsla(324,46%,85%,0.91)",
-    "color": "hsla(84,21%,35%,0.41)"
+    "backgroundColor": "hsla(132,86%,4%,0.76)",
+    "color": "hsla(252,61%,54%,0.80)"
   },
   {
-    "backgroundColor": "hsla(198,15%,20%,0.76)",
-    "color": "hsla(318,90%,70%,0.47)"
+    "backgroundColor": "hsla(266,13%,34%,0.86)",
+    "color": "hsla(26,88%,84%,0.99)"
   },
   {
-    "backgroundColor": "hsla(157,55%,32%,0.82)",
-    "color": "hsla(277,30%,82%,0.44)"
+    "backgroundColor": "hsla(149,48%,70%,0.95)",
+    "color": "hsla(269,23%,20%,0.91)"
   },
   {
-    "backgroundColor": "hsla(33,80%,73%,0.71)",
-    "color": "hsla(153,55%,23%,0.59)"
+    "backgroundColor": "hsla(121,2%,33%,0.86)",
+    "color": "hsla(241,77%,83%,0.90)"
   },
   {
-    "backgroundColor": "hsla(58,74%,24%,0.84)",
-    "color": "hsla(178,49%,74%,0.44)"
+    "backgroundColor": "hsla(167,69%,11%,0.96)",
+    "color": "hsla(287,44%,61%,0.87)"
   },
   {
-    "backgroundColor": "hsla(212,30%,12%,0.73)",
-    "color": "hsla(332,5%,62%,0.44)"
+    "backgroundColor": "hsla(81,32%,81%,0.72)",
+    "color": "hsla(201,7%,31%,0.92)"
   },
   {
-    "backgroundColor": "hsla(66,71%,59%,0.81)",
-    "color": "hsla(186,46%,9%,0.43)"
+    "backgroundColor": "hsla(2,62%,21%,0.90)",
+    "color": "hsla(122,37%,71%,0.82)"
   },
   {
-    "backgroundColor": "hsla(240,14%,20%,0.82)",
-    "color": "hsla(0,89%,70%,0.44)"
+    "backgroundColor": "hsla(276,65%,87%,0.87)",
+    "color": "hsla(36,40%,37%,0.81)"
   },
   {
-    "backgroundColor": "hsla(143,71%,43%,0.92)",
-    "color": "hsla(263,46%,93%,0.43)"
+    "backgroundColor": "hsla(209,31%,7%,0.95)",
+    "color": "hsla(329,6%,57%,0.99)"
   },
   {
-    "backgroundColor": "hsla(43,96%,82%,0.85)",
-    "color": "hsla(163,71%,32%,0.54)"
+    "backgroundColor": "hsla(271,38%,82%,0.89)",
+    "color": "hsla(31,13%,32%,0.93)"
   },
   {
-    "backgroundColor": "hsla(135,44%,78%,0.77)",
-    "color": "hsla(255,19%,28%,0.54)"
+    "backgroundColor": "hsla(308,88%,75%,0.73)",
+    "color": "hsla(68,63%,25%,0.97)"
   },
   {
-    "backgroundColor": "hsla(59,94%,97%,0.77)",
-    "color": "hsla(179,69%,47%,0.49)"
+    "backgroundColor": "hsla(179,24%,96%,0.97)",
+    "color": "hsla(299,99%,46%,0.88)"
   },
   {
-    "backgroundColor": "hsla(119,63%,30%,0.99)",
-    "color": "hsla(239,38%,80%,0.49)"
+    "backgroundColor": "hsla(305,25%,3%,0.82)",
+    "color": "hsla(65,0%,53%,0.82)"
   },
   {
-    "backgroundColor": "hsla(297,44%,31%,0.75)",
-    "color": "hsla(57,19%,81%,0.40)"
+    "backgroundColor": "hsla(99,2%,2%,0.98)",
+    "color": "hsla(219,77%,52%,0.84)"
   },
   {
-    "backgroundColor": "hsla(247,9%,72%,0.93)",
-    "color": "hsla(7,84%,22%,0.41)"
+    "backgroundColor": "hsla(332,44%,62%,0.73)",
+    "color": "hsla(92,19%,12%,0.88)"
   },
   {
-    "backgroundColor": "hsla(203,83%,87%,0.73)",
-    "color": "hsla(323,58%,37%,0.57)"
+    "backgroundColor": "hsla(277,18%,17%,0.87)",
+    "color": "hsla(37,93%,67%,0.95)"
   },
   {
-    "backgroundColor": "hsla(285,80%,31%,0.75)",
-    "color": "hsla(45,55%,81%,0.56)"
+    "backgroundColor": "hsla(235,32%,7%,0.85)",
+    "color": "hsla(355,7%,57%,0.83)"
   },
   {
-    "backgroundColor": "hsla(147,0%,75%,0.76)",
-    "color": "hsla(267,75%,25%,0.42)"
+    "backgroundColor": "hsla(187,26%,21%,0.76)",
+    "color": "hsla(307,1%,71%,0.99)"
   },
   {
-    "backgroundColor": "hsla(21,10%,91%,0.73)",
-    "color": "hsla(141,85%,41%,0.45)"
+    "backgroundColor": "hsla(99,79%,46%,0.85)",
+    "color": "hsla(219,54%,96%,0.82)"
   },
   {
-    "backgroundColor": "hsla(197,87%,37%,0.91)",
-    "color": "hsla(317,62%,87%,0.46)"
+    "backgroundColor": "hsla(120,21%,47%,0.76)",
+    "color": "hsla(240,96%,97%,0.94)"
   },
   {
-    "backgroundColor": "hsla(90,74%,76%,0.99)",
-    "color": "hsla(210,49%,26%,0.43)"
+    "backgroundColor": "hsla(116,12%,19%,0.74)",
+    "color": "hsla(236,87%,69%,0.99)"
   },
   {
-    "backgroundColor": "hsla(137,92%,70%,0.81)",
-    "color": "hsla(257,67%,20%,0.54)"
+    "backgroundColor": "hsla(348,83%,50%,0.92)",
+    "color": "hsla(108,58%,0%,0.87)"
   },
   {
-    "backgroundColor": "hsla(60,19%,12%,0.76)",
-    "color": "hsla(180,94%,62%,0.56)"
+    "backgroundColor": "hsla(208,63%,29%,0.86)",
+    "color": "hsla(328,38%,79%,0.87)"
   },
   {
-    "backgroundColor": "hsla(257,76%,66%,0.89)",
-    "color": "hsla(17,51%,16%,0.51)"
+    "backgroundColor": "hsla(356,31%,19%,0.80)",
+    "color": "hsla(116,6%,69%,0.82)"
   },
   {
-    "backgroundColor": "hsla(29,86%,83%,0.83)",
-    "color": "hsla(149,61%,33%,0.54)"
+    "backgroundColor": "hsla(229,31%,3%,0.79)",
+    "color": "hsla(349,6%,53%,0.84)"
   },
   {
-    "backgroundColor": "hsla(151,46%,68%,0.71)",
-    "color": "hsla(271,21%,18%,0.57)"
+    "backgroundColor": "hsla(127,21%,64%,0.96)",
+    "color": "hsla(247,96%,14%,0.89)"
   },
   {
-    "backgroundColor": "hsla(164,13%,70%,0.72)",
-    "color": "hsla(284,88%,20%,0.54)"
+    "backgroundColor": "hsla(252,57%,46%,0.88)",
+    "color": "hsla(12,32%,96%,0.92)"
   },
   {
-    "backgroundColor": "hsla(15,78%,92%,0.97)",
-    "color": "hsla(135,53%,42%,0.49)"
+    "backgroundColor": "hsla(330,23%,97%,0.99)",
+    "color": "hsla(90,98%,47%,0.86)"
   },
   {
-    "backgroundColor": "hsla(164,73%,88%,0.75)",
-    "color": "hsla(284,48%,38%,0.52)"
+    "backgroundColor": "hsla(36,56%,22%,0.78)",
+    "color": "hsla(156,31%,72%,0.85)"
   },
   {
-    "backgroundColor": "hsla(127,77%,73%,0.81)",
-    "color": "hsla(247,52%,23%,0.45)"
+    "backgroundColor": "hsla(265,50%,96%,0.83)",
+    "color": "hsla(25,25%,46%,0.92)"
   },
   {
-    "backgroundColor": "hsla(136,45%,58%,0.88)",
-    "color": "hsla(256,20%,8%,0.44)"
+    "backgroundColor": "hsla(186,92%,49%,0.73)",
+    "color": "hsla(306,67%,99%,0.86)"
   },
   {
-    "backgroundColor": "hsla(152,14%,69%,0.90)",
-    "color": "hsla(272,89%,19%,0.60)"
+    "backgroundColor": "hsla(148,40%,9%,0.72)",
+    "color": "hsla(268,15%,59%,0.94)"
   },
   {
-    "backgroundColor": "hsla(34,40%,22%,0.98)",
-    "color": "hsla(154,15%,72%,0.51)"
+    "backgroundColor": "hsla(150,76%,92%,0.93)",
+    "color": "hsla(270,51%,42%,0.91)"
   },
   {
-    "backgroundColor": "hsla(164,50%,11%,0.83)",
-    "color": "hsla(284,25%,61%,0.57)"
+    "backgroundColor": "hsla(234,95%,89%,0.88)",
+    "color": "hsla(354,70%,39%,0.88)"
   },
   {
-    "backgroundColor": "hsla(309,42%,65%,0.71)",
-    "color": "hsla(69,17%,15%,0.59)"
+    "backgroundColor": "hsla(214,62%,83%,0.78)",
+    "color": "hsla(334,37%,33%,0.96)"
   },
   {
-    "backgroundColor": "hsla(71,28%,98%,0.79)",
-    "color": "hsla(191,3%,48%,0.53)"
+    "backgroundColor": "hsla(237,55%,25%,0.98)",
+    "color": "hsla(357,30%,75%,0.97)"
   },
   {
-    "backgroundColor": "hsla(1,79%,55%,0.89)",
-    "color": "hsla(121,54%,5%,0.51)"
+    "backgroundColor": "hsla(0,87%,84%,0.95)",
+    "color": "hsla(120,62%,34%,0.85)"
   },
   {
-    "backgroundColor": "hsla(32,30%,58%,0.87)",
-    "color": "hsla(152,5%,8%,0.52)"
+    "backgroundColor": "hsla(171,36%,38%,0.74)",
+    "color": "hsla(291,11%,88%,0.87)"
   },
   {
-    "backgroundColor": "hsla(224,1%,84%,1.00)",
-    "color": "hsla(344,76%,34%,0.60)"
+    "backgroundColor": "hsla(96,65%,63%,0.73)",
+    "color": "hsla(216,40%,13%,0.94)"
   },
   {
-    "backgroundColor": "hsla(204,71%,86%,0.89)",
-    "color": "hsla(324,46%,36%,0.59)"
+    "backgroundColor": "hsla(219,88%,73%,0.70)",
+    "color": "hsla(339,63%,23%,0.85)"
   },
   {
-    "backgroundColor": "hsla(135,39%,80%,0.77)",
-    "color": "hsla(255,14%,30%,0.56)"
+    "backgroundColor": "hsla(357,38%,25%,0.91)",
+    "color": "hsla(117,13%,75%,0.93)"
   },
   {
-    "backgroundColor": "hsla(42,28%,76%,0.85)",
-    "color": "hsla(162,3%,26%,0.41)"
+    "backgroundColor": "hsla(346,74%,86%,0.99)",
+    "color": "hsla(106,49%,36%,0.82)"
   },
   {
-    "backgroundColor": "hsla(79,93%,4%,0.86)",
-    "color": "hsla(199,68%,54%,0.52)"
+    "backgroundColor": "hsla(253,17%,81%,0.71)",
+    "color": "hsla(13,92%,31%,0.94)"
   },
   {
-    "backgroundColor": "hsla(118,23%,19%,0.91)",
-    "color": "hsla(238,98%,69%,0.56)"
+    "backgroundColor": "hsla(150,94%,6%,0.73)",
+    "color": "hsla(270,69%,56%,0.86)"
   },
   {
-    "backgroundColor": "hsla(220,8%,87%,0.78)",
-    "color": "hsla(340,83%,37%,0.50)"
+    "backgroundColor": "hsla(203,39%,37%,0.80)",
+    "color": "hsla(323,14%,87%,0.96)"
   },
   {
-    "backgroundColor": "hsla(39,17%,22%,0.80)",
-    "color": "hsla(159,92%,72%,0.55)"
+    "backgroundColor": "hsla(107,1%,95%,1.00)",
+    "color": "hsla(227,76%,45%,0.89)"
   },
   {
-    "backgroundColor": "hsla(61,40%,2%,0.95)",
-    "color": "hsla(181,15%,52%,0.55)"
+    "backgroundColor": "hsla(307,74%,95%,0.94)",
+    "color": "hsla(67,49%,45%,0.90)"
   },
   {
-    "backgroundColor": "hsla(313,72%,7%,0.85)",
-    "color": "hsla(73,47%,57%,0.58)"
+    "backgroundColor": "hsla(47,28%,76%,1.00)",
+    "color": "hsla(167,3%,26%,0.95)"
   },
   {
-    "backgroundColor": "hsla(161,66%,15%,0.89)",
-    "color": "hsla(281,41%,65%,0.57)"
+    "backgroundColor": "hsla(350,68%,44%,0.96)",
+    "color": "hsla(110,43%,94%,0.99)"
   },
   {
-    "backgroundColor": "hsla(284,73%,89%,0.78)",
-    "color": "hsla(44,48%,39%,0.52)"
+    "backgroundColor": "hsla(347,1%,53%,0.93)",
+    "color": "hsla(107,76%,3%,0.83)"
   },
   {
-    "backgroundColor": "hsla(340,42%,3%,0.72)",
-    "color": "hsla(100,17%,53%,0.60)"
+    "backgroundColor": "hsla(168,97%,24%,0.90)",
+    "color": "hsla(288,72%,74%,0.93)"
   },
   {
-    "backgroundColor": "hsla(209,28%,22%,0.78)",
-    "color": "hsla(329,3%,72%,0.56)"
+    "backgroundColor": "hsla(166,45%,3%,0.85)",
+    "color": "hsla(286,20%,53%,0.87)"
   },
   {
-    "backgroundColor": "hsla(130,88%,17%,0.94)",
-    "color": "hsla(250,63%,67%,0.41)"
+    "backgroundColor": "hsla(228,94%,71%,0.72)",
+    "color": "hsla(348,69%,21%,0.87)"
   },
   {
-    "backgroundColor": "hsla(347,14%,37%,0.73)",
-    "color": "hsla(107,89%,87%,0.56)"
+    "backgroundColor": "hsla(32,85%,66%,0.80)",
+    "color": "hsla(152,60%,16%,0.94)"
   },
   {
-    "backgroundColor": "hsla(216,18%,44%,0.82)",
-    "color": "hsla(336,93%,94%,0.47)"
+    "backgroundColor": "hsla(297,51%,78%,0.86)",
+    "color": "hsla(57,26%,28%,0.96)"
   },
   {
-    "backgroundColor": "hsla(52,39%,11%,0.92)",
-    "color": "hsla(172,14%,61%,0.59)"
+    "backgroundColor": "hsla(148,19%,91%,0.72)",
+    "color": "hsla(268,94%,41%,0.89)"
   },
   {
-    "backgroundColor": "hsla(49,70%,32%,0.90)",
-    "color": "hsla(169,45%,82%,0.50)"
+    "backgroundColor": "hsla(88,56%,79%,0.97)",
+    "color": "hsla(208,31%,29%,0.86)"
   },
   {
-    "backgroundColor": "hsla(179,20%,14%,0.97)",
-    "color": "hsla(299,95%,64%,0.48)"
+    "backgroundColor": "hsla(102,96%,47%,0.99)",
+    "color": "hsla(222,71%,97%,1.00)"
   },
   {
-    "backgroundColor": "hsla(257,40%,79%,0.78)",
-    "color": "hsla(17,15%,29%,0.50)"
+    "backgroundColor": "hsla(202,72%,5%,0.95)",
+    "color": "hsla(322,47%,55%,0.96)"
   },
   {
-    "backgroundColor": "hsla(192,26%,47%,0.98)",
-    "color": "hsla(312,1%,97%,0.43)"
+    "backgroundColor": "hsla(179,45%,98%,0.84)",
+    "color": "hsla(299,20%,48%,0.95)"
   },
   {
-    "backgroundColor": "hsla(166,9%,78%,0.77)",
-    "color": "hsla(286,84%,28%,0.55)"
+    "backgroundColor": "hsla(78,88%,13%,0.85)",
+    "color": "hsla(198,63%,63%,0.98)"
   },
   {
-    "backgroundColor": "hsla(142,18%,71%,0.99)",
-    "color": "hsla(262,93%,21%,0.50)"
+    "backgroundColor": "hsla(55,7%,12%,0.97)",
+    "color": "hsla(175,82%,62%,0.98)"
   },
   {
-    "backgroundColor": "hsla(126,64%,59%,0.84)",
-    "color": "hsla(246,39%,9%,0.58)"
+    "backgroundColor": "hsla(335,56%,61%,0.78)",
+    "color": "hsla(95,31%,11%,0.80)"
   },
   {
-    "backgroundColor": "hsla(357,56%,44%,0.85)",
-    "color": "hsla(117,31%,94%,0.55)"
+    "backgroundColor": "hsla(279,71%,96%,0.94)",
+    "color": "hsla(39,46%,46%,0.97)"
   },
   {
-    "backgroundColor": "hsla(300,36%,10%,0.86)",
-    "color": "hsla(60,11%,60%,0.59)"
+    "backgroundColor": "hsla(307,55%,8%,0.77)",
+    "color": "hsla(67,30%,58%,0.99)"
   },
   {
-    "backgroundColor": "hsla(65,9%,47%,0.95)",
-    "color": "hsla(185,84%,97%,0.52)"
+    "backgroundColor": "hsla(287,45%,17%,0.93)",
+    "color": "hsla(47,20%,67%,0.89)"
   },
   {
-    "backgroundColor": "hsla(77,99%,88%,0.88)",
-    "color": "hsla(197,74%,38%,0.42)"
+    "backgroundColor": "hsla(27,34%,21%,0.92)",
+    "color": "hsla(147,9%,71%,0.95)"
   },
   {
-    "backgroundColor": "hsla(293,27%,46%,0.82)",
-    "color": "hsla(53,2%,96%,0.52)"
+    "backgroundColor": "hsla(88,54%,88%,0.78)",
+    "color": "hsla(208,29%,38%,0.86)"
   },
   {
-    "backgroundColor": "hsla(340,41%,68%,0.87)",
-    "color": "hsla(100,16%,18%,0.52)"
+    "backgroundColor": "hsla(20,9%,31%,0.81)",
+    "color": "hsla(140,84%,81%,0.91)"
   },
   {
-    "backgroundColor": "hsla(76,75%,27%,0.88)",
-    "color": "hsla(196,50%,77%,0.42)"
+    "backgroundColor": "hsla(102,66%,71%,0.95)",
+    "color": "hsla(222,41%,21%,0.98)"
   },
   {
-    "backgroundColor": "hsla(121,75%,33%,0.75)",
-    "color": "hsla(241,50%,83%,0.58)"
+    "backgroundColor": "hsla(203,60%,70%,0.83)",
+    "color": "hsla(323,35%,20%,0.82)"
   },
   {
-    "backgroundColor": "hsla(94,80%,52%,0.83)",
-    "color": "hsla(214,55%,2%,0.50)"
+    "backgroundColor": "hsla(72,76%,32%,0.83)",
+    "color": "hsla(192,51%,82%,0.99)"
   },
   {
-    "backgroundColor": "hsla(134,33%,57%,0.88)",
-    "color": "hsla(254,8%,7%,0.44)"
+    "backgroundColor": "hsla(183,2%,19%,0.99)",
+    "color": "hsla(303,77%,69%,0.93)"
   },
   {
-    "backgroundColor": "hsla(236,26%,97%,0.83)",
-    "color": "hsla(356,1%,47%,0.47)"
+    "backgroundColor": "hsla(311,37%,53%,0.91)",
+    "color": "hsla(71,12%,3%,0.91)"
   },
   {
-    "backgroundColor": "hsla(76,33%,20%,0.93)",
-    "color": "hsla(196,8%,70%,0.42)"
+    "backgroundColor": "hsla(278,38%,35%,0.71)",
+    "color": "hsla(38,13%,85%,0.81)"
   },
   {
-    "backgroundColor": "hsla(349,58%,95%,0.77)",
-    "color": "hsla(109,33%,45%,0.60)"
+    "backgroundColor": "hsla(151,87%,75%,0.94)",
+    "color": "hsla(271,62%,25%,0.96)"
   },
   {
-    "backgroundColor": "hsla(149,55%,40%,0.97)",
-    "color": "hsla(269,30%,90%,0.46)"
+    "backgroundColor": "hsla(119,65%,7%,0.82)",
+    "color": "hsla(239,40%,57%,0.88)"
   },
   {
-    "backgroundColor": "hsla(248,0%,70%,0.78)",
-    "color": "hsla(8,75%,20%,0.42)"
+    "backgroundColor": "hsla(233,88%,51%,0.78)",
+    "color": "hsla(353,63%,1%,0.82)"
   },
   {
-    "backgroundColor": "hsla(111,59%,42%,1.00)",
-    "color": "hsla(231,34%,92%,0.53)"
+    "backgroundColor": "hsla(268,36%,33%,0.71)",
+    "color": "hsla(28,11%,83%,0.85)"
   },
   {
-    "backgroundColor": "hsla(38,24%,31%,0.85)",
-    "color": "hsla(158,99%,81%,0.54)"
+    "backgroundColor": "hsla(241,16%,71%,0.73)",
+    "color": "hsla(1,91%,21%,0.96)"
   },
   {
-    "backgroundColor": "hsla(97,86%,59%,0.89)",
-    "color": "hsla(217,61%,9%,0.50)"
+    "backgroundColor": "hsla(94,25%,94%,0.79)",
+    "color": "hsla(214,0%,44%,0.91)"
   },
   {
-    "backgroundColor": "hsla(300,17%,5%,0.93)",
-    "color": "hsla(60,92%,55%,0.56)"
+    "backgroundColor": "hsla(310,31%,13%,0.73)",
+    "color": "hsla(70,6%,63%,0.87)"
   },
   {
-    "backgroundColor": "hsla(3,9%,1%,0.86)",
-    "color": "hsla(123,84%,51%,0.49)"
+    "backgroundColor": "hsla(325,41%,65%,0.86)",
+    "color": "hsla(85,16%,15%,0.97)"
   },
   {
-    "backgroundColor": "hsla(122,71%,68%,0.89)",
-    "color": "hsla(242,46%,18%,0.42)"
+    "backgroundColor": "hsla(329,40%,5%,0.84)",
+    "color": "hsla(89,15%,55%,0.88)"
   },
   {
-    "backgroundColor": "hsla(266,42%,24%,0.98)",
-    "color": "hsla(26,17%,74%,0.52)"
+    "backgroundColor": "hsla(119,45%,62%,0.97)",
+    "color": "hsla(239,20%,12%,0.96)"
   },
   {
-    "backgroundColor": "hsla(22,88%,76%,0.76)",
-    "color": "hsla(142,63%,26%,0.41)"
+    "backgroundColor": "hsla(317,49%,59%,0.98)",
+    "color": "hsla(77,24%,9%,0.97)"
   },
   {
-    "backgroundColor": "hsla(100,9%,84%,0.76)",
-    "color": "hsla(220,84%,34%,0.43)"
+    "backgroundColor": "hsla(64,76%,28%,0.73)",
+    "color": "hsla(184,51%,78%,0.86)"
   },
   {
-    "backgroundColor": "hsla(238,68%,71%,0.90)",
-    "color": "hsla(358,43%,21%,0.40)"
+    "backgroundColor": "hsla(36,69%,19%,0.77)",
+    "color": "hsla(156,44%,69%,0.87)"
   },
   {
-    "backgroundColor": "hsla(57,0%,61%,0.81)",
-    "color": "hsla(177,75%,11%,0.60)"
+    "backgroundColor": "hsla(224,88%,48%,0.94)",
+    "color": "hsla(344,63%,98%,0.82)"
   },
   {
-    "backgroundColor": "hsla(74,63%,72%,0.99)",
-    "color": "hsla(194,38%,22%,0.53)"
+    "backgroundColor": "hsla(26,92%,14%,0.76)",
+    "color": "hsla(146,67%,64%,0.87)"
   },
   {
-    "backgroundColor": "hsla(172,33%,63%,0.96)",
-    "color": "hsla(292,8%,13%,0.54)"
+    "backgroundColor": "hsla(223,82%,1%,0.73)",
+    "color": "hsla(343,57%,51%,0.98)"
   },
   {
-    "backgroundColor": "hsla(174,66%,91%,0.90)",
-    "color": "hsla(294,41%,41%,0.50)"
+    "backgroundColor": "hsla(98,54%,23%,0.80)",
+    "color": "hsla(218,29%,73%,0.89)"
   },
   {
-    "backgroundColor": "hsla(150,42%,26%,1.00)",
-    "color": "hsla(270,17%,76%,0.54)"
+    "backgroundColor": "hsla(74,62%,37%,0.85)",
+    "color": "hsla(194,37%,87%,0.96)"
   },
   {
-    "backgroundColor": "hsla(60,12%,34%,0.80)",
-    "color": "hsla(180,87%,84%,0.49)"
+    "backgroundColor": "hsla(113,96%,43%,0.96)",
+    "color": "hsla(233,71%,93%,0.89)"
   },
   {
-    "backgroundColor": "hsla(254,44%,60%,0.72)",
-    "color": "hsla(14,19%,10%,0.52)"
+    "backgroundColor": "hsla(303,8%,52%,0.80)",
+    "color": "hsla(63,83%,2%,0.80)"
   },
   {
-    "backgroundColor": "hsla(22,13%,73%,0.71)",
-    "color": "hsla(142,88%,23%,0.52)"
+    "backgroundColor": "hsla(25,69%,83%,0.87)",
+    "color": "hsla(145,44%,33%,0.92)"
   },
   {
-    "backgroundColor": "hsla(262,29%,11%,0.77)",
-    "color": "hsla(22,4%,61%,0.53)"
+    "backgroundColor": "hsla(0,42%,75%,0.95)",
+    "color": "hsla(120,17%,25%,0.84)"
   },
   {
-    "backgroundColor": "hsla(344,2%,26%,0.84)",
-    "color": "hsla(104,77%,76%,0.47)"
+    "backgroundColor": "hsla(154,43%,31%,0.95)",
+    "color": "hsla(274,18%,81%,0.87)"
   },
   {
-    "backgroundColor": "hsla(36,45%,25%,0.72)",
-    "color": "hsla(156,20%,75%,0.52)"
+    "backgroundColor": "hsla(5,15%,70%,0.88)",
+    "color": "hsla(125,90%,20%,0.98)"
   },
   {
-    "backgroundColor": "hsla(56,56%,83%,0.86)",
-    "color": "hsla(176,31%,33%,0.44)"
+    "backgroundColor": "hsla(263,41%,10%,0.94)",
+    "color": "hsla(23,16%,60%,0.90)"
   },
   {
-    "backgroundColor": "hsla(59,62%,14%,0.92)",
-    "color": "hsla(179,37%,64%,0.40)"
+    "backgroundColor": "hsla(231,40%,59%,0.94)",
+    "color": "hsla(351,15%,9%,0.89)"
   },
   {
-    "backgroundColor": "hsla(97,92%,57%,0.95)",
-    "color": "hsla(217,67%,7%,0.42)"
+    "backgroundColor": "hsla(45,1%,54%,0.92)",
+    "color": "hsla(165,76%,4%,0.99)"
   },
   {
-    "backgroundColor": "hsla(338,97%,40%,0.77)",
-    "color": "hsla(98,72%,90%,0.54)"
+    "backgroundColor": "hsla(281,15%,93%,0.74)",
+    "color": "hsla(41,90%,43%,0.96)"
   },
   {
-    "backgroundColor": "hsla(246,13%,76%,0.89)",
-    "color": "hsla(6,88%,26%,0.59)"
+    "backgroundColor": "hsla(302,23%,23%,0.80)",
+    "color": "hsla(62,98%,73%,0.89)"
   },
   {
-    "backgroundColor": "hsla(253,61%,80%,0.87)",
-    "color": "hsla(13,36%,30%,0.59)"
+    "backgroundColor": "hsla(315,74%,93%,0.87)",
+    "color": "hsla(75,49%,43%,1.00)"
   },
   {
-    "backgroundColor": "hsla(141,86%,35%,0.70)",
-    "color": "hsla(261,61%,85%,0.59)"
+    "backgroundColor": "hsla(131,20%,5%,0.90)",
+    "color": "hsla(251,95%,55%,0.93)"
   },
   {
-    "backgroundColor": "hsla(264,61%,58%,0.92)",
-    "color": "hsla(24,36%,8%,0.41)"
+    "backgroundColor": "hsla(161,23%,1%,0.77)",
+    "color": "hsla(281,98%,51%,0.92)"
   },
   {
-    "backgroundColor": "hsla(242,21%,91%,0.85)",
-    "color": "hsla(2,96%,41%,0.58)"
+    "backgroundColor": "hsla(275,71%,70%,0.99)",
+    "color": "hsla(35,46%,20%,0.81)"
   },
   {
-    "backgroundColor": "hsla(240,87%,1%,0.88)",
-    "color": "hsla(0,62%,51%,0.54)"
+    "backgroundColor": "hsla(346,97%,56%,0.96)",
+    "color": "hsla(106,72%,6%,0.85)"
   },
   {
-    "backgroundColor": "hsla(155,82%,98%,0.76)",
-    "color": "hsla(275,57%,48%,0.57)"
+    "backgroundColor": "hsla(135,18%,10%,0.91)",
+    "color": "hsla(255,93%,60%,0.95)"
   },
   {
-    "backgroundColor": "hsla(178,66%,33%,0.83)",
-    "color": "hsla(298,41%,83%,0.55)"
+    "backgroundColor": "hsla(173,30%,95%,0.83)",
+    "color": "hsla(293,5%,45%,0.92)"
   },
   {
-    "backgroundColor": "hsla(235,72%,75%,0.99)",
-    "color": "hsla(355,47%,25%,0.47)"
+    "backgroundColor": "hsla(238,7%,27%,0.93)",
+    "color": "hsla(358,82%,77%,0.95)"
   },
   {
-    "backgroundColor": "hsla(14,56%,94%,0.72)",
-    "color": "hsla(134,31%,44%,0.51)"
+    "backgroundColor": "hsla(103,99%,83%,0.72)",
+    "color": "hsla(223,74%,33%,0.90)"
   },
   {
-    "backgroundColor": "hsla(109,44%,7%,0.73)",
-    "color": "hsla(229,19%,57%,0.41)"
+    "backgroundColor": "hsla(165,13%,97%,0.77)",
+    "color": "hsla(285,88%,47%,0.93)"
   },
   {
-    "backgroundColor": "hsla(261,47%,15%,0.76)",
-    "color": "hsla(21,22%,65%,0.58)"
+    "backgroundColor": "hsla(109,40%,33%,0.76)",
+    "color": "hsla(229,15%,83%,0.98)"
   },
   {
-    "backgroundColor": "hsla(309,90%,2%,0.82)",
-    "color": "hsla(69,65%,52%,0.58)"
+    "backgroundColor": "hsla(64,21%,54%,0.95)",
+    "color": "hsla(184,96%,4%,0.88)"
   },
   {
-    "backgroundColor": "hsla(117,34%,44%,0.71)",
-    "color": "hsla(237,9%,94%,0.49)"
+    "backgroundColor": "hsla(293,97%,64%,0.98)",
+    "color": "hsla(53,72%,14%,0.85)"
   },
   {
-    "backgroundColor": "hsla(98,85%,78%,0.86)",
-    "color": "hsla(218,60%,28%,0.48)"
+    "backgroundColor": "hsla(324,37%,75%,0.91)",
+    "color": "hsla(84,12%,25%,0.94)"
   },
   {
-    "backgroundColor": "hsla(141,57%,16%,0.78)",
-    "color": "hsla(261,32%,66%,0.43)"
+    "backgroundColor": "hsla(23,43%,64%,0.91)",
+    "color": "hsla(143,18%,14%,0.93)"
   },
   {
-    "backgroundColor": "hsla(73,35%,31%,0.97)",
-    "color": "hsla(193,10%,81%,0.49)"
+    "backgroundColor": "hsla(285,97%,99%,0.97)",
+    "color": "hsla(45,72%,49%,0.91)"
   },
   {
-    "backgroundColor": "hsla(133,1%,59%,0.76)",
-    "color": "hsla(253,76%,9%,0.44)"
+    "backgroundColor": "hsla(210,86%,65%,0.99)",
+    "color": "hsla(330,61%,15%,0.83)"
   },
   {
-    "backgroundColor": "hsla(125,53%,29%,0.96)",
-    "color": "hsla(245,28%,79%,0.53)"
+    "backgroundColor": "hsla(163,73%,97%,0.96)",
+    "color": "hsla(283,48%,47%,1.00)"
   },
   {
-    "backgroundColor": "hsla(212,54%,59%,0.78)",
-    "color": "hsla(332,29%,9%,0.47)"
+    "backgroundColor": "hsla(324,47%,4%,0.76)",
+    "color": "hsla(84,22%,54%,0.96)"
   },
   {
-    "backgroundColor": "hsla(218,54%,91%,0.90)",
-    "color": "hsla(338,29%,41%,0.55)"
+    "backgroundColor": "hsla(133,21%,28%,0.83)",
+    "color": "hsla(253,96%,78%,0.98)"
   },
   {
-    "backgroundColor": "hsla(160,56%,41%,0.71)",
-    "color": "hsla(280,31%,91%,0.57)"
+    "backgroundColor": "hsla(231,76%,13%,0.78)",
+    "color": "hsla(351,51%,63%,0.94)"
   },
   {
-    "backgroundColor": "hsla(272,73%,63%,0.93)",
-    "color": "hsla(32,48%,13%,0.47)"
+    "backgroundColor": "hsla(190,91%,97%,0.95)",
+    "color": "hsla(310,66%,47%,0.90)"
   },
   {
-    "backgroundColor": "hsla(92,10%,86%,0.77)",
-    "color": "hsla(212,85%,36%,0.54)"
+    "backgroundColor": "hsla(133,10%,66%,0.77)",
+    "color": "hsla(253,85%,16%,0.94)"
   },
   {
-    "backgroundColor": "hsla(298,17%,39%,0.77)",
-    "color": "hsla(58,92%,89%,0.52)"
+    "backgroundColor": "hsla(271,26%,56%,0.94)",
+    "color": "hsla(31,1%,6%,0.91)"
   },
   {
-    "backgroundColor": "hsla(280,74%,52%,0.80)",
-    "color": "hsla(40,49%,2%,0.48)"
+    "backgroundColor": "hsla(253,70%,89%,0.76)",
+    "color": "hsla(13,45%,39%,0.92)"
   },
   {
-    "backgroundColor": "hsla(168,97%,70%,0.93)",
-    "color": "hsla(288,72%,20%,0.59)"
+    "backgroundColor": "hsla(25,53%,65%,1.00)",
+    "color": "hsla(145,28%,15%,0.98)"
   },
   {
-    "backgroundColor": "hsla(325,45%,31%,0.72)",
-    "color": "hsla(85,20%,81%,0.52)"
+    "backgroundColor": "hsla(85,35%,16%,0.91)",
+    "color": "hsla(205,10%,66%,0.99)"
   },
   {
-    "backgroundColor": "hsla(312,76%,89%,0.87)",
-    "color": "hsla(72,51%,39%,0.54)"
+    "backgroundColor": "hsla(327,99%,53%,0.82)",
+    "color": "hsla(87,74%,3%,0.93)"
   },
   {
-    "backgroundColor": "hsla(81,64%,85%,0.92)",
-    "color": "hsla(201,39%,35%,0.43)"
+    "backgroundColor": "hsla(242,29%,12%,0.90)",
+    "color": "hsla(2,4%,62%,0.94)"
   },
   {
-    "backgroundColor": "hsla(153,10%,1%,0.92)",
-    "color": "hsla(273,85%,51%,0.53)"
+    "backgroundColor": "hsla(63,67%,81%,0.81)",
+    "color": "hsla(183,42%,31%,0.89)"
   },
   {
-    "backgroundColor": "hsla(326,62%,40%,0.99)",
-    "color": "hsla(86,37%,90%,0.49)"
+    "backgroundColor": "hsla(37,34%,26%,0.91)",
+    "color": "hsla(157,9%,76%,0.82)"
   },
   {
-    "backgroundColor": "hsla(174,93%,38%,0.90)",
-    "color": "hsla(294,68%,88%,0.41)"
+    "backgroundColor": "hsla(164,47%,78%,0.92)",
+    "color": "hsla(284,22%,28%,0.89)"
   },
   {
-    "backgroundColor": "hsla(348,5%,97%,0.75)",
-    "color": "hsla(108,80%,47%,0.51)"
+    "backgroundColor": "hsla(34,75%,28%,0.78)",
+    "color": "hsla(154,50%,78%,0.92)"
   },
   {
-    "backgroundColor": "hsla(53,99%,42%,0.81)",
-    "color": "hsla(173,74%,92%,0.48)"
+    "backgroundColor": "hsla(161,51%,20%,0.86)",
+    "color": "hsla(281,26%,70%,0.98)"
   },
   {
-    "backgroundColor": "hsla(11,28%,46%,0.97)",
-    "color": "hsla(131,3%,96%,0.54)"
+    "backgroundColor": "hsla(15,35%,89%,0.85)",
+    "color": "hsla(135,10%,39%,0.99)"
   },
   {
-    "backgroundColor": "hsla(280,53%,57%,0.77)",
-    "color": "hsla(40,28%,7%,0.57)"
+    "backgroundColor": "hsla(57,75%,57%,0.70)",
+    "color": "hsla(177,50%,7%,0.84)"
   },
   {
-    "backgroundColor": "hsla(115,30%,92%,0.94)",
-    "color": "hsla(235,5%,42%,0.52)"
+    "backgroundColor": "hsla(200,14%,34%,0.79)",
+    "color": "hsla(320,89%,84%,1.00)"
   },
   {
-    "backgroundColor": "hsla(282,70%,88%,0.82)",
-    "color": "hsla(42,45%,38%,0.59)"
+    "backgroundColor": "hsla(234,15%,31%,0.96)",
+    "color": "hsla(354,90%,81%,0.84)"
   },
   {
-    "backgroundColor": "hsla(49,84%,57%,0.74)",
-    "color": "hsla(169,59%,7%,0.45)"
+    "backgroundColor": "hsla(108,56%,45%,0.91)",
+    "color": "hsla(228,31%,95%,0.81)"
   },
   {
-    "backgroundColor": "hsla(183,6%,56%,0.75)",
-    "color": "hsla(303,81%,6%,0.58)"
+    "backgroundColor": "hsla(17,49%,55%,0.84)",
+    "color": "hsla(137,24%,5%,0.86)"
   },
   {
-    "backgroundColor": "hsla(70,90%,69%,0.74)",
-    "color": "hsla(190,65%,19%,0.46)"
+    "backgroundColor": "hsla(346,63%,42%,0.78)",
+    "color": "hsla(106,38%,92%,0.98)"
   },
   {
-    "backgroundColor": "hsla(78,77%,15%,0.83)",
-    "color": "hsla(198,52%,65%,0.57)"
+    "backgroundColor": "hsla(88,32%,1%,0.96)",
+    "color": "hsla(208,7%,51%,0.82)"
   },
   {
-    "backgroundColor": "hsla(329,63%,47%,0.80)",
-    "color": "hsla(89,38%,97%,0.52)"
+    "backgroundColor": "hsla(21,44%,28%,0.74)",
+    "color": "hsla(141,19%,78%,0.84)"
   },
   {
-    "backgroundColor": "hsla(344,89%,98%,0.75)",
-    "color": "hsla(104,64%,48%,0.45)"
+    "backgroundColor": "hsla(315,11%,95%,0.71)",
+    "color": "hsla(75,86%,45%,0.88)"
   },
   {
-    "backgroundColor": "hsla(297,98%,91%,0.98)",
-    "color": "hsla(57,73%,41%,0.55)"
+    "backgroundColor": "hsla(49,19%,24%,0.82)",
+    "color": "hsla(169,94%,74%,0.83)"
   },
   {
-    "backgroundColor": "hsla(301,19%,17%,0.83)",
-    "color": "hsla(61,94%,67%,0.51)"
+    "backgroundColor": "hsla(76,1%,98%,0.96)",
+    "color": "hsla(196,76%,48%,0.84)"
   },
   {
-    "backgroundColor": "hsla(67,82%,45%,0.88)",
-    "color": "hsla(187,57%,95%,0.55)"
+    "backgroundColor": "hsla(263,0%,18%,0.77)",
+    "color": "hsla(23,75%,68%,0.94)"
   },
   {
-    "backgroundColor": "hsla(158,77%,42%,0.98)",
-    "color": "hsla(278,52%,92%,0.58)"
+    "backgroundColor": "hsla(73,89%,23%,0.90)",
+    "color": "hsla(193,64%,73%,0.84)"
   },
   {
-    "backgroundColor": "hsla(152,47%,38%,0.70)",
-    "color": "hsla(272,22%,88%,0.45)"
+    "backgroundColor": "hsla(224,4%,84%,0.72)",
+    "color": "hsla(344,79%,34%,0.93)"
   },
   {
-    "backgroundColor": "hsla(329,56%,6%,0.93)",
-    "color": "hsla(89,31%,56%,0.44)"
+    "backgroundColor": "hsla(236,51%,79%,0.77)",
+    "color": "hsla(356,26%,29%,0.80)"
   },
   {
-    "backgroundColor": "hsla(46,60%,5%,0.95)",
-    "color": "hsla(166,35%,55%,0.42)"
+    "backgroundColor": "hsla(264,19%,69%,0.86)",
+    "color": "hsla(24,94%,19%,0.99)"
   },
   {
-    "backgroundColor": "hsla(346,16%,32%,0.81)",
-    "color": "hsla(106,91%,82%,0.49)"
+    "backgroundColor": "hsla(181,25%,31%,0.74)",
+    "color": "hsla(301,0%,81%,0.80)"
   },
   {
-    "backgroundColor": "hsla(109,47%,51%,0.72)",
-    "color": "hsla(229,22%,1%,0.49)"
+    "backgroundColor": "hsla(97,62%,44%,0.99)",
+    "color": "hsla(217,37%,94%,0.83)"
   },
   {
-    "backgroundColor": "hsla(186,14%,92%,0.87)",
-    "color": "hsla(306,89%,42%,0.48)"
+    "backgroundColor": "hsla(224,97%,97%,0.75)",
+    "color": "hsla(344,72%,47%,0.86)"
   },
   {
-    "backgroundColor": "hsla(121,43%,72%,0.80)",
-    "color": "hsla(241,18%,22%,0.42)"
+    "backgroundColor": "hsla(126,90%,18%,0.79)",
+    "color": "hsla(246,65%,68%,0.84)"
   },
   {
-    "backgroundColor": "hsla(101,24%,74%,0.75)",
-    "color": "hsla(221,99%,24%,0.49)"
+    "backgroundColor": "hsla(173,32%,63%,0.95)",
+    "color": "hsla(293,7%,13%,0.86)"
   },
   {
-    "backgroundColor": "hsla(212,95%,87%,0.86)",
-    "color": "hsla(332,70%,37%,0.58)"
+    "backgroundColor": "hsla(325,91%,37%,0.88)",
+    "color": "hsla(85,66%,87%,0.88)"
   },
   {
-    "backgroundColor": "hsla(167,19%,61%,0.71)",
-    "color": "hsla(287,94%,11%,0.48)"
+    "backgroundColor": "hsla(160,94%,26%,0.70)",
+    "color": "hsla(280,69%,76%,0.89)"
   },
   {
-    "backgroundColor": "hsla(168,81%,59%,0.86)",
-    "color": "hsla(288,56%,9%,0.47)"
+    "backgroundColor": "hsla(293,39%,37%,0.96)",
+    "color": "hsla(53,14%,87%,0.87)"
   },
   {
-    "backgroundColor": "hsla(50,18%,22%,0.97)",
-    "color": "hsla(170,93%,72%,0.40)"
+    "backgroundColor": "hsla(116,26%,69%,0.70)",
+    "color": "hsla(236,1%,19%,0.96)"
   },
   {
-    "backgroundColor": "hsla(180,88%,11%,0.90)",
-    "color": "hsla(300,63%,61%,0.51)"
+    "backgroundColor": "hsla(15,66%,37%,0.79)",
+    "color": "hsla(135,41%,87%,0.84)"
   },
   {
-    "backgroundColor": "hsla(201,52%,86%,0.77)",
-    "color": "hsla(321,27%,36%,0.41)"
+    "backgroundColor": "hsla(317,86%,30%,0.99)",
+    "color": "hsla(77,61%,80%,0.99)"
   },
   {
-    "backgroundColor": "hsla(147,54%,6%,0.71)",
-    "color": "hsla(267,29%,56%,0.42)"
+    "backgroundColor": "hsla(78,84%,67%,0.95)",
+    "color": "hsla(198,59%,17%,0.82)"
   },
   {
-    "backgroundColor": "hsla(311,9%,19%,0.88)",
-    "color": "hsla(71,84%,69%,0.43)"
+    "backgroundColor": "hsla(110,55%,3%,0.76)",
+    "color": "hsla(230,30%,53%,0.80)"
   },
   {
-    "backgroundColor": "hsla(193,87%,73%,0.84)",
-    "color": "hsla(313,62%,23%,0.46)"
+    "backgroundColor": "hsla(74,99%,9%,1.00)",
+    "color": "hsla(194,74%,59%,0.90)"
   },
   {
-    "backgroundColor": "hsla(182,61%,87%,0.77)",
-    "color": "hsla(302,36%,37%,0.46)"
+    "backgroundColor": "hsla(166,23%,35%,0.89)",
+    "color": "hsla(286,98%,85%,0.83)"
   },
   {
-    "backgroundColor": "hsla(245,21%,38%,0.93)",
-    "color": "hsla(5,96%,88%,0.45)"
+    "backgroundColor": "hsla(320,50%,23%,0.84)",
+    "color": "hsla(80,25%,73%,0.97)"
   },
   {
-    "backgroundColor": "hsla(10,44%,27%,0.72)",
-    "color": "hsla(130,19%,77%,0.51)"
+    "backgroundColor": "hsla(78,6%,34%,0.96)",
+    "color": "hsla(198,81%,84%,0.93)"
   },
   {
-    "backgroundColor": "hsla(250,98%,26%,0.78)",
-    "color": "hsla(10,73%,76%,0.55)"
+    "backgroundColor": "hsla(21,89%,44%,0.78)",
+    "color": "hsla(141,64%,94%,0.98)"
   },
   {
-    "backgroundColor": "hsla(59,86%,5%,0.94)",
-    "color": "hsla(179,61%,55%,0.45)"
+    "backgroundColor": "hsla(153,46%,2%,0.80)",
+    "color": "hsla(273,21%,52%,0.95)"
   },
   {
-    "backgroundColor": "hsla(272,81%,48%,0.75)",
-    "color": "hsla(32,56%,98%,0.49)"
+    "backgroundColor": "hsla(345,67%,77%,0.90)",
+    "color": "hsla(105,42%,27%,0.94)"
   },
   {
-    "backgroundColor": "hsla(121,37%,71%,0.81)",
-    "color": "hsla(241,12%,21%,0.55)"
+    "backgroundColor": "hsla(38,88%,86%,0.98)",
+    "color": "hsla(158,63%,36%,0.81)"
   },
   {
-    "backgroundColor": "hsla(42,72%,60%,0.83)",
-    "color": "hsla(162,47%,10%,0.51)"
+    "backgroundColor": "hsla(327,55%,14%,0.78)",
+    "color": "hsla(87,30%,64%,0.92)"
   },
   {
-    "backgroundColor": "hsla(47,76%,93%,0.83)",
-    "color": "hsla(167,51%,43%,0.55)"
+    "backgroundColor": "hsla(223,14%,84%,0.91)",
+    "color": "hsla(343,89%,34%,0.82)"
   },
   {
-    "backgroundColor": "hsla(223,94%,72%,0.77)",
-    "color": "hsla(343,69%,22%,0.56)"
+    "backgroundColor": "hsla(28,95%,92%,0.95)",
+    "color": "hsla(148,70%,42%,1.00)"
   },
   {
-    "backgroundColor": "hsla(113,15%,34%,0.89)",
-    "color": "hsla(233,90%,84%,0.50)"
+    "backgroundColor": "hsla(37,35%,35%,0.73)",
+    "color": "hsla(157,10%,85%,0.83)"
   },
   {
-    "backgroundColor": "hsla(328,35%,17%,0.81)",
-    "color": "hsla(88,10%,67%,0.44)"
+    "backgroundColor": "hsla(200,66%,78%,0.76)",
+    "color": "hsla(320,41%,28%,0.83)"
   },
   {
-    "backgroundColor": "hsla(0,45%,77%,0.87)",
-    "color": "hsla(120,20%,27%,0.45)"
+    "backgroundColor": "hsla(44,4%,21%,0.75)",
+    "color": "hsla(164,79%,71%,0.84)"
   },
   {
-    "backgroundColor": "hsla(216,16%,49%,0.91)",
-    "color": "hsla(336,91%,99%,0.48)"
+    "backgroundColor": "hsla(196,48%,72%,0.71)",
+    "color": "hsla(316,23%,22%,0.91)"
   },
   {
-    "backgroundColor": "hsla(113,53%,62%,0.79)",
-    "color": "hsla(233,28%,12%,0.41)"
+    "backgroundColor": "hsla(149,35%,96%,0.91)",
+    "color": "hsla(269,10%,46%,0.96)"
   },
   {
-    "backgroundColor": "hsla(12,8%,29%,0.83)",
-    "color": "hsla(132,83%,79%,0.54)"
+    "backgroundColor": "hsla(1,28%,4%,0.75)",
+    "color": "hsla(121,3%,54%,0.90)"
   },
   {
-    "backgroundColor": "hsla(242,53%,0%,0.90)",
-    "color": "hsla(2,28%,50%,0.59)"
+    "backgroundColor": "hsla(192,56%,49%,0.94)",
+    "color": "hsla(312,31%,99%,0.90)"
   },
   {
-    "backgroundColor": "hsla(170,76%,66%,0.91)",
-    "color": "hsla(290,51%,16%,0.49)"
+    "backgroundColor": "hsla(215,40%,63%,0.99)",
+    "color": "hsla(335,15%,13%,0.95)"
   },
   {
-    "backgroundColor": "hsla(27,87%,29%,0.96)",
-    "color": "hsla(147,62%,79%,0.50)"
+    "backgroundColor": "hsla(246,48%,83%,0.83)",
+    "color": "hsla(6,23%,33%,0.96)"
   },
   {
-    "backgroundColor": "hsla(185,81%,26%,0.80)",
-    "color": "hsla(305,56%,76%,0.48)"
+    "backgroundColor": "hsla(323,21%,47%,0.83)",
+    "color": "hsla(83,96%,97%,0.98)"
   },
   {
-    "backgroundColor": "hsla(104,42%,62%,0.92)",
-    "color": "hsla(224,17%,12%,0.49)"
+    "backgroundColor": "hsla(224,59%,50%,0.93)",
+    "color": "hsla(344,34%,0%,0.90)"
   },
   {
-    "backgroundColor": "hsla(316,29%,27%,0.94)",
-    "color": "hsla(76,4%,77%,0.41)"
+    "backgroundColor": "hsla(128,50%,62%,0.71)",
+    "color": "hsla(248,25%,12%,0.91)"
   },
   {
-    "backgroundColor": "hsla(285,58%,3%,0.85)",
-    "color": "hsla(45,33%,53%,0.49)"
+    "backgroundColor": "hsla(238,39%,0%,0.91)",
+    "color": "hsla(358,14%,50%,0.82)"
   },
   {
-    "backgroundColor": "hsla(32,11%,65%,0.82)",
-    "color": "hsla(152,86%,15%,0.48)"
+    "backgroundColor": "hsla(174,4%,23%,0.71)",
+    "color": "hsla(294,79%,73%,0.95)"
   },
   {
-    "backgroundColor": "hsla(121,17%,37%,0.77)",
-    "color": "hsla(241,92%,87%,0.52)"
+    "backgroundColor": "hsla(34,74%,93%,0.77)",
+    "color": "hsla(154,49%,43%,0.82)"
   },
   {
-    "backgroundColor": "hsla(316,61%,51%,0.74)",
-    "color": "hsla(76,36%,1%,0.46)"
+    "backgroundColor": "hsla(30,53%,66%,0.82)",
+    "color": "hsla(150,28%,16%,0.90)"
   },
   {
-    "backgroundColor": "hsla(53,96%,12%,0.83)",
-    "color": "hsla(173,71%,62%,0.51)"
+    "backgroundColor": "hsla(159,82%,9%,0.82)",
+    "color": "hsla(279,57%,59%,0.92)"
   },
   {
-    "backgroundColor": "hsla(310,26%,86%,0.98)",
-    "color": "hsla(70,1%,36%,0.55)"
+    "backgroundColor": "hsla(131,77%,87%,0.79)",
+    "color": "hsla(251,52%,37%,0.88)"
   },
   {
-    "backgroundColor": "hsla(28,21%,22%,0.91)",
-    "color": "hsla(148,96%,72%,0.51)"
+    "backgroundColor": "hsla(8,9%,66%,0.90)",
+    "color": "hsla(128,84%,16%,0.94)"
   },
   {
-    "backgroundColor": "hsla(344,43%,82%,0.87)",
-    "color": "hsla(104,18%,32%,0.49)"
+    "backgroundColor": "hsla(215,51%,3%,0.97)",
+    "color": "hsla(335,26%,53%,0.85)"
   },
   {
-    "backgroundColor": "hsla(234,28%,12%,0.90)",
-    "color": "hsla(354,3%,62%,0.59)"
+    "backgroundColor": "hsla(341,36%,82%,0.98)",
+    "color": "hsla(101,11%,32%,0.98)"
   },
   {
-    "backgroundColor": "hsla(106,71%,1%,0.77)",
-    "color": "hsla(226,46%,51%,0.53)"
+    "backgroundColor": "hsla(139,92%,79%,0.88)",
+    "color": "hsla(259,67%,29%,0.86)"
   },
   {
-    "backgroundColor": "hsla(352,21%,13%,0.77)",
-    "color": "hsla(112,96%,63%,0.52)"
+    "backgroundColor": "hsla(154,94%,72%,0.90)",
+    "color": "hsla(274,69%,22%,0.94)"
   },
   {
-    "backgroundColor": "hsla(242,20%,46%,0.77)",
-    "color": "hsla(2,95%,96%,0.58)"
+    "backgroundColor": "hsla(129,2%,15%,0.87)",
+    "color": "hsla(249,77%,65%,0.82)"
   },
   {
-    "backgroundColor": "hsla(231,39%,74%,0.81)",
-    "color": "hsla(351,14%,24%,0.49)"
+    "backgroundColor": "hsla(101,2%,57%,0.89)",
+    "color": "hsla(221,77%,7%,0.81)"
   },
   {
-    "backgroundColor": "hsla(325,84%,56%,0.90)",
-    "color": "hsla(85,59%,6%,0.45)"
+    "backgroundColor": "hsla(237,47%,0%,0.79)",
+    "color": "hsla(357,22%,50%,0.88)"
   },
   {
-    "backgroundColor": "hsla(352,71%,87%,0.91)",
-    "color": "hsla(112,46%,37%,0.60)"
+    "backgroundColor": "hsla(140,18%,20%,0.73)",
+    "color": "hsla(260,93%,70%,0.86)"
   },
   {
-    "backgroundColor": "hsla(158,60%,73%,0.86)",
-    "color": "hsla(278,35%,23%,0.50)"
+    "backgroundColor": "hsla(54,13%,99%,0.85)",
+    "color": "hsla(174,88%,49%,0.97)"
   },
   {
-    "backgroundColor": "hsla(125,61%,81%,0.81)",
-    "color": "hsla(245,36%,31%,0.47)"
+    "backgroundColor": "hsla(167,44%,25%,0.79)",
+    "color": "hsla(287,19%,75%,0.98)"
   },
   {
-    "backgroundColor": "hsla(338,8%,94%,0.82)",
-    "color": "hsla(98,83%,44%,0.60)"
+    "backgroundColor": "hsla(243,3%,70%,0.82)",
+    "color": "hsla(3,78%,20%,0.86)"
   },
   {
-    "backgroundColor": "hsla(105,77%,17%,0.88)",
-    "color": "hsla(225,52%,67%,0.44)"
+    "backgroundColor": "hsla(267,18%,90%,0.92)",
+    "color": "hsla(27,93%,40%,0.96)"
   },
   {
-    "backgroundColor": "hsla(308,72%,30%,0.87)",
-    "color": "hsla(68,47%,80%,0.40)"
+    "backgroundColor": "hsla(347,49%,38%,0.77)",
+    "color": "hsla(107,24%,88%,0.94)"
   },
   {
-    "backgroundColor": "hsla(224,48%,49%,0.88)",
-    "color": "hsla(344,23%,99%,0.42)"
+    "backgroundColor": "hsla(150,29%,75%,0.88)",
+    "color": "hsla(270,4%,25%,0.88)"
   },
   {
-    "backgroundColor": "hsla(201,62%,1%,0.77)",
-    "color": "hsla(321,37%,51%,0.54)"
+    "backgroundColor": "hsla(163,61%,10%,0.97)",
+    "color": "hsla(283,36%,60%,0.82)"
   },
   {
-    "backgroundColor": "hsla(343,25%,61%,0.90)",
-    "color": "hsla(103,0%,11%,0.53)"
+    "backgroundColor": "hsla(78,12%,26%,0.87)",
+    "color": "hsla(198,87%,76%,0.87)"
   },
   {
-    "backgroundColor": "hsla(135,63%,84%,0.90)",
-    "color": "hsla(255,38%,34%,0.50)"
+    "backgroundColor": "hsla(265,42%,5%,0.72)",
+    "color": "hsla(25,17%,55%,0.81)"
   },
   {
-    "backgroundColor": "hsla(325,15%,28%,0.99)",
-    "color": "hsla(85,90%,78%,0.50)"
+    "backgroundColor": "hsla(66,98%,15%,0.95)",
+    "color": "hsla(186,73%,65%,0.96)"
   },
   {
-    "backgroundColor": "hsla(215,16%,20%,0.99)",
-    "color": "hsla(335,91%,70%,0.54)"
+    "backgroundColor": "hsla(308,22%,49%,0.77)",
+    "color": "hsla(68,97%,99%,0.92)"
   },
   {
-    "backgroundColor": "hsla(162,95%,68%,1.00)",
-    "color": "hsla(282,70%,18%,0.40)"
+    "backgroundColor": "hsla(283,58%,26%,0.77)",
+    "color": "hsla(43,33%,76%,0.91)"
   },
   {
-    "backgroundColor": "hsla(153,0%,48%,0.85)",
-    "color": "hsla(273,75%,98%,0.50)"
+    "backgroundColor": "hsla(255,71%,37%,0.92)",
+    "color": "hsla(15,46%,87%,0.81)"
   },
   {
-    "backgroundColor": "hsla(255,31%,75%,0.90)",
-    "color": "hsla(15,6%,25%,0.47)"
+    "backgroundColor": "hsla(148,80%,49%,0.84)",
+    "color": "hsla(268,55%,99%,0.91)"
   },
   {
-    "backgroundColor": "hsla(16,27%,72%,0.77)",
-    "color": "hsla(136,2%,22%,0.45)"
+    "backgroundColor": "hsla(97,20%,52%,0.94)",
+    "color": "hsla(217,95%,2%,0.93)"
   },
   {
-    "backgroundColor": "hsla(83,15%,88%,0.96)",
-    "color": "hsla(203,90%,38%,0.40)"
+    "backgroundColor": "hsla(192,12%,79%,0.88)",
+    "color": "hsla(312,87%,29%,0.92)"
   },
   {
-    "backgroundColor": "hsla(214,36%,34%,0.88)",
-    "color": "hsla(334,11%,84%,0.52)"
+    "backgroundColor": "hsla(55,62%,41%,0.84)",
+    "color": "hsla(175,37%,91%,0.90)"
   },
   {
-    "backgroundColor": "hsla(357,21%,29%,0.98)",
-    "color": "hsla(117,96%,79%,0.53)"
+    "backgroundColor": "hsla(117,71%,68%,0.83)",
+    "color": "hsla(237,46%,18%,0.94)"
   },
   {
-    "backgroundColor": "hsla(194,60%,32%,0.85)",
-    "color": "hsla(314,35%,82%,0.51)"
+    "backgroundColor": "hsla(271,51%,55%,0.80)",
+    "color": "hsla(31,26%,5%,0.90)"
   },
   {
-    "backgroundColor": "hsla(183,90%,99%,0.80)",
-    "color": "hsla(303,65%,49%,0.49)"
+    "backgroundColor": "hsla(118,34%,68%,0.90)",
+    "color": "hsla(238,9%,18%,0.89)"
   },
   {
-    "backgroundColor": "hsla(132,7%,75%,0.83)",
-    "color": "hsla(252,82%,25%,0.46)"
+    "backgroundColor": "hsla(310,50%,54%,0.75)",
+    "color": "hsla(70,25%,4%,0.94)"
   },
   {
-    "backgroundColor": "hsla(113,90%,13%,1.00)",
-    "color": "hsla(233,65%,63%,0.58)"
+    "backgroundColor": "hsla(258,3%,42%,0.95)",
+    "color": "hsla(18,78%,92%,0.81)"
   },
   {
-    "backgroundColor": "hsla(340,29%,1%,0.92)",
-    "color": "hsla(100,4%,51%,0.55)"
+    "backgroundColor": "hsla(151,59%,54%,0.96)",
+    "color": "hsla(271,34%,4%,0.92)"
   },
   {
-    "backgroundColor": "hsla(116,56%,82%,0.87)",
-    "color": "hsla(236,31%,32%,0.43)"
+    "backgroundColor": "hsla(187,60%,83%,0.81)",
+    "color": "hsla(307,35%,33%,1.00)"
   },
   {
-    "backgroundColor": "hsla(300,59%,11%,0.97)",
-    "color": "hsla(60,34%,61%,0.43)"
+    "backgroundColor": "hsla(200,9%,67%,0.90)",
+    "color": "hsla(320,84%,17%,0.83)"
   },
   {
-    "backgroundColor": "hsla(188,16%,11%,0.80)",
-    "color": "hsla(308,91%,61%,0.58)"
+    "backgroundColor": "hsla(125,70%,79%,0.89)",
+    "color": "hsla(245,45%,29%,0.92)"
   },
   {
-    "backgroundColor": "hsla(182,19%,0%,0.93)",
-    "color": "hsla(302,94%,50%,0.50)"
+    "backgroundColor": "hsla(167,11%,24%,0.86)",
+    "color": "hsla(287,86%,74%,0.97)"
   },
   {
-    "backgroundColor": "hsla(117,51%,32%,0.75)",
-    "color": "hsla(237,26%,82%,0.45)"
+    "backgroundColor": "hsla(344,94%,68%,0.91)",
+    "color": "hsla(104,69%,18%,0.90)"
   },
   {
-    "backgroundColor": "hsla(352,30%,86%,0.99)",
-    "color": "hsla(112,5%,36%,0.44)"
+    "backgroundColor": "hsla(81,45%,51%,0.72)",
+    "color": "hsla(201,20%,1%,0.85)"
   },
   {
-    "backgroundColor": "hsla(56,84%,62%,0.80)",
-    "color": "hsla(176,59%,12%,0.50)"
+    "backgroundColor": "hsla(141,1%,20%,0.81)",
+    "color": "hsla(261,76%,70%,0.80)"
   },
   {
-    "backgroundColor": "hsla(104,45%,79%,0.71)",
-    "color": "hsla(224,20%,29%,0.45)"
+    "backgroundColor": "hsla(137,72%,80%,0.93)",
+    "color": "hsla(257,47%,30%,0.81)"
   },
   {
-    "backgroundColor": "hsla(64,52%,95%,0.93)",
-    "color": "hsla(184,27%,45%,0.58)"
+    "backgroundColor": "hsla(288,22%,66%,0.91)",
+    "color": "hsla(48,97%,16%,0.83)"
   },
   {
-    "backgroundColor": "hsla(41,71%,3%,0.91)",
-    "color": "hsla(161,46%,53%,0.40)"
+    "backgroundColor": "hsla(17,46%,83%,0.73)",
+    "color": "hsla(137,21%,33%,0.83)"
   },
   {
-    "backgroundColor": "hsla(318,80%,22%,0.93)",
-    "color": "hsla(78,55%,72%,0.59)"
+    "backgroundColor": "hsla(113,78%,83%,0.89)",
+    "color": "hsla(233,53%,33%,0.83)"
   },
   {
-    "backgroundColor": "hsla(147,17%,62%,0.81)",
-    "color": "hsla(267,92%,12%,0.44)"
+    "backgroundColor": "hsla(110,29%,37%,0.81)",
+    "color": "hsla(230,4%,87%,0.84)"
   },
   {
-    "backgroundColor": "hsla(143,36%,47%,0.86)",
-    "color": "hsla(263,11%,97%,0.55)"
+    "backgroundColor": "hsla(299,0%,50%,0.98)",
+    "color": "hsla(59,75%,0%,0.85)"
   },
   {
-    "backgroundColor": "hsla(333,22%,10%,0.88)",
-    "color": "hsla(93,97%,60%,0.55)"
+    "backgroundColor": "hsla(108,36%,38%,0.78)",
+    "color": "hsla(228,11%,88%,0.92)"
   },
   {
-    "backgroundColor": "hsla(63,71%,43%,0.75)",
-    "color": "hsla(183,46%,93%,0.42)"
+    "backgroundColor": "hsla(244,91%,16%,0.90)",
+    "color": "hsla(4,66%,66%,0.88)"
   },
   {
-    "backgroundColor": "hsla(332,4%,22%,0.73)",
-    "color": "hsla(92,79%,72%,0.53)"
+    "backgroundColor": "hsla(307,94%,23%,0.72)",
+    "color": "hsla(67,69%,73%,0.92)"
   },
   {
-    "backgroundColor": "hsla(74,49%,28%,0.73)",
-    "color": "hsla(194,24%,78%,0.51)"
+    "backgroundColor": "hsla(12,99%,30%,0.75)",
+    "color": "hsla(132,74%,80%,0.90)"
   },
   {
-    "backgroundColor": "hsla(254,43%,98%,0.75)",
-    "color": "hsla(14,18%,48%,0.51)"
+    "backgroundColor": "hsla(294,9%,58%,0.78)",
+    "color": "hsla(54,84%,8%,1.00)"
   },
   {
-    "backgroundColor": "hsla(38,57%,56%,0.96)",
-    "color": "hsla(158,32%,6%,0.44)"
+    "backgroundColor": "hsla(10,83%,64%,0.93)",
+    "color": "hsla(130,58%,14%,0.94)"
   },
   {
-    "backgroundColor": "hsla(8,21%,23%,0.74)",
-    "color": "hsla(128,96%,73%,0.47)"
+    "backgroundColor": "hsla(126,27%,97%,0.89)",
+    "color": "hsla(246,2%,47%,0.90)"
   },
   {
-    "backgroundColor": "hsla(186,2%,41%,0.80)",
-    "color": "hsla(306,77%,91%,0.49)"
+    "backgroundColor": "hsla(248,20%,9%,0.84)",
+    "color": "hsla(8,95%,59%,0.99)"
   },
   {
-    "backgroundColor": "hsla(260,51%,0%,0.88)",
-    "color": "hsla(20,26%,50%,0.52)"
+    "backgroundColor": "hsla(33,62%,6%,0.94)",
+    "color": "hsla(153,37%,56%,0.93)"
   },
   {
-    "backgroundColor": "hsla(139,83%,23%,1.00)",
-    "color": "hsla(259,58%,73%,0.54)"
+    "backgroundColor": "hsla(219,80%,91%,0.96)",
+    "color": "hsla(339,55%,41%,0.89)"
   },
   {
-    "backgroundColor": "hsla(14,8%,44%,0.98)",
-    "color": "hsla(134,83%,94%,0.57)"
+    "backgroundColor": "hsla(351,77%,60%,0.72)",
+    "color": "hsla(111,52%,10%,0.85)"
   },
   {
-    "backgroundColor": "hsla(140,82%,34%,0.81)",
-    "color": "hsla(260,57%,84%,0.56)"
+    "backgroundColor": "hsla(223,25%,43%,0.71)",
+    "color": "hsla(343,0%,93%,0.87)"
   },
   {
-    "backgroundColor": "hsla(126,59%,62%,0.72)",
-    "color": "hsla(246,34%,12%,0.45)"
+    "backgroundColor": "hsla(73,74%,23%,0.77)",
+    "color": "hsla(193,49%,73%,0.91)"
   },
   {
-    "backgroundColor": "hsla(138,61%,60%,0.91)",
-    "color": "hsla(258,36%,10%,0.53)"
+    "backgroundColor": "hsla(3,69%,14%,0.71)",
+    "color": "hsla(123,44%,64%,0.91)"
   },
   {
-    "backgroundColor": "hsla(161,55%,86%,0.93)",
-    "color": "hsla(281,30%,36%,0.57)"
+    "backgroundColor": "hsla(15,45%,68%,0.90)",
+    "color": "hsla(135,20%,18%,0.93)"
   },
   {
-    "backgroundColor": "hsla(313,27%,47%,0.95)",
-    "color": "hsla(73,2%,97%,0.43)"
+    "backgroundColor": "hsla(352,63%,14%,0.76)",
+    "color": "hsla(112,38%,64%,0.81)"
   },
   {
-    "backgroundColor": "hsla(170,38%,47%,0.77)",
-    "color": "hsla(290,13%,97%,0.41)"
+    "backgroundColor": "hsla(357,51%,43%,0.75)",
+    "color": "hsla(117,26%,93%,0.84)"
   },
   {
-    "backgroundColor": "hsla(185,8%,95%,0.96)",
-    "color": "hsla(305,83%,45%,0.53)"
+    "backgroundColor": "hsla(251,58%,17%,0.91)",
+    "color": "hsla(11,33%,67%,0.95)"
   },
   {
-    "backgroundColor": "hsla(117,86%,21%,0.81)",
-    "color": "hsla(237,61%,71%,0.47)"
+    "backgroundColor": "hsla(99,11%,81%,0.85)",
+    "color": "hsla(219,86%,31%,0.96)"
   },
   {
-    "backgroundColor": "hsla(75,64%,68%,0.81)",
-    "color": "hsla(195,39%,18%,0.55)"
+    "backgroundColor": "hsla(295,28%,35%,0.89)",
+    "color": "hsla(55,3%,85%,0.95)"
   },
   {
-    "backgroundColor": "hsla(205,62%,78%,0.81)",
-    "color": "hsla(325,37%,28%,0.43)"
+    "backgroundColor": "hsla(55,28%,89%,0.76)",
+    "color": "hsla(175,3%,39%,0.96)"
   },
   {
-    "backgroundColor": "hsla(240,87%,78%,0.79)",
-    "color": "hsla(0,62%,28%,0.57)"
+    "backgroundColor": "hsla(309,75%,53%,0.85)",
+    "color": "hsla(69,50%,3%,0.82)"
   },
   {
-    "backgroundColor": "hsla(75,65%,64%,0.86)",
-    "color": "hsla(195,40%,14%,0.44)"
+    "backgroundColor": "hsla(3,21%,73%,0.91)",
+    "color": "hsla(123,96%,23%,0.80)"
   },
   {
-    "backgroundColor": "hsla(320,93%,5%,0.92)",
-    "color": "hsla(80,68%,55%,0.51)"
+    "backgroundColor": "hsla(260,79%,73%,0.73)",
+    "color": "hsla(20,54%,23%,0.89)"
   },
   {
-    "backgroundColor": "hsla(296,16%,49%,0.92)",
-    "color": "hsla(56,91%,99%,0.42)"
+    "backgroundColor": "hsla(86,26%,55%,1.00)",
+    "color": "hsla(206,1%,5%,0.84)"
   },
   {
-    "backgroundColor": "hsla(236,2%,33%,0.78)",
-    "color": "hsla(356,77%,83%,0.51)"
+    "backgroundColor": "hsla(236,45%,22%,0.87)",
+    "color": "hsla(356,20%,72%,0.82)"
   },
   {
-    "backgroundColor": "hsla(116,88%,91%,0.85)",
-    "color": "hsla(236,63%,41%,0.54)"
+    "backgroundColor": "hsla(310,43%,28%,0.96)",
+    "color": "hsla(70,18%,78%,0.92)"
   },
   {
-    "backgroundColor": "hsla(31,92%,55%,0.77)",
-    "color": "hsla(151,67%,5%,0.49)"
+    "backgroundColor": "hsla(70,24%,3%,0.93)",
+    "color": "hsla(190,99%,53%,0.82)"
   },
   {
-    "backgroundColor": "hsla(348,1%,14%,0.95)",
-    "color": "hsla(108,76%,64%,0.60)"
+    "backgroundColor": "hsla(350,81%,95%,0.88)",
+    "color": "hsla(110,56%,45%,0.84)"
   },
   {
-    "backgroundColor": "hsla(253,58%,69%,0.75)",
-    "color": "hsla(13,33%,19%,0.55)"
+    "backgroundColor": "hsla(217,97%,81%,0.72)",
+    "color": "hsla(337,72%,31%,0.90)"
   },
   {
-    "backgroundColor": "hsla(138,38%,96%,0.74)",
-    "color": "hsla(258,13%,46%,0.59)"
+    "backgroundColor": "hsla(322,49%,27%,0.84)",
+    "color": "hsla(82,24%,77%,0.95)"
   },
   {
-    "backgroundColor": "hsla(1,11%,22%,0.95)",
-    "color": "hsla(121,86%,72%,0.43)"
+    "backgroundColor": "hsla(230,93%,70%,0.84)",
+    "color": "hsla(350,68%,20%,0.87)"
   },
   {
-    "backgroundColor": "hsla(278,62%,97%,0.96)",
-    "color": "hsla(38,37%,47%,0.49)"
+    "backgroundColor": "hsla(321,12%,94%,0.98)",
+    "color": "hsla(81,87%,44%,0.86)"
   },
   {
-    "backgroundColor": "hsla(205,43%,42%,0.73)",
-    "color": "hsla(325,18%,92%,0.55)"
+    "backgroundColor": "hsla(195,41%,91%,0.71)",
+    "color": "hsla(315,16%,41%,0.96)"
   },
   {
-    "backgroundColor": "hsla(81,87%,88%,0.87)",
-    "color": "hsla(201,62%,38%,0.50)"
+    "backgroundColor": "hsla(106,36%,4%,0.88)",
+    "color": "hsla(226,11%,54%,0.87)"
   },
   {
-    "backgroundColor": "hsla(79,53%,87%,0.87)",
-    "color": "hsla(199,28%,37%,0.52)"
+    "backgroundColor": "hsla(241,83%,42%,0.90)",
+    "color": "hsla(1,58%,92%,0.84)"
   },
   {
-    "backgroundColor": "hsla(109,56%,16%,0.92)",
-    "color": "hsla(229,31%,66%,0.45)"
+    "backgroundColor": "hsla(277,45%,30%,0.70)",
+    "color": "hsla(37,20%,80%,0.92)"
   },
   {
-    "backgroundColor": "hsla(217,53%,25%,0.75)",
-    "color": "hsla(337,28%,75%,0.45)"
+    "backgroundColor": "hsla(189,40%,28%,0.98)",
+    "color": "hsla(309,15%,78%,0.94)"
   },
   {
-    "backgroundColor": "hsla(150,19%,47%,0.72)",
-    "color": "hsla(270,94%,97%,0.59)"
+    "backgroundColor": "hsla(89,14%,82%,0.72)",
+    "color": "hsla(209,89%,32%,0.90)"
   },
   {
-    "backgroundColor": "hsla(303,46%,69%,0.76)",
-    "color": "hsla(63,21%,19%,0.53)"
+    "backgroundColor": "hsla(126,49%,98%,0.87)",
+    "color": "hsla(246,24%,48%,0.85)"
   },
   {
-    "backgroundColor": "hsla(47,22%,38%,0.75)",
-    "color": "hsla(167,97%,88%,0.58)"
+    "backgroundColor": "hsla(101,21%,27%,0.83)",
+    "color": "hsla(221,96%,77%,0.90)"
   },
   {
-    "backgroundColor": "hsla(29,46%,65%,0.74)",
-    "color": "hsla(149,21%,15%,0.55)"
+    "backgroundColor": "hsla(35,8%,53%,0.77)",
+    "color": "hsla(155,83%,3%,0.91)"
   },
   {
-    "backgroundColor": "hsla(59,42%,37%,0.86)",
-    "color": "hsla(179,17%,87%,0.47)"
+    "backgroundColor": "hsla(182,19%,21%,0.84)",
+    "color": "hsla(302,94%,71%,0.98)"
   },
   {
-    "backgroundColor": "hsla(276,42%,83%,0.73)",
-    "color": "hsla(36,17%,33%,0.41)"
+    "backgroundColor": "hsla(224,44%,82%,0.88)",
+    "color": "hsla(344,19%,32%,0.93)"
   },
   {
-    "backgroundColor": "hsla(266,46%,12%,0.77)",
-    "color": "hsla(26,21%,62%,0.57)"
+    "backgroundColor": "hsla(173,77%,50%,0.78)",
+    "color": "hsla(293,52%,0%,0.83)"
   },
   {
-    "backgroundColor": "hsla(70,32%,2%,0.81)",
-    "color": "hsla(190,7%,52%,0.49)"
+    "backgroundColor": "hsla(196,25%,14%,0.83)",
+    "color": "hsla(316,0%,64%,0.90)"
   },
   {
-    "backgroundColor": "hsla(228,57%,21%,0.97)",
-    "color": "hsla(348,32%,71%,0.49)"
+    "backgroundColor": "hsla(309,69%,65%,0.94)",
+    "color": "hsla(69,44%,15%,0.98)"
   },
   {
-    "backgroundColor": "hsla(268,68%,71%,0.93)",
-    "color": "hsla(28,43%,21%,0.47)"
+    "backgroundColor": "hsla(272,6%,18%,0.93)",
+    "color": "hsla(32,81%,68%,0.90)"
   },
   {
-    "backgroundColor": "hsla(289,83%,77%,0.85)",
-    "color": "hsla(49,58%,27%,0.44)"
+    "backgroundColor": "hsla(339,28%,98%,0.76)",
+    "color": "hsla(99,3%,48%,0.84)"
   },
   {
-    "backgroundColor": "hsla(315,68%,11%,0.82)",
-    "color": "hsla(75,43%,61%,0.45)"
+    "backgroundColor": "hsla(193,81%,78%,0.99)",
+    "color": "hsla(313,56%,28%,0.95)"
   },
   {
-    "backgroundColor": "hsla(349,42%,70%,0.94)",
-    "color": "hsla(109,17%,20%,0.46)"
+    "backgroundColor": "hsla(350,9%,72%,0.95)",
+    "color": "hsla(110,84%,22%,0.91)"
   },
   {
-    "backgroundColor": "hsla(118,39%,10%,0.80)",
-    "color": "hsla(238,14%,60%,0.42)"
+    "backgroundColor": "hsla(114,60%,20%,0.94)",
+    "color": "hsla(234,35%,70%,0.91)"
   },
   {
-    "backgroundColor": "hsla(76,65%,85%,0.81)",
-    "color": "hsla(196,40%,35%,0.55)"
+    "backgroundColor": "hsla(289,87%,29%,0.94)",
+    "color": "hsla(49,62%,79%,0.90)"
   },
   {
-    "backgroundColor": "hsla(178,28%,96%,0.84)",
-    "color": "hsla(298,3%,46%,0.43)"
+    "backgroundColor": "hsla(186,27%,88%,0.94)",
+    "color": "hsla(306,2%,38%,0.91)"
   },
   {
-    "backgroundColor": "hsla(41,67%,72%,0.97)",
-    "color": "hsla(161,42%,22%,0.49)"
+    "backgroundColor": "hsla(185,24%,10%,0.90)",
+    "color": "hsla(305,99%,60%,0.85)"
   },
   {
-    "backgroundColor": "hsla(176,70%,93%,0.84)",
-    "color": "hsla(296,45%,43%,0.47)"
+    "backgroundColor": "hsla(303,85%,7%,0.86)",
+    "color": "hsla(63,60%,57%,0.93)"
   },
   {
-    "backgroundColor": "hsla(131,49%,94%,0.86)",
-    "color": "hsla(251,24%,44%,0.55)"
+    "backgroundColor": "hsla(20,74%,89%,0.84)",
+    "color": "hsla(140,49%,39%,0.81)"
   },
   {
-    "backgroundColor": "hsla(108,46%,35%,0.96)",
-    "color": "hsla(228,21%,85%,0.51)"
+    "backgroundColor": "hsla(319,63%,31%,0.82)",
+    "color": "hsla(79,38%,81%,0.91)"
   },
   {
-    "backgroundColor": "hsla(217,2%,56%,0.79)",
-    "color": "hsla(337,77%,6%,0.52)"
+    "backgroundColor": "hsla(77,16%,13%,0.96)",
+    "color": "hsla(197,91%,63%,0.98)"
   },
   {
-    "backgroundColor": "hsla(119,79%,17%,0.85)",
-    "color": "hsla(239,54%,67%,0.53)"
+    "backgroundColor": "hsla(41,41%,24%,0.80)",
+    "color": "hsla(161,16%,74%,0.82)"
   },
   {
-    "backgroundColor": "hsla(223,64%,37%,0.81)",
-    "color": "hsla(343,39%,87%,0.46)"
+    "backgroundColor": "hsla(124,33%,86%,0.92)",
+    "color": "hsla(244,8%,36%,0.99)"
   },
   {
-    "backgroundColor": "hsla(240,2%,75%,0.95)",
-    "color": "hsla(0,77%,25%,0.41)"
+    "backgroundColor": "hsla(14,97%,22%,0.91)",
+    "color": "hsla(134,72%,72%,0.94)"
   },
   {
-    "backgroundColor": "hsla(91,9%,17%,0.98)",
-    "color": "hsla(211,84%,67%,0.57)"
+    "backgroundColor": "hsla(29,61%,38%,0.81)",
+    "color": "hsla(149,36%,88%,0.82)"
   },
   {
-    "backgroundColor": "hsla(237,32%,9%,0.90)",
-    "color": "hsla(357,7%,59%,0.42)"
+    "backgroundColor": "hsla(162,11%,22%,0.93)",
+    "color": "hsla(282,86%,72%,0.89)"
   },
   {
-    "backgroundColor": "hsla(301,99%,60%,0.97)",
-    "color": "hsla(61,74%,10%,0.51)"
+    "backgroundColor": "hsla(183,31%,21%,0.83)",
+    "color": "hsla(303,6%,71%,0.90)"
   },
   {
-    "backgroundColor": "hsla(1,18%,52%,0.84)",
-    "color": "hsla(121,93%,2%,0.42)"
+    "backgroundColor": "hsla(187,14%,37%,0.96)",
+    "color": "hsla(307,89%,87%,0.99)"
   },
   {
-    "backgroundColor": "hsla(75,73%,2%,0.93)",
-    "color": "hsla(195,48%,52%,0.41)"
+    "backgroundColor": "hsla(86,47%,89%,0.89)",
+    "color": "hsla(206,22%,39%,0.80)"
   },
   {
-    "backgroundColor": "hsla(240,21%,86%,0.89)",
-    "color": "hsla(0,96%,36%,0.49)"
+    "backgroundColor": "hsla(9,34%,39%,0.89)",
+    "color": "hsla(129,9%,89%,0.85)"
   },
   {
-    "backgroundColor": "hsla(78,2%,5%,0.96)",
-    "color": "hsla(198,77%,55%,0.48)"
+    "backgroundColor": "hsla(185,31%,89%,0.96)",
+    "color": "hsla(305,6%,39%,0.87)"
   },
   {
-    "backgroundColor": "hsla(173,12%,62%,0.79)",
-    "color": "hsla(293,87%,12%,0.55)"
+    "backgroundColor": "hsla(321,26%,46%,0.86)",
+    "color": "hsla(81,1%,96%,0.93)"
   },
   {
-    "backgroundColor": "hsla(155,35%,75%,0.99)",
-    "color": "hsla(275,10%,25%,0.50)"
+    "backgroundColor": "hsla(122,33%,68%,0.96)",
+    "color": "hsla(242,8%,18%,0.87)"
   },
   {
-    "backgroundColor": "hsla(142,46%,86%,0.96)",
-    "color": "hsla(262,21%,36%,0.49)"
+    "backgroundColor": "hsla(197,19%,51%,0.78)",
+    "color": "hsla(317,94%,1%,0.94)"
   },
   {
-    "backgroundColor": "hsla(303,38%,86%,0.79)",
-    "color": "hsla(63,13%,36%,0.55)"
+    "backgroundColor": "hsla(262,0%,80%,0.82)",
+    "color": "hsla(22,75%,30%,0.94)"
   },
   {
-    "backgroundColor": "hsla(225,39%,24%,0.92)",
-    "color": "hsla(345,14%,74%,0.51)"
+    "backgroundColor": "hsla(80,6%,99%,0.84)",
+    "color": "hsla(200,81%,49%,0.97)"
   },
   {
-    "backgroundColor": "hsla(140,64%,75%,0.93)",
-    "color": "hsla(260,39%,25%,0.46)"
+    "backgroundColor": "hsla(18,23%,27%,0.89)",
+    "color": "hsla(138,98%,77%,0.94)"
   },
   {
-    "backgroundColor": "hsla(318,7%,49%,0.94)",
-    "color": "hsla(78,82%,99%,0.58)"
+    "backgroundColor": "hsla(266,0%,52%,0.98)",
+    "color": "hsla(26,75%,2%,0.95)"
   },
   {
-    "backgroundColor": "hsla(24,92%,79%,0.76)",
-    "color": "hsla(144,67%,29%,0.42)"
+    "backgroundColor": "hsla(195,2%,12%,0.76)",
+    "color": "hsla(315,77%,62%,0.95)"
   },
   {
-    "backgroundColor": "hsla(292,99%,24%,0.98)",
-    "color": "hsla(52,74%,74%,0.45)"
+    "backgroundColor": "hsla(11,51%,70%,0.79)",
+    "color": "hsla(131,26%,20%,0.84)"
   },
   {
-    "backgroundColor": "hsla(328,0%,28%,0.91)",
-    "color": "hsla(88,75%,78%,0.55)"
+    "backgroundColor": "hsla(64,12%,77%,0.90)",
+    "color": "hsla(184,87%,27%,0.84)"
   },
   {
-    "backgroundColor": "hsla(213,20%,72%,0.86)",
-    "color": "hsla(333,95%,22%,0.46)"
+    "backgroundColor": "hsla(80,44%,69%,0.77)",
+    "color": "hsla(200,19%,19%,0.83)"
   },
   {
-    "backgroundColor": "hsla(238,28%,11%,0.71)",
-    "color": "hsla(358,3%,61%,0.51)"
+    "backgroundColor": "hsla(245,49%,75%,0.98)",
+    "color": "hsla(5,24%,25%,0.94)"
   },
   {
-    "backgroundColor": "hsla(23,99%,34%,0.73)",
-    "color": "hsla(143,74%,84%,0.55)"
+    "backgroundColor": "hsla(68,19%,29%,0.74)",
+    "color": "hsla(188,94%,79%,0.98)"
   },
   {
-    "backgroundColor": "hsla(21,43%,37%,0.89)",
-    "color": "hsla(141,18%,87%,0.49)"
+    "backgroundColor": "hsla(301,84%,63%,0.99)",
+    "color": "hsla(61,59%,13%,0.89)"
   },
   {
-    "backgroundColor": "hsla(281,30%,93%,0.81)",
-    "color": "hsla(41,5%,43%,0.54)"
+    "backgroundColor": "hsla(215,81%,41%,0.85)",
+    "color": "hsla(335,56%,91%,0.84)"
   },
   {
-    "backgroundColor": "hsla(263,52%,9%,0.98)",
-    "color": "hsla(23,27%,59%,0.59)"
+    "backgroundColor": "hsla(341,39%,91%,0.84)",
+    "color": "hsla(101,14%,41%,0.90)"
   },
   {
-    "backgroundColor": "hsla(233,37%,46%,0.78)",
-    "color": "hsla(353,12%,96%,0.55)"
+    "backgroundColor": "hsla(298,37%,4%,0.91)",
+    "color": "hsla(58,12%,54%,0.84)"
   },
   {
-    "backgroundColor": "hsla(219,81%,41%,0.76)",
-    "color": "hsla(339,56%,91%,0.43)"
+    "backgroundColor": "hsla(17,48%,78%,0.87)",
+    "color": "hsla(137,23%,28%,0.91)"
   },
   {
-    "backgroundColor": "hsla(248,3%,62%,0.74)",
-    "color": "hsla(8,78%,12%,0.60)"
+    "backgroundColor": "hsla(160,67%,52%,0.72)",
+    "color": "hsla(280,42%,2%,0.95)"
   },
   {
-    "backgroundColor": "hsla(229,6%,74%,0.91)",
-    "color": "hsla(349,81%,24%,0.60)"
+    "backgroundColor": "hsla(264,79%,75%,0.98)",
+    "color": "hsla(24,54%,25%,0.83)"
   },
   {
-    "backgroundColor": "hsla(67,54%,38%,0.90)",
-    "color": "hsla(187,29%,88%,0.47)"
+    "backgroundColor": "hsla(90,5%,16%,0.76)",
+    "color": "hsla(210,80%,66%,0.96)"
   },
   {
-    "backgroundColor": "hsla(79,30%,55%,0.90)",
-    "color": "hsla(199,5%,5%,0.43)"
+    "backgroundColor": "hsla(310,11%,23%,0.77)",
+    "color": "hsla(70,86%,73%,0.87)"
   },
   {
-    "backgroundColor": "hsla(67,21%,56%,0.75)",
-    "color": "hsla(187,96%,6%,0.48)"
+    "backgroundColor": "hsla(239,62%,80%,0.75)",
+    "color": "hsla(359,37%,30%,0.96)"
   },
   {
-    "backgroundColor": "hsla(85,11%,56%,0.96)",
-    "color": "hsla(205,86%,6%,0.51)"
+    "backgroundColor": "hsla(102,16%,79%,0.91)",
+    "color": "hsla(222,91%,29%,0.85)"
   },
   {
-    "backgroundColor": "hsla(297,28%,16%,0.76)",
-    "color": "hsla(57,3%,66%,0.53)"
+    "backgroundColor": "hsla(283,40%,58%,0.89)",
+    "color": "hsla(43,15%,8%,0.86)"
   },
   {
-    "backgroundColor": "hsla(138,66%,44%,0.75)",
-    "color": "hsla(258,41%,94%,0.42)"
+    "backgroundColor": "hsla(348,77%,13%,0.94)",
+    "color": "hsla(108,52%,63%,0.81)"
   },
   {
-    "backgroundColor": "hsla(284,94%,50%,0.96)",
-    "color": "hsla(44,69%,0%,0.53)"
+    "backgroundColor": "hsla(240,66%,36%,0.96)",
+    "color": "hsla(0,41%,86%,0.88)"
   },
   {
-    "backgroundColor": "hsla(284,42%,33%,0.80)",
-    "color": "hsla(44,17%,83%,0.59)"
+    "backgroundColor": "hsla(72,6%,82%,0.79)",
+    "color": "hsla(192,81%,32%,0.90)"
   },
   {
-    "backgroundColor": "hsla(268,93%,91%,0.79)",
-    "color": "hsla(28,68%,41%,0.57)"
+    "backgroundColor": "hsla(272,70%,74%,0.88)",
+    "color": "hsla(32,45%,24%,0.85)"
   },
   {
-    "backgroundColor": "hsla(193,23%,31%,0.80)",
-    "color": "hsla(313,98%,81%,0.43)"
+    "backgroundColor": "hsla(261,50%,66%,0.86)",
+    "color": "hsla(21,25%,16%,0.92)"
   },
   {
-    "backgroundColor": "hsla(275,83%,78%,0.75)",
-    "color": "hsla(35,58%,28%,0.44)"
+    "backgroundColor": "hsla(144,43%,31%,0.75)",
+    "color": "hsla(264,18%,81%,0.96)"
   },
   {
-    "backgroundColor": "hsla(153,9%,0%,0.85)",
-    "color": "hsla(273,84%,50%,0.57)"
+    "backgroundColor": "hsla(43,39%,99%,0.73)",
+    "color": "hsla(163,14%,49%,0.92)"
   },
   {
-    "backgroundColor": "hsla(169,95%,49%,0.98)",
-    "color": "hsla(289,70%,99%,0.43)"
+    "backgroundColor": "hsla(189,89%,70%,0.83)",
+    "color": "hsla(309,64%,20%,0.85)"
   },
   {
-    "backgroundColor": "hsla(69,66%,66%,0.72)",
-    "color": "hsla(189,41%,16%,0.41)"
+    "backgroundColor": "hsla(10,63%,4%,0.98)",
+    "color": "hsla(130,38%,54%,0.99)"
   },
   {
-    "backgroundColor": "hsla(288,0%,41%,0.76)",
-    "color": "hsla(48,75%,91%,0.43)"
+    "backgroundColor": "hsla(214,3%,71%,0.82)",
+    "color": "hsla(334,78%,21%,0.88)"
   },
   {
-    "backgroundColor": "hsla(304,91%,44%,0.78)",
-    "color": "hsla(64,66%,94%,0.59)"
+    "backgroundColor": "hsla(205,35%,75%,0.70)",
+    "color": "hsla(325,10%,25%,0.85)"
   },
   {
-    "backgroundColor": "hsla(196,25%,17%,0.95)",
-    "color": "hsla(316,0%,67%,0.41)"
+    "backgroundColor": "hsla(31,52%,72%,0.71)",
+    "color": "hsla(151,27%,22%,0.83)"
   },
   {
-    "backgroundColor": "hsla(87,51%,8%,0.80)",
-    "color": "hsla(207,26%,58%,0.51)"
+    "backgroundColor": "hsla(40,26%,31%,0.75)",
+    "color": "hsla(160,1%,81%,0.96)"
   },
   {
-    "backgroundColor": "hsla(320,48%,89%,0.75)",
-    "color": "hsla(80,23%,39%,0.58)"
+    "backgroundColor": "hsla(225,69%,8%,0.74)",
+    "color": "hsla(345,44%,58%,0.94)"
   },
   {
-    "backgroundColor": "hsla(80,42%,8%,0.82)",
-    "color": "hsla(200,17%,58%,0.40)"
+    "backgroundColor": "hsla(280,68%,31%,0.97)",
+    "color": "hsla(40,43%,81%,0.85)"
   },
   {
-    "backgroundColor": "hsla(201,40%,87%,0.72)",
-    "color": "hsla(321,15%,37%,0.47)"
+    "backgroundColor": "hsla(174,55%,82%,0.90)",
+    "color": "hsla(294,30%,32%,0.92)"
   },
   {
-    "backgroundColor": "hsla(154,58%,11%,0.97)",
-    "color": "hsla(274,33%,61%,0.51)"
+    "backgroundColor": "hsla(80,87%,85%,0.97)",
+    "color": "hsla(200,62%,35%,0.91)"
   },
   {
-    "backgroundColor": "hsla(214,85%,97%,0.88)",
-    "color": "hsla(334,60%,47%,0.59)"
+    "backgroundColor": "hsla(274,76%,85%,0.70)",
+    "color": "hsla(34,51%,35%,0.93)"
   },
   {
-    "backgroundColor": "hsla(99,21%,72%,0.83)",
-    "color": "hsla(219,96%,22%,0.43)"
+    "backgroundColor": "hsla(189,86%,76%,0.85)",
+    "color": "hsla(309,61%,26%,0.98)"
   },
   {
-    "backgroundColor": "hsla(134,81%,94%,0.99)",
-    "color": "hsla(254,56%,44%,0.42)"
+    "backgroundColor": "hsla(300,10%,98%,0.80)",
+    "color": "hsla(60,85%,48%,0.92)"
   },
   {
-    "backgroundColor": "hsla(26,99%,29%,0.83)",
-    "color": "hsla(146,74%,79%,0.53)"
+    "backgroundColor": "hsla(326,0%,36%,0.76)",
+    "color": "hsla(86,75%,86%,0.91)"
   },
   {
-    "backgroundColor": "hsla(59,10%,53%,0.71)",
-    "color": "hsla(179,85%,3%,0.43)"
+    "backgroundColor": "hsla(193,31%,79%,0.88)",
+    "color": "hsla(313,6%,29%,1.00)"
   },
   {
-    "backgroundColor": "hsla(70,34%,32%,0.91)",
-    "color": "hsla(190,9%,82%,0.55)"
+    "backgroundColor": "hsla(267,72%,44%,0.95)",
+    "color": "hsla(27,47%,94%,0.92)"
   },
   {
-    "backgroundColor": "hsla(204,54%,83%,0.98)",
-    "color": "hsla(324,29%,33%,0.55)"
+    "backgroundColor": "hsla(169,93%,68%,0.81)",
+    "color": "hsla(289,68%,18%,0.93)"
   },
   {
-    "backgroundColor": "hsla(135,61%,2%,0.87)",
-    "color": "hsla(255,36%,52%,0.49)"
+    "backgroundColor": "hsla(178,98%,62%,0.71)",
+    "color": "hsla(298,73%,12%,0.95)"
   },
   {
-    "backgroundColor": "hsla(333,74%,53%,0.92)",
-    "color": "hsla(93,49%,3%,0.55)"
+    "backgroundColor": "hsla(304,14%,1%,0.93)",
+    "color": "hsla(64,89%,51%,0.92)"
   },
   {
-    "backgroundColor": "hsla(129,77%,45%,0.86)",
-    "color": "hsla(249,52%,95%,0.55)"
+    "backgroundColor": "hsla(101,88%,78%,0.86)",
+    "color": "hsla(221,63%,28%,0.94)"
   },
   {
-    "backgroundColor": "hsla(251,72%,96%,0.97)",
-    "color": "hsla(11,47%,46%,0.52)"
+    "backgroundColor": "hsla(345,47%,22%,0.80)",
+    "color": "hsla(105,22%,72%,0.91)"
   },
   {
-    "backgroundColor": "hsla(104,11%,30%,0.80)",
-    "color": "hsla(224,86%,80%,0.58)"
+    "backgroundColor": "hsla(270,2%,82%,0.81)",
+    "color": "hsla(30,77%,32%,0.91)"
   },
   {
-    "backgroundColor": "hsla(350,76%,64%,0.74)",
-    "color": "hsla(110,51%,14%,0.49)"
+    "backgroundColor": "hsla(254,3%,2%,0.94)",
+    "color": "hsla(14,78%,52%,0.97)"
   },
   {
-    "backgroundColor": "hsla(18,23%,61%,0.80)",
-    "color": "hsla(138,98%,11%,0.47)"
+    "backgroundColor": "hsla(157,6%,77%,0.86)",
+    "color": "hsla(277,81%,27%,0.98)"
   },
   {
-    "backgroundColor": "hsla(189,3%,34%,0.95)",
-    "color": "hsla(309,78%,84%,0.46)"
+    "backgroundColor": "hsla(250,67%,33%,0.99)",
+    "color": "hsla(10,42%,83%,0.85)"
   },
   {
-    "backgroundColor": "hsla(29,34%,3%,0.85)",
-    "color": "hsla(149,9%,53%,0.49)"
+    "backgroundColor": "hsla(253,2%,25%,0.89)",
+    "color": "hsla(13,77%,75%,0.89)"
   },
   {
-    "backgroundColor": "hsla(25,16%,20%,0.74)",
-    "color": "hsla(145,91%,70%,0.54)"
+    "backgroundColor": "hsla(299,6%,19%,0.98)",
+    "color": "hsla(59,81%,69%,0.81)"
   },
   {
-    "backgroundColor": "hsla(244,66%,17%,0.83)",
-    "color": "hsla(4,41%,67%,0.50)"
+    "backgroundColor": "hsla(257,66%,56%,0.76)",
+    "color": "hsla(17,41%,6%,0.89)"
   },
   {
-    "backgroundColor": "hsla(345,16%,31%,0.75)",
-    "color": "hsla(105,91%,81%,0.48)"
+    "backgroundColor": "hsla(202,21%,34%,0.74)",
+    "color": "hsla(322,96%,84%,0.87)"
   },
   {
-    "backgroundColor": "hsla(150,86%,62%,0.87)",
-    "color": "hsla(270,61%,12%,0.46)"
+    "backgroundColor": "hsla(303,22%,42%,0.95)",
+    "color": "hsla(63,97%,92%,0.87)"
   },
   {
-    "backgroundColor": "hsla(112,63%,48%,0.88)",
-    "color": "hsla(232,38%,98%,0.45)"
+    "backgroundColor": "hsla(128,89%,70%,0.76)",
+    "color": "hsla(248,64%,20%,0.90)"
   },
   {
-    "backgroundColor": "hsla(182,17%,39%,0.77)",
-    "color": "hsla(302,92%,89%,0.53)"
+    "backgroundColor": "hsla(59,18%,77%,0.98)",
+    "color": "hsla(179,93%,27%,0.91)"
   },
   {
-    "backgroundColor": "hsla(57,46%,68%,0.94)",
-    "color": "hsla(177,21%,18%,0.43)"
+    "backgroundColor": "hsla(97,73%,62%,0.88)",
+    "color": "hsla(217,48%,12%,0.99)"
   },
   {
-    "backgroundColor": "hsla(12,30%,9%,0.94)",
-    "color": "hsla(132,5%,59%,0.43)"
+    "backgroundColor": "hsla(262,87%,55%,0.79)",
+    "color": "hsla(22,62%,5%,0.87)"
   },
   {
-    "backgroundColor": "hsla(47,98%,69%,0.75)",
-    "color": "hsla(167,73%,19%,0.50)"
+    "backgroundColor": "hsla(287,74%,48%,0.99)",
+    "color": "hsla(47,49%,98%,0.80)"
   },
   {
-    "backgroundColor": "hsla(95,64%,72%,0.98)",
-    "color": "hsla(215,39%,22%,0.42)"
+    "backgroundColor": "hsla(170,99%,91%,0.99)",
+    "color": "hsla(290,74%,41%,0.81)"
   },
   {
-    "backgroundColor": "hsla(139,59%,4%,0.83)",
-    "color": "hsla(259,34%,54%,0.58)"
+    "backgroundColor": "hsla(334,38%,72%,0.78)",
+    "color": "hsla(94,13%,22%,0.99)"
   },
   {
-    "backgroundColor": "hsla(169,85%,13%,0.92)",
-    "color": "hsla(289,60%,63%,0.49)"
+    "backgroundColor": "hsla(343,38%,77%,0.95)",
+    "color": "hsla(103,13%,27%,0.88)"
   },
   {
-    "backgroundColor": "hsla(243,31%,18%,0.87)",
-    "color": "hsla(3,6%,68%,0.52)"
+    "backgroundColor": "hsla(69,20%,45%,0.97)",
+    "color": "hsla(189,95%,95%,0.81)"
   },
   {
-    "backgroundColor": "hsla(61,36%,62%,0.93)",
-    "color": "hsla(181,11%,12%,0.40)"
+    "backgroundColor": "hsla(135,6%,89%,0.99)",
+    "color": "hsla(255,81%,39%,0.89)"
   },
   {
-    "backgroundColor": "hsla(2,60%,85%,0.76)",
-    "color": "hsla(122,35%,35%,0.53)"
+    "backgroundColor": "hsla(223,86%,1%,0.89)",
+    "color": "hsla(343,61%,51%,0.88)"
   },
   {
-    "backgroundColor": "hsla(311,40%,54%,0.96)",
-    "color": "hsla(71,15%,4%,0.55)"
+    "backgroundColor": "hsla(295,1%,20%,0.96)",
+    "color": "hsla(55,76%,70%,0.97)"
   },
   {
-    "backgroundColor": "hsla(142,17%,12%,0.97)",
-    "color": "hsla(262,92%,62%,0.45)"
+    "backgroundColor": "hsla(206,87%,16%,0.86)",
+    "color": "hsla(326,62%,66%,0.89)"
   },
   {
-    "backgroundColor": "hsla(234,30%,92%,0.75)",
-    "color": "hsla(354,5%,42%,0.55)"
+    "backgroundColor": "hsla(59,11%,63%,0.94)",
+    "color": "hsla(179,86%,13%,0.86)"
   },
   {
-    "backgroundColor": "hsla(246,76%,63%,0.91)",
-    "color": "hsla(6,51%,13%,0.46)"
+    "backgroundColor": "hsla(357,93%,32%,0.82)",
+    "color": "hsla(117,68%,82%,0.95)"
   },
   {
-    "backgroundColor": "hsla(135,23%,41%,0.93)",
-    "color": "hsla(255,98%,91%,0.50)"
+    "backgroundColor": "hsla(124,7%,25%,0.93)",
+    "color": "hsla(244,82%,75%,1.00)"
   },
   {
-    "backgroundColor": "hsla(341,6%,82%,0.99)",
-    "color": "hsla(101,81%,32%,0.55)"
+    "backgroundColor": "hsla(271,10%,73%,0.72)",
+    "color": "hsla(31,85%,23%,0.87)"
   },
   {
-    "backgroundColor": "hsla(39,14%,45%,0.96)",
-    "color": "hsla(159,89%,95%,0.56)"
+    "backgroundColor": "hsla(28,59%,45%,0.86)",
+    "color": "hsla(148,34%,95%,0.96)"
   },
   {
-    "backgroundColor": "hsla(33,2%,98%,0.76)",
-    "color": "hsla(153,77%,48%,0.49)"
+    "backgroundColor": "hsla(344,65%,62%,0.89)",
+    "color": "hsla(104,40%,12%,0.89)"
   },
   {
-    "backgroundColor": "hsla(98,12%,14%,0.86)",
-    "color": "hsla(218,87%,64%,0.58)"
+    "backgroundColor": "hsla(191,88%,12%,0.72)",
+    "color": "hsla(311,63%,62%,0.85)"
   },
   {
-    "backgroundColor": "hsla(328,81%,20%,0.86)",
-    "color": "hsla(88,56%,70%,0.43)"
+    "backgroundColor": "hsla(175,57%,18%,0.91)",
+    "color": "hsla(295,32%,68%,0.96)"
   },
   {
-    "backgroundColor": "hsla(269,43%,84%,0.77)",
-    "color": "hsla(29,18%,34%,0.58)"
+    "backgroundColor": "hsla(291,12%,71%,0.79)",
+    "color": "hsla(51,87%,21%,0.94)"
   },
   {
-    "backgroundColor": "hsla(74,31%,60%,0.94)",
-    "color": "hsla(194,6%,10%,0.42)"
+    "backgroundColor": "hsla(279,48%,88%,0.85)",
+    "color": "hsla(39,23%,38%,0.87)"
   },
   {
-    "backgroundColor": "hsla(171,28%,87%,0.81)",
-    "color": "hsla(291,3%,37%,0.49)"
+    "backgroundColor": "hsla(287,53%,46%,0.71)",
+    "color": "hsla(47,28%,96%,1.00)"
   },
   {
-    "backgroundColor": "hsla(19,81%,92%,0.76)",
-    "color": "hsla(139,56%,42%,0.50)"
+    "backgroundColor": "hsla(196,34%,16%,0.73)",
+    "color": "hsla(316,9%,66%,0.86)"
   },
   {
-    "backgroundColor": "hsla(198,14%,17%,0.73)",
-    "color": "hsla(318,89%,67%,0.54)"
+    "backgroundColor": "hsla(44,39%,33%,0.93)",
+    "color": "hsla(164,14%,83%,0.97)"
   },
   {
-    "backgroundColor": "hsla(157,43%,43%,0.76)",
-    "color": "hsla(277,18%,93%,0.52)"
+    "backgroundColor": "hsla(64,71%,15%,0.93)",
+    "color": "hsla(184,46%,65%,0.96)"
   },
   {
-    "backgroundColor": "hsla(357,95%,80%,0.77)",
-    "color": "hsla(117,70%,30%,0.55)"
+    "backgroundColor": "hsla(116,74%,75%,0.72)",
+    "color": "hsla(236,49%,25%,0.83)"
   },
   {
-    "backgroundColor": "hsla(133,60%,49%,0.93)",
-    "color": "hsla(253,35%,99%,0.49)"
+    "backgroundColor": "hsla(36,45%,65%,0.89)",
+    "color": "hsla(156,20%,15%,0.85)"
   },
   {
-    "backgroundColor": "hsla(358,16%,89%,0.91)",
-    "color": "hsla(118,91%,39%,0.44)"
+    "backgroundColor": "hsla(198,27%,59%,0.95)",
+    "color": "hsla(318,2%,9%,0.90)"
   },
   {
-    "backgroundColor": "hsla(106,14%,20%,0.74)",
-    "color": "hsla(226,89%,70%,0.48)"
+    "backgroundColor": "hsla(55,53%,31%,0.86)",
+    "color": "hsla(175,28%,81%,0.99)"
   },
   {
-    "backgroundColor": "hsla(246,45%,36%,0.97)",
-    "color": "hsla(6,20%,86%,0.54)"
+    "backgroundColor": "hsla(243,22%,46%,0.82)",
+    "color": "hsla(3,97%,96%,0.82)"
   },
   {
-    "backgroundColor": "hsla(355,73%,72%,0.98)",
-    "color": "hsla(115,48%,22%,0.55)"
+    "backgroundColor": "hsla(174,6%,62%,0.99)",
+    "color": "hsla(294,81%,12%,0.97)"
   },
   {
-    "backgroundColor": "hsla(258,71%,17%,0.76)",
-    "color": "hsla(18,46%,67%,0.48)"
+    "backgroundColor": "hsla(158,17%,11%,0.75)",
+    "color": "hsla(278,92%,61%,0.91)"
   },
   {
-    "backgroundColor": "hsla(128,79%,73%,0.96)",
-    "color": "hsla(248,54%,23%,0.57)"
+    "backgroundColor": "hsla(347,23%,83%,0.75)",
+    "color": "hsla(107,98%,33%,0.85)"
   },
   {
-    "backgroundColor": "hsla(266,24%,55%,0.89)",
-    "color": "hsla(26,99%,5%,0.53)"
+    "backgroundColor": "hsla(262,41%,82%,0.95)",
+    "color": "hsla(22,16%,32%,0.94)"
   },
   {
-    "backgroundColor": "hsla(189,46%,70%,0.90)",
-    "color": "hsla(309,21%,20%,0.46)"
+    "backgroundColor": "hsla(273,67%,28%,0.97)",
+    "color": "hsla(33,42%,78%,0.90)"
   },
   {
-    "backgroundColor": "hsla(46,27%,53%,0.76)",
-    "color": "hsla(166,2%,3%,0.48)"
+    "backgroundColor": "hsla(267,47%,6%,0.90)",
+    "color": "hsla(27,22%,56%,0.95)"
   },
   {
-    "backgroundColor": "hsla(298,52%,23%,0.75)",
-    "color": "hsla(58,27%,73%,0.42)"
+    "backgroundColor": "hsla(2,29%,78%,0.83)",
+    "color": "hsla(122,4%,28%,0.90)"
   },
   {
-    "backgroundColor": "hsla(291,0%,43%,0.87)",
-    "color": "hsla(51,75%,93%,0.56)"
+    "backgroundColor": "hsla(126,93%,54%,0.81)",
+    "color": "hsla(246,68%,4%,0.99)"
   },
   {
-    "backgroundColor": "hsla(113,74%,53%,0.77)",
-    "color": "hsla(233,49%,3%,0.43)"
+    "backgroundColor": "hsla(130,98%,47%,0.96)",
+    "color": "hsla(250,73%,97%,0.87)"
   },
   {
-    "backgroundColor": "hsla(190,4%,27%,0.72)",
-    "color": "hsla(310,79%,77%,0.47)"
+    "backgroundColor": "hsla(147,19%,16%,0.95)",
+    "color": "hsla(267,94%,66%,0.98)"
   },
   {
-    "backgroundColor": "hsla(321,46%,82%,0.73)",
-    "color": "hsla(81,21%,32%,0.55)"
+    "backgroundColor": "hsla(202,35%,33%,0.70)",
+    "color": "hsla(322,10%,83%,0.86)"
   },
   {
-    "backgroundColor": "hsla(114,83%,1%,0.74)",
-    "color": "hsla(234,58%,51%,0.45)"
+    "backgroundColor": "hsla(19,53%,30%,0.86)",
+    "color": "hsla(139,28%,80%,0.86)"
   },
   {
-    "backgroundColor": "hsla(134,49%,71%,0.72)",
-    "color": "hsla(254,24%,21%,0.41)"
+    "backgroundColor": "hsla(340,58%,18%,0.85)",
+    "color": "hsla(100,33%,68%,0.92)"
   },
   {
-    "backgroundColor": "hsla(27,73%,52%,0.92)",
-    "color": "hsla(147,48%,2%,0.57)"
+    "backgroundColor": "hsla(71,57%,40%,0.82)",
+    "color": "hsla(191,32%,90%,0.88)"
   },
   {
-    "backgroundColor": "hsla(22,68%,3%,0.92)",
-    "color": "hsla(142,43%,53%,0.40)"
+    "backgroundColor": "hsla(52,94%,27%,0.83)",
+    "color": "hsla(172,69%,77%,0.81)"
   },
   {
-    "backgroundColor": "hsla(179,96%,74%,0.73)",
-    "color": "hsla(299,71%,24%,0.48)"
+    "backgroundColor": "hsla(173,9%,69%,0.79)",
+    "color": "hsla(293,84%,19%,0.88)"
   },
   {
-    "backgroundColor": "hsla(33,93%,61%,0.96)",
-    "color": "hsla(153,68%,11%,0.48)"
+    "backgroundColor": "hsla(145,36%,95%,0.99)",
+    "color": "hsla(265,11%,45%,0.88)"
   },
   {
-    "backgroundColor": "hsla(291,48%,69%,0.83)",
-    "color": "hsla(51,23%,19%,0.44)"
+    "backgroundColor": "hsla(16,41%,27%,0.85)",
+    "color": "hsla(136,16%,77%,0.85)"
   },
   {
-    "backgroundColor": "hsla(279,51%,27%,0.92)",
-    "color": "hsla(39,26%,77%,0.47)"
+    "backgroundColor": "hsla(260,67%,23%,0.86)",
+    "color": "hsla(20,42%,73%,0.80)"
   },
   {
-    "backgroundColor": "hsla(205,89%,81%,0.83)",
-    "color": "hsla(325,64%,31%,0.41)"
+    "backgroundColor": "hsla(71,57%,76%,0.78)",
+    "color": "hsla(191,32%,26%,0.82)"
   },
   {
-    "backgroundColor": "hsla(51,10%,24%,0.83)",
-    "color": "hsla(171,85%,74%,0.51)"
+    "backgroundColor": "hsla(33,17%,81%,0.79)",
+    "color": "hsla(153,92%,31%,0.86)"
   },
   {
-    "backgroundColor": "hsla(174,2%,72%,1.00)",
-    "color": "hsla(294,77%,22%,0.54)"
+    "backgroundColor": "hsla(37,91%,42%,0.77)",
+    "color": "hsla(157,66%,92%,0.97)"
   },
   {
-    "backgroundColor": "hsla(203,35%,83%,0.83)",
-    "color": "hsla(323,10%,33%,0.40)"
+    "backgroundColor": "hsla(51,81%,99%,0.95)",
+    "color": "hsla(171,56%,49%,0.94)"
   },
   {
-    "backgroundColor": "hsla(204,47%,12%,0.96)",
-    "color": "hsla(324,22%,62%,0.57)"
+    "backgroundColor": "hsla(51,10%,88%,0.81)",
+    "color": "hsla(171,85%,38%,0.82)"
   },
   {
-    "backgroundColor": "hsla(198,25%,80%,0.90)",
-    "color": "hsla(318,0%,30%,0.54)"
+    "backgroundColor": "hsla(279,17%,11%,0.85)",
+    "color": "hsla(39,92%,61%,0.98)"
   },
   {
-    "backgroundColor": "hsla(49,92%,33%,0.98)",
-    "color": "hsla(169,67%,83%,0.48)"
+    "backgroundColor": "hsla(87,49%,98%,0.90)",
+    "color": "hsla(207,24%,48%,0.96)"
   },
   {
-    "backgroundColor": "hsla(348,36%,38%,0.82)",
-    "color": "hsla(108,11%,88%,0.58)"
+    "backgroundColor": "hsla(255,67%,84%,0.72)",
+    "color": "hsla(15,42%,34%,0.86)"
   },
   {
-    "backgroundColor": "hsla(105,47%,46%,0.71)",
-    "color": "hsla(225,22%,96%,0.49)"
+    "backgroundColor": "hsla(297,85%,91%,0.83)",
+    "color": "hsla(57,60%,41%,0.86)"
   },
   {
-    "backgroundColor": "hsla(180,48%,85%,0.71)",
-    "color": "hsla(300,23%,35%,0.56)"
+    "backgroundColor": "hsla(224,53%,24%,0.89)",
+    "color": "hsla(344,28%,74%,0.95)"
   },
   {
-    "backgroundColor": "hsla(268,82%,89%,0.76)",
-    "color": "hsla(28,57%,39%,0.48)"
+    "backgroundColor": "hsla(222,55%,80%,0.96)",
+    "color": "hsla(342,30%,30%,0.84)"
   },
   {
-    "backgroundColor": "hsla(246,15%,91%,0.79)",
-    "color": "hsla(6,90%,41%,0.42)"
+    "backgroundColor": "hsla(324,92%,31%,0.81)",
+    "color": "hsla(84,67%,81%,0.82)"
   },
   {
-    "backgroundColor": "hsla(253,53%,85%,0.90)",
-    "color": "hsla(13,28%,35%,0.49)"
+    "backgroundColor": "hsla(41,90%,40%,0.93)",
+    "color": "hsla(161,65%,90%,0.90)"
   },
   {
-    "backgroundColor": "hsla(288,10%,28%,0.92)",
-    "color": "hsla(48,85%,78%,0.49)"
+    "backgroundColor": "hsla(233,57%,89%,0.74)",
+    "color": "hsla(353,32%,39%,0.93)"
   },
   {
-    "backgroundColor": "hsla(229,2%,49%,0.76)",
-    "color": "hsla(349,77%,99%,0.41)"
+    "backgroundColor": "hsla(209,48%,70%,0.97)",
+    "color": "hsla(329,23%,20%,0.83)"
   },
   {
-    "backgroundColor": "hsla(300,8%,25%,0.70)",
-    "color": "hsla(60,83%,75%,0.54)"
+    "backgroundColor": "hsla(20,18%,96%,0.89)",
+    "color": "hsla(140,93%,46%,0.88)"
   },
   {
-    "backgroundColor": "hsla(216,7%,0%,0.93)",
-    "color": "hsla(336,82%,50%,0.44)"
+    "backgroundColor": "hsla(11,53%,30%,0.93)",
+    "color": "hsla(131,28%,80%,1.00)"
   },
   {
-    "backgroundColor": "hsla(243,1%,79%,0.99)",
-    "color": "hsla(3,76%,29%,0.48)"
+    "backgroundColor": "hsla(51,35%,56%,0.75)",
+    "color": "hsla(171,10%,6%,0.84)"
   },
   {
-    "backgroundColor": "hsla(69,38%,76%,0.80)",
-    "color": "hsla(189,13%,26%,0.48)"
+    "backgroundColor": "hsla(304,84%,25%,0.94)",
+    "color": "hsla(64,59%,75%,0.96)"
   },
   {
-    "backgroundColor": "hsla(172,88%,56%,0.78)",
-    "color": "hsla(292,63%,6%,0.46)"
+    "backgroundColor": "hsla(273,53%,9%,0.92)",
+    "color": "hsla(33,28%,59%,0.99)"
   },
   {
-    "backgroundColor": "hsla(275,42%,34%,0.80)",
-    "color": "hsla(35,17%,84%,0.44)"
+    "backgroundColor": "hsla(232,5%,83%,0.72)",
+    "color": "hsla(352,80%,33%,0.85)"
   },
   {
-    "backgroundColor": "hsla(69,6%,39%,0.87)",
-    "color": "hsla(189,81%,89%,0.43)"
+    "backgroundColor": "hsla(116,13%,42%,0.91)",
+    "color": "hsla(236,88%,92%,0.96)"
   },
   {
-    "backgroundColor": "hsla(274,41%,45%,0.80)",
-    "color": "hsla(34,16%,95%,0.50)"
+    "backgroundColor": "hsla(201,17%,43%,0.92)",
+    "color": "hsla(321,92%,93%,0.96)"
   },
   {
-    "backgroundColor": "hsla(83,67%,90%,0.72)",
-    "color": "hsla(203,42%,40%,0.46)"
+    "backgroundColor": "hsla(331,91%,45%,0.72)",
+    "color": "hsla(91,66%,95%,0.87)"
   },
   {
-    "backgroundColor": "hsla(348,33%,86%,0.88)",
-    "color": "hsla(108,8%,36%,0.53)"
+    "backgroundColor": "hsla(16,75%,5%,0.82)",
+    "color": "hsla(136,50%,55%,0.97)"
   },
   {
-    "backgroundColor": "hsla(101,65%,74%,0.76)",
-    "color": "hsla(221,40%,24%,0.58)"
+    "backgroundColor": "hsla(347,34%,60%,0.93)",
+    "color": "hsla(107,9%,10%,0.90)"
   },
   {
-    "backgroundColor": "hsla(250,26%,81%,0.72)",
-    "color": "hsla(10,1%,31%,0.41)"
+    "backgroundColor": "hsla(127,2%,9%,0.80)",
+    "color": "hsla(247,77%,59%,0.84)"
   },
   {
-    "backgroundColor": "hsla(311,1%,6%,0.83)",
-    "color": "hsla(71,76%,56%,0.47)"
+    "backgroundColor": "hsla(272,73%,48%,0.89)",
+    "color": "hsla(32,48%,98%,0.85)"
   },
   {
-    "backgroundColor": "hsla(15,55%,72%,0.95)",
-    "color": "hsla(135,30%,22%,0.40)"
+    "backgroundColor": "hsla(82,24%,91%,0.73)",
+    "color": "hsla(202,99%,41%,0.91)"
   },
   {
-    "backgroundColor": "hsla(29,11%,96%,0.72)",
-    "color": "hsla(149,86%,46%,0.51)"
+    "backgroundColor": "hsla(96,99%,52%,0.93)",
+    "color": "hsla(216,74%,2%,0.81)"
   },
   {
-    "backgroundColor": "hsla(57,30%,49%,0.88)",
-    "color": "hsla(177,5%,99%,0.54)"
+    "backgroundColor": "hsla(24,81%,75%,0.92)",
+    "color": "hsla(144,56%,25%,0.91)"
   },
   {
-    "backgroundColor": "hsla(353,97%,3%,0.96)",
-    "color": "hsla(113,72%,53%,0.58)"
+    "backgroundColor": "hsla(62,60%,90%,0.71)",
+    "color": "hsla(182,35%,40%,0.84)"
   },
   {
-    "backgroundColor": "hsla(169,90%,82%,0.90)",
-    "color": "hsla(289,65%,32%,0.53)"
+    "backgroundColor": "hsla(347,75%,3%,0.70)",
+    "color": "hsla(107,50%,53%,0.96)"
   },
   {
-    "backgroundColor": "hsla(20,79%,28%,0.92)",
-    "color": "hsla(140,54%,78%,0.52)"
+    "backgroundColor": "hsla(161,85%,15%,0.77)",
+    "color": "hsla(281,60%,65%,0.90)"
   },
   {
-    "backgroundColor": "hsla(189,42%,55%,0.89)",
-    "color": "hsla(309,17%,5%,0.60)"
+    "backgroundColor": "hsla(11,66%,42%,0.96)",
+    "color": "hsla(131,41%,92%,0.82)"
   },
   {
-    "backgroundColor": "hsla(324,88%,3%,0.77)",
-    "color": "hsla(84,63%,53%,0.56)"
+    "backgroundColor": "hsla(84,56%,16%,0.91)",
+    "color": "hsla(204,31%,66%,0.97)"
   },
   {
-    "backgroundColor": "hsla(269,88%,34%,0.75)",
-    "color": "hsla(29,63%,84%,0.49)"
+    "backgroundColor": "hsla(338,98%,23%,0.75)",
+    "color": "hsla(98,73%,73%,0.96)"
   },
   {
-    "backgroundColor": "hsla(265,21%,34%,0.89)",
-    "color": "hsla(25,96%,84%,0.45)"
+    "backgroundColor": "hsla(220,72%,66%,0.73)",
+    "color": "hsla(340,47%,16%,0.85)"
   },
   {
-    "backgroundColor": "hsla(283,4%,38%,0.86)",
-    "color": "hsla(43,79%,88%,0.48)"
+    "backgroundColor": "hsla(110,64%,99%,0.75)",
+    "color": "hsla(230,39%,49%,0.95)"
   },
   {
-    "backgroundColor": "hsla(28,40%,33%,0.90)",
-    "color": "hsla(148,15%,83%,0.52)"
+    "backgroundColor": "hsla(39,74%,73%,0.88)",
+    "color": "hsla(159,49%,23%,0.91)"
   },
   {
-    "backgroundColor": "hsla(233,16%,58%,0.74)",
-    "color": "hsla(353,91%,8%,0.42)"
+    "backgroundColor": "hsla(110,6%,2%,0.99)",
+    "color": "hsla(230,81%,52%,0.97)"
   },
   {
-    "backgroundColor": "hsla(92,1%,10%,0.85)",
-    "color": "hsla(212,76%,60%,0.50)"
+    "backgroundColor": "hsla(38,71%,80%,0.80)",
+    "color": "hsla(158,46%,30%,0.86)"
   },
   {
-    "backgroundColor": "hsla(340,4%,77%,0.83)",
-    "color": "hsla(100,79%,27%,0.51)"
+    "backgroundColor": "hsla(275,38%,79%,0.83)",
+    "color": "hsla(35,13%,29%,0.87)"
   },
   {
-    "backgroundColor": "hsla(139,6%,0%,0.76)",
-    "color": "hsla(259,81%,50%,0.46)"
+    "backgroundColor": "hsla(167,33%,35%,0.89)",
+    "color": "hsla(287,8%,85%,0.82)"
   },
   {
-    "backgroundColor": "hsla(171,62%,35%,0.81)",
-    "color": "hsla(291,37%,85%,0.52)"
+    "backgroundColor": "hsla(135,28%,13%,0.74)",
+    "color": "hsla(255,3%,63%,0.82)"
   },
   {
-    "backgroundColor": "hsla(133,96%,56%,0.82)",
-    "color": "hsla(253,71%,6%,0.60)"
+    "backgroundColor": "hsla(296,68%,26%,0.75)",
+    "color": "hsla(56,43%,76%,0.80)"
   },
   {
-    "backgroundColor": "hsla(353,34%,96%,0.87)",
-    "color": "hsla(113,9%,46%,0.46)"
+    "backgroundColor": "hsla(255,17%,62%,0.83)",
+    "color": "hsla(15,92%,12%,0.87)"
   },
   {
-    "backgroundColor": "hsla(344,86%,78%,0.89)",
-    "color": "hsla(104,61%,28%,0.51)"
+    "backgroundColor": "hsla(18,54%,23%,0.96)",
+    "color": "hsla(138,29%,73%,0.94)"
   },
   {
-    "backgroundColor": "hsla(236,42%,87%,0.98)",
-    "color": "hsla(356,17%,37%,0.42)"
+    "backgroundColor": "hsla(239,37%,6%,0.76)",
+    "color": "hsla(359,12%,56%,0.90)"
   },
   {
-    "backgroundColor": "hsla(213,47%,27%,0.87)",
-    "color": "hsla(333,22%,77%,0.52)"
+    "backgroundColor": "hsla(183,59%,57%,0.76)",
+    "color": "hsla(303,34%,7%,0.80)"
   },
   {
-    "backgroundColor": "hsla(157,17%,91%,0.81)",
-    "color": "hsla(277,92%,41%,0.49)"
+    "backgroundColor": "hsla(100,75%,44%,0.98)",
+    "color": "hsla(220,50%,94%,0.85)"
   },
   {
-    "backgroundColor": "hsla(18,47%,74%,0.82)",
-    "color": "hsla(138,22%,24%,0.55)"
+    "backgroundColor": "hsla(87,44%,9%,0.92)",
+    "color": "hsla(207,19%,59%,0.91)"
   },
   {
-    "backgroundColor": "hsla(189,94%,83%,0.73)",
-    "color": "hsla(309,69%,33%,0.46)"
+    "backgroundColor": "hsla(198,13%,30%,0.98)",
+    "color": "hsla(318,88%,80%,0.91)"
   },
   {
-    "backgroundColor": "hsla(14,97%,11%,0.79)",
-    "color": "hsla(134,72%,61%,0.49)"
+    "backgroundColor": "hsla(89,28%,97%,0.96)",
+    "color": "hsla(209,3%,47%,0.98)"
   },
   {
-    "backgroundColor": "hsla(145,90%,69%,0.71)",
-    "color": "hsla(265,65%,19%,0.45)"
+    "backgroundColor": "hsla(57,61%,52%,0.80)",
+    "color": "hsla(177,36%,2%,0.97)"
   },
   {
-    "backgroundColor": "hsla(310,17%,9%,0.72)",
-    "color": "hsla(70,92%,59%,0.44)"
+    "backgroundColor": "hsla(222,48%,59%,0.97)",
+    "color": "hsla(342,23%,9%,0.85)"
   },
   {
-    "backgroundColor": "hsla(20,66%,37%,0.87)",
-    "color": "hsla(140,41%,87%,0.55)"
+    "backgroundColor": "hsla(105,47%,91%,0.75)",
+    "color": "hsla(225,22%,41%,0.84)"
   },
   {
-    "backgroundColor": "hsla(288,33%,34%,0.84)",
-    "color": "hsla(48,8%,84%,0.41)"
+    "backgroundColor": "hsla(42,14%,3%,0.80)",
+    "color": "hsla(162,89%,53%,0.81)"
   },
   {
-    "backgroundColor": "hsla(118,8%,25%,0.77)",
-    "color": "hsla(238,83%,75%,0.48)"
+    "backgroundColor": "hsla(134,88%,4%,0.85)",
+    "color": "hsla(254,63%,54%,0.84)"
   },
   {
-    "backgroundColor": "hsla(189,99%,90%,0.95)",
-    "color": "hsla(309,74%,40%,0.50)"
+    "backgroundColor": "hsla(5,65%,33%,0.96)",
+    "color": "hsla(125,40%,83%,0.93)"
   },
   {
-    "backgroundColor": "hsla(153,77%,73%,0.97)",
-    "color": "hsla(273,52%,23%,0.40)"
+    "backgroundColor": "hsla(141,43%,95%,0.85)",
+    "color": "hsla(261,18%,45%,0.90)"
   },
   {
-    "backgroundColor": "hsla(214,7%,99%,0.92)",
-    "color": "hsla(334,82%,49%,0.48)"
+    "backgroundColor": "hsla(188,84%,23%,0.85)",
+    "color": "hsla(308,59%,73%,0.81)"
   },
   {
-    "backgroundColor": "hsla(113,31%,28%,0.97)",
-    "color": "hsla(233,6%,78%,0.59)"
+    "backgroundColor": "hsla(48,0%,25%,0.95)",
+    "color": "hsla(168,75%,75%,0.89)"
   },
   {
-    "backgroundColor": "hsla(359,64%,27%,0.81)",
-    "color": "hsla(119,39%,77%,0.42)"
+    "backgroundColor": "hsla(212,52%,40%,0.79)",
+    "color": "hsla(332,27%,90%,0.98)"
   },
   {
-    "backgroundColor": "hsla(14,43%,15%,0.99)",
-    "color": "hsla(134,18%,65%,0.49)"
+    "backgroundColor": "hsla(35,70%,29%,0.98)",
+    "color": "hsla(155,45%,79%,0.85)"
   },
   {
-    "backgroundColor": "hsla(129,12%,71%,0.89)",
-    "color": "hsla(249,87%,21%,0.54)"
+    "backgroundColor": "hsla(319,79%,20%,0.82)",
+    "color": "hsla(79,54%,70%,0.88)"
   },
   {
-    "backgroundColor": "hsla(112,68%,7%,0.99)",
-    "color": "hsla(232,43%,57%,0.46)"
+    "backgroundColor": "hsla(234,80%,88%,0.82)",
+    "color": "hsla(354,55%,38%,0.99)"
   },
   {
-    "backgroundColor": "hsla(176,72%,21%,0.92)",
-    "color": "hsla(296,47%,71%,0.56)"
+    "backgroundColor": "hsla(347,75%,15%,0.74)",
+    "color": "hsla(107,50%,65%,0.85)"
   },
   {
-    "backgroundColor": "hsla(118,86%,98%,0.78)",
-    "color": "hsla(238,61%,48%,0.49)"
+    "backgroundColor": "hsla(173,40%,77%,0.71)",
+    "color": "hsla(293,15%,27%,0.96)"
   },
   {
-    "backgroundColor": "hsla(157,55%,50%,0.97)",
-    "color": "hsla(277,30%,0%,0.45)"
+    "backgroundColor": "hsla(356,32%,15%,0.88)",
+    "color": "hsla(116,7%,65%,0.84)"
   },
   {
-    "backgroundColor": "hsla(153,89%,86%,0.87)",
-    "color": "hsla(273,64%,36%,0.56)"
+    "backgroundColor": "hsla(103,0%,95%,0.76)",
+    "color": "hsla(223,75%,45%,0.95)"
   },
   {
-    "backgroundColor": "hsla(312,61%,5%,0.91)",
-    "color": "hsla(72,36%,55%,0.52)"
+    "backgroundColor": "hsla(137,1%,50%,0.95)",
+    "color": "hsla(257,76%,0%,0.82)"
   },
   {
-    "backgroundColor": "hsla(199,82%,31%,0.70)",
-    "color": "hsla(319,57%,81%,0.50)"
+    "backgroundColor": "hsla(133,48%,49%,0.88)",
+    "color": "hsla(253,23%,99%,0.93)"
   },
   {
-    "backgroundColor": "hsla(336,59%,14%,0.91)",
-    "color": "hsla(96,34%,64%,0.59)"
+    "backgroundColor": "hsla(95,14%,69%,0.90)",
+    "color": "hsla(215,89%,19%,0.85)"
   },
   {
-    "backgroundColor": "hsla(289,80%,55%,0.82)",
-    "color": "hsla(49,55%,5%,0.52)"
+    "backgroundColor": "hsla(20,54%,11%,0.83)",
+    "color": "hsla(140,29%,61%,0.86)"
   },
   {
-    "backgroundColor": "hsla(6,93%,86%,0.95)",
-    "color": "hsla(126,68%,36%,0.60)"
+    "backgroundColor": "hsla(29,38%,81%,0.85)",
+    "color": "hsla(149,13%,31%,0.83)"
   },
   {
-    "backgroundColor": "hsla(113,97%,86%,0.87)",
-    "color": "hsla(233,72%,36%,0.44)"
+    "backgroundColor": "hsla(279,18%,74%,0.79)",
+    "color": "hsla(39,93%,24%,0.88)"
   },
   {
-    "backgroundColor": "hsla(156,63%,8%,0.99)",
-    "color": "hsla(276,38%,58%,0.48)"
+    "backgroundColor": "hsla(49,61%,60%,0.73)",
+    "color": "hsla(169,36%,10%,0.93)"
   },
   {
-    "backgroundColor": "hsla(39,70%,53%,0.88)",
-    "color": "hsla(159,45%,3%,0.51)"
+    "backgroundColor": "hsla(142,58%,39%,0.84)",
+    "color": "hsla(262,33%,89%,0.84)"
   },
   {
-    "backgroundColor": "hsla(181,40%,15%,0.91)",
-    "color": "hsla(301,15%,65%,0.52)"
+    "backgroundColor": "hsla(340,37%,15%,0.91)",
+    "color": "hsla(100,12%,65%,1.00)"
   },
   {
-    "backgroundColor": "hsla(167,9%,88%,0.82)",
-    "color": "hsla(287,84%,38%,0.52)"
+    "backgroundColor": "hsla(112,74%,92%,0.75)",
+    "color": "hsla(232,49%,42%,0.81)"
   },
   {
-    "backgroundColor": "hsla(75,30%,99%,0.94)",
-    "color": "hsla(195,5%,49%,0.48)"
+    "backgroundColor": "hsla(191,7%,90%,0.90)",
+    "color": "hsla(311,82%,40%,0.85)"
   },
   {
-    "backgroundColor": "hsla(259,78%,21%,0.71)",
-    "color": "hsla(19,53%,71%,0.44)"
+    "backgroundColor": "hsla(86,13%,9%,0.89)",
+    "color": "hsla(206,88%,59%,0.96)"
   },
   {
-    "backgroundColor": "hsla(93,54%,96%,0.83)",
-    "color": "hsla(213,29%,46%,0.50)"
+    "backgroundColor": "hsla(340,72%,7%,0.96)",
+    "color": "hsla(100,47%,57%,0.96)"
   },
   {
-    "backgroundColor": "hsla(132,3%,17%,0.93)",
-    "color": "hsla(252,78%,67%,0.44)"
+    "backgroundColor": "hsla(323,28%,63%,0.75)",
+    "color": "hsla(83,3%,13%,0.87)"
   },
   {
-    "backgroundColor": "hsla(246,6%,61%,0.94)",
-    "color": "hsla(6,81%,11%,0.46)"
+    "backgroundColor": "hsla(350,4%,16%,0.79)",
+    "color": "hsla(110,79%,66%,0.81)"
   },
   {
-    "backgroundColor": "hsla(51,70%,32%,0.83)",
-    "color": "hsla(171,45%,82%,0.51)"
+    "backgroundColor": "hsla(181,60%,24%,0.96)",
+    "color": "hsla(301,35%,74%,0.87)"
   },
   {
-    "backgroundColor": "hsla(320,89%,0%,0.96)",
-    "color": "hsla(80,64%,50%,0.46)"
+    "backgroundColor": "hsla(60,65%,65%,0.80)",
+    "color": "hsla(180,40%,15%,0.88)"
   },
   {
-    "backgroundColor": "hsla(7,88%,60%,0.72)",
-    "color": "hsla(127,63%,10%,0.43)"
+    "backgroundColor": "hsla(317,93%,99%,0.80)",
+    "color": "hsla(77,68%,49%,0.99)"
   },
   {
-    "backgroundColor": "hsla(119,97%,34%,0.72)",
-    "color": "hsla(239,72%,84%,0.44)"
+    "backgroundColor": "hsla(129,84%,81%,0.90)",
+    "color": "hsla(249,59%,31%,0.99)"
   },
   {
-    "backgroundColor": "hsla(319,62%,59%,0.76)",
-    "color": "hsla(79,37%,9%,0.49)"
+    "backgroundColor": "hsla(59,68%,53%,0.75)",
+    "color": "hsla(179,43%,3%,0.93)"
   },
   {
-    "backgroundColor": "hsla(85,74%,96%,0.82)",
-    "color": "hsla(205,49%,46%,0.42)"
+    "backgroundColor": "hsla(338,93%,43%,0.92)",
+    "color": "hsla(98,68%,93%,1.00)"
   },
   {
-    "backgroundColor": "hsla(338,64%,75%,0.83)",
-    "color": "hsla(98,39%,25%,0.48)"
+    "backgroundColor": "hsla(223,58%,48%,0.88)",
+    "color": "hsla(343,33%,98%,0.97)"
   },
   {
-    "backgroundColor": "hsla(154,97%,46%,0.90)",
-    "color": "hsla(274,72%,96%,0.51)"
+    "backgroundColor": "hsla(98,90%,67%,0.75)",
+    "color": "hsla(218,65%,17%,0.86)"
   },
   {
-    "backgroundColor": "hsla(311,10%,36%,0.89)",
-    "color": "hsla(71,85%,86%,0.51)"
+    "backgroundColor": "hsla(210,24%,67%,0.78)",
+    "color": "hsla(330,99%,17%,0.84)"
   },
   {
-    "backgroundColor": "hsla(355,5%,55%,0.89)",
-    "color": "hsla(115,80%,5%,0.53)"
+    "backgroundColor": "hsla(83,12%,19%,0.91)",
+    "color": "hsla(203,87%,69%,0.91)"
   },
   {
-    "backgroundColor": "hsla(173,59%,94%,0.92)",
-    "color": "hsla(293,34%,44%,0.51)"
+    "backgroundColor": "hsla(332,51%,83%,0.82)",
+    "color": "hsla(92,26%,33%,0.87)"
   },
   {
-    "backgroundColor": "hsla(314,73%,12%,0.98)",
-    "color": "hsla(74,48%,62%,0.45)"
+    "backgroundColor": "hsla(125,67%,9%,0.85)",
+    "color": "hsla(245,42%,59%,0.83)"
   },
   {
-    "backgroundColor": "hsla(151,34%,76%,0.83)",
-    "color": "hsla(271,9%,26%,0.42)"
+    "backgroundColor": "hsla(221,66%,15%,0.87)",
+    "color": "hsla(341,41%,65%,0.84)"
   },
   {
-    "backgroundColor": "hsla(171,47%,84%,0.83)",
-    "color": "hsla(291,22%,34%,0.55)"
+    "backgroundColor": "hsla(148,96%,20%,0.90)",
+    "color": "hsla(268,71%,70%,0.89)"
   },
   {
-    "backgroundColor": "hsla(274,73%,43%,0.72)",
-    "color": "hsla(34,48%,93%,0.47)"
+    "backgroundColor": "hsla(306,58%,48%,0.80)",
+    "color": "hsla(66,33%,98%,0.83)"
   },
   {
-    "backgroundColor": "hsla(0,33%,37%,0.81)",
-    "color": "hsla(120,8%,87%,0.42)"
+    "backgroundColor": "hsla(209,21%,66%,0.76)",
+    "color": "hsla(329,96%,16%,0.96)"
   },
   {
-    "backgroundColor": "hsla(337,30%,23%,0.74)",
-    "color": "hsla(97,5%,73%,0.53)"
+    "backgroundColor": "hsla(64,62%,74%,0.91)",
+    "color": "hsla(184,37%,24%,0.85)"
   },
   {
-    "backgroundColor": "hsla(340,36%,63%,0.95)",
-    "color": "hsla(100,11%,13%,0.47)"
+    "backgroundColor": "hsla(177,77%,20%,0.85)",
+    "color": "hsla(297,52%,70%,0.84)"
   },
   {
-    "backgroundColor": "hsla(210,4%,4%,0.75)",
-    "color": "hsla(330,79%,54%,0.53)"
+    "backgroundColor": "hsla(133,91%,84%,0.91)",
+    "color": "hsla(253,66%,34%,0.82)"
   },
   {
-    "backgroundColor": "hsla(80,55%,52%,0.87)",
-    "color": "hsla(200,30%,2%,0.41)"
+    "backgroundColor": "hsla(231,29%,84%,0.96)",
+    "color": "hsla(351,4%,34%,0.98)"
   },
   {
-    "backgroundColor": "hsla(323,71%,8%,0.97)",
-    "color": "hsla(83,46%,58%,0.44)"
+    "backgroundColor": "hsla(55,64%,81%,0.86)",
+    "color": "hsla(175,39%,31%,0.93)"
   },
   {
-    "backgroundColor": "hsla(198,6%,54%,0.88)",
-    "color": "hsla(318,81%,4%,0.44)"
+    "backgroundColor": "hsla(226,94%,50%,0.71)",
+    "color": "hsla(346,69%,0%,0.93)"
   },
   {
-    "backgroundColor": "hsla(333,35%,33%,0.86)",
-    "color": "hsla(93,10%,83%,0.49)"
+    "backgroundColor": "hsla(84,82%,77%,0.85)",
+    "color": "hsla(204,57%,27%,0.90)"
   },
   {
-    "backgroundColor": "hsla(41,36%,52%,0.74)",
-    "color": "hsla(161,11%,2%,0.42)"
+    "backgroundColor": "hsla(324,87%,90%,0.88)",
+    "color": "hsla(84,62%,40%,0.86)"
   },
   {
-    "backgroundColor": "hsla(59,25%,30%,0.75)",
-    "color": "hsla(179,0%,80%,0.44)"
+    "backgroundColor": "hsla(337,1%,27%,0.93)",
+    "color": "hsla(97,76%,77%,0.97)"
   },
   {
-    "backgroundColor": "hsla(68,52%,79%,0.87)",
-    "color": "hsla(188,27%,29%,0.45)"
+    "backgroundColor": "hsla(134,60%,24%,0.76)",
+    "color": "hsla(254,35%,74%,0.87)"
   },
   {
-    "backgroundColor": "hsla(223,99%,47%,0.82)",
-    "color": "hsla(343,74%,97%,0.58)"
+    "backgroundColor": "hsla(330,37%,82%,0.96)",
+    "color": "hsla(90,12%,32%,0.80)"
   },
   {
-    "backgroundColor": "hsla(19,64%,67%,0.72)",
-    "color": "hsla(139,39%,17%,0.45)"
+    "backgroundColor": "hsla(287,27%,41%,0.73)",
+    "color": "hsla(47,2%,91%,0.92)"
   },
   {
-    "backgroundColor": "hsla(166,68%,70%,0.92)",
-    "color": "hsla(286,43%,20%,0.49)"
+    "backgroundColor": "hsla(125,78%,51%,0.93)",
+    "color": "hsla(245,53%,1%,0.91)"
   },
   {
-    "backgroundColor": "hsla(121,32%,18%,0.77)",
-    "color": "hsla(241,7%,68%,0.49)"
+    "backgroundColor": "hsla(73,28%,9%,0.72)",
+    "color": "hsla(193,3%,59%,0.92)"
   },
   {
-    "backgroundColor": "hsla(37,98%,13%,0.76)",
-    "color": "hsla(157,73%,63%,0.53)"
+    "backgroundColor": "hsla(257,67%,13%,0.76)",
+    "color": "hsla(17,42%,63%,0.88)"
   },
   {
-    "backgroundColor": "hsla(338,32%,58%,0.82)",
-    "color": "hsla(98,7%,8%,0.54)"
+    "backgroundColor": "hsla(148,18%,44%,0.74)",
+    "color": "hsla(268,93%,94%,0.82)"
   },
   {
-    "backgroundColor": "hsla(40,26%,32%,0.84)",
-    "color": "hsla(160,1%,82%,0.58)"
+    "backgroundColor": "hsla(294,74%,0%,0.99)",
+    "color": "hsla(54,49%,50%,0.96)"
   },
   {
-    "backgroundColor": "hsla(169,59%,84%,0.70)",
-    "color": "hsla(289,34%,34%,0.45)"
+    "backgroundColor": "hsla(244,8%,36%,0.94)",
+    "color": "hsla(4,83%,86%,0.84)"
   },
   {
-    "backgroundColor": "hsla(186,98%,13%,0.90)",
-    "color": "hsla(306,73%,63%,0.47)"
+    "backgroundColor": "hsla(283,17%,70%,0.80)",
+    "color": "hsla(43,92%,20%,0.90)"
   },
   {
-    "backgroundColor": "hsla(183,66%,24%,0.79)",
-    "color": "hsla(303,41%,74%,0.55)"
+    "backgroundColor": "hsla(163,99%,28%,0.88)",
+    "color": "hsla(283,74%,78%,0.89)"
   },
   {
-    "backgroundColor": "hsla(142,90%,41%,0.89)",
-    "color": "hsla(262,65%,91%,0.50)"
+    "backgroundColor": "hsla(268,63%,81%,0.87)",
+    "color": "hsla(28,38%,31%,0.85)"
   },
   {
-    "backgroundColor": "hsla(303,77%,60%,0.94)",
-    "color": "hsla(63,52%,10%,0.52)"
+    "backgroundColor": "hsla(61,72%,87%,0.99)",
+    "color": "hsla(181,47%,37%,0.80)"
   },
   {
-    "backgroundColor": "hsla(332,97%,28%,0.74)",
-    "color": "hsla(92,72%,78%,0.57)"
+    "backgroundColor": "hsla(121,58%,84%,0.96)",
+    "color": "hsla(241,33%,34%,0.88)"
   },
   {
-    "backgroundColor": "hsla(198,11%,9%,0.74)",
-    "color": "hsla(318,86%,59%,0.44)"
+    "backgroundColor": "hsla(337,49%,64%,0.86)",
+    "color": "hsla(97,24%,14%,0.92)"
   },
   {
-    "backgroundColor": "hsla(27,41%,60%,0.82)",
-    "color": "hsla(147,16%,10%,0.50)"
+    "backgroundColor": "hsla(194,54%,59%,0.87)",
+    "color": "hsla(314,29%,9%,0.94)"
   },
   {
-    "backgroundColor": "hsla(281,90%,10%,0.84)",
-    "color": "hsla(41,65%,60%,0.45)"
+    "backgroundColor": "hsla(152,93%,83%,0.84)",
+    "color": "hsla(272,68%,33%,0.81)"
   },
   {
-    "backgroundColor": "hsla(222,48%,59%,0.82)",
-    "color": "hsla(342,23%,9%,0.56)"
+    "backgroundColor": "hsla(65,6%,47%,0.72)",
+    "color": "hsla(185,81%,97%,0.98)"
   },
   {
-    "backgroundColor": "hsla(180,38%,45%,0.82)",
-    "color": "hsla(300,13%,95%,0.54)"
+    "backgroundColor": "hsla(0,39%,36%,0.90)",
+    "color": "hsla(120,14%,86%,0.97)"
   },
   {
-    "backgroundColor": "hsla(141,33%,2%,0.88)",
-    "color": "hsla(261,8%,52%,0.41)"
+    "backgroundColor": "hsla(347,57%,85%,0.86)",
+    "color": "hsla(107,32%,35%,0.93)"
   },
   {
-    "backgroundColor": "hsla(118,18%,89%,0.94)",
-    "color": "hsla(238,93%,39%,0.49)"
+    "backgroundColor": "hsla(177,0%,62%,0.86)",
+    "color": "hsla(297,75%,12%,0.95)"
   },
   {
-    "backgroundColor": "hsla(19,36%,59%,0.89)",
-    "color": "hsla(139,11%,9%,0.48)"
+    "backgroundColor": "hsla(281,14%,83%,0.90)",
+    "color": "hsla(41,89%,33%,0.89)"
   },
   {
-    "backgroundColor": "hsla(160,61%,64%,0.99)",
-    "color": "hsla(280,36%,14%,0.46)"
+    "backgroundColor": "hsla(359,17%,39%,0.73)",
+    "color": "hsla(119,92%,89%,0.84)"
   },
   {
-    "backgroundColor": "hsla(251,0%,70%,0.80)",
-    "color": "hsla(11,75%,20%,0.48)"
+    "backgroundColor": "hsla(48,65%,58%,0.98)",
+    "color": "hsla(168,40%,8%,0.81)"
   },
   {
-    "backgroundColor": "hsla(48,96%,38%,0.74)",
-    "color": "hsla(168,71%,88%,0.41)"
+    "backgroundColor": "hsla(242,66%,86%,0.74)",
+    "color": "hsla(2,41%,36%,0.81)"
   },
   {
-    "backgroundColor": "hsla(171,93%,48%,0.82)",
-    "color": "hsla(291,68%,98%,0.47)"
+    "backgroundColor": "hsla(310,42%,8%,0.98)",
+    "color": "hsla(70,17%,58%,0.99)"
   },
   {
-    "backgroundColor": "hsla(23,20%,47%,0.78)",
-    "color": "hsla(143,95%,97%,0.42)"
+    "backgroundColor": "hsla(51,63%,40%,0.80)",
+    "color": "hsla(171,38%,90%,0.83)"
   },
   {
-    "backgroundColor": "hsla(273,21%,94%,0.78)",
-    "color": "hsla(33,96%,44%,0.41)"
+    "backgroundColor": "hsla(258,16%,41%,0.89)",
+    "color": "hsla(18,91%,91%,0.83)"
   },
   {
-    "backgroundColor": "hsla(283,22%,70%,0.85)",
-    "color": "hsla(43,97%,20%,0.55)"
+    "backgroundColor": "hsla(308,93%,87%,0.87)",
+    "color": "hsla(68,68%,37%,0.84)"
   },
   {
-    "backgroundColor": "hsla(39,12%,28%,0.77)",
-    "color": "hsla(159,87%,78%,0.47)"
+    "backgroundColor": "hsla(299,52%,1%,0.87)",
+    "color": "hsla(59,27%,51%,0.92)"
   },
   {
-    "backgroundColor": "hsla(24,14%,14%,0.91)",
-    "color": "hsla(144,89%,64%,0.58)"
+    "backgroundColor": "hsla(341,99%,79%,0.88)",
+    "color": "hsla(101,74%,29%,0.90)"
   },
   {
-    "backgroundColor": "hsla(1,28%,14%,0.92)",
-    "color": "hsla(121,3%,64%,0.47)"
+    "backgroundColor": "hsla(186,99%,92%,0.75)",
+    "color": "hsla(306,74%,42%,0.81)"
   },
   {
-    "backgroundColor": "hsla(81,76%,70%,0.72)",
-    "color": "hsla(201,51%,20%,0.54)"
+    "backgroundColor": "hsla(82,30%,31%,0.87)",
+    "color": "hsla(202,5%,81%,0.98)"
   },
   {
-    "backgroundColor": "hsla(67,49%,62%,0.90)",
-    "color": "hsla(187,24%,12%,0.48)"
+    "backgroundColor": "hsla(225,26%,32%,0.74)",
+    "color": "hsla(345,1%,82%,0.82)"
   },
   {
-    "backgroundColor": "hsla(82,94%,66%,0.80)",
-    "color": "hsla(202,69%,16%,0.56)"
+    "backgroundColor": "hsla(137,0%,69%,0.99)",
+    "color": "hsla(257,75%,19%,0.87)"
   },
   {
-    "backgroundColor": "hsla(70,41%,88%,0.74)",
-    "color": "hsla(190,16%,38%,0.45)"
+    "backgroundColor": "hsla(238,48%,32%,0.79)",
+    "color": "hsla(358,23%,82%,1.00)"
   },
   {
-    "backgroundColor": "hsla(40,98%,14%,0.71)",
-    "color": "hsla(160,73%,64%,0.47)"
+    "backgroundColor": "hsla(211,77%,12%,0.86)",
+    "color": "hsla(331,52%,62%,0.97)"
   },
   {
-    "backgroundColor": "hsla(351,74%,91%,0.71)",
-    "color": "hsla(111,49%,41%,0.52)"
+    "backgroundColor": "hsla(236,6%,9%,0.71)",
+    "color": "hsla(356,81%,59%,0.84)"
   },
   {
-    "backgroundColor": "hsla(268,51%,28%,0.83)",
-    "color": "hsla(28,26%,78%,0.46)"
+    "backgroundColor": "hsla(289,8%,14%,0.94)",
+    "color": "hsla(49,83%,64%,0.85)"
   },
   {
-    "backgroundColor": "hsla(91,76%,53%,1.00)",
-    "color": "hsla(211,51%,3%,0.53)"
+    "backgroundColor": "hsla(152,85%,42%,0.94)",
+    "color": "hsla(272,60%,92%,0.86)"
   },
   {
-    "backgroundColor": "hsla(357,96%,3%,0.86)",
-    "color": "hsla(117,71%,53%,0.43)"
+    "backgroundColor": "hsla(122,30%,33%,0.75)",
+    "color": "hsla(242,5%,83%,0.83)"
   },
   {
-    "backgroundColor": "hsla(187,16%,21%,0.99)",
-    "color": "hsla(307,91%,71%,0.54)"
+    "backgroundColor": "hsla(6,65%,57%,0.75)",
+    "color": "hsla(126,40%,7%,0.94)"
   },
   {
-    "backgroundColor": "hsla(221,25%,27%,0.94)",
-    "color": "hsla(341,0%,77%,0.58)"
+    "backgroundColor": "hsla(211,85%,4%,0.70)",
+    "color": "hsla(331,60%,54%,0.94)"
   },
   {
-    "backgroundColor": "hsla(125,4%,68%,0.93)",
-    "color": "hsla(245,79%,18%,0.51)"
+    "backgroundColor": "hsla(151,43%,84%,0.85)",
+    "color": "hsla(271,18%,34%,0.87)"
   },
   {
-    "backgroundColor": "hsla(157,18%,13%,0.87)",
-    "color": "hsla(277,93%,63%,0.43)"
+    "backgroundColor": "hsla(180,48%,42%,0.92)",
+    "color": "hsla(300,23%,92%,0.91)"
   },
   {
-    "backgroundColor": "hsla(79,91%,10%,0.89)",
-    "color": "hsla(199,66%,60%,0.44)"
+    "backgroundColor": "hsla(127,79%,46%,0.94)",
+    "color": "hsla(247,54%,96%,0.99)"
   },
   {
-    "backgroundColor": "hsla(128,50%,37%,0.93)",
-    "color": "hsla(248,25%,87%,0.50)"
+    "backgroundColor": "hsla(199,91%,28%,0.90)",
+    "color": "hsla(319,66%,78%,0.95)"
   },
   {
-    "backgroundColor": "hsla(291,84%,37%,0.88)",
-    "color": "hsla(51,59%,87%,0.53)"
+    "backgroundColor": "hsla(69,81%,54%,0.90)",
+    "color": "hsla(189,56%,4%,0.83)"
   },
   {
-    "backgroundColor": "hsla(289,58%,99%,0.95)",
-    "color": "hsla(49,33%,49%,0.54)"
+    "backgroundColor": "hsla(7,69%,92%,0.95)",
+    "color": "hsla(127,44%,42%,0.95)"
   },
   {
-    "backgroundColor": "hsla(267,97%,72%,0.74)",
-    "color": "hsla(27,72%,22%,0.51)"
+    "backgroundColor": "hsla(296,55%,82%,0.97)",
+    "color": "hsla(56,30%,32%,0.97)"
   },
   {
-    "backgroundColor": "hsla(62,94%,21%,0.86)",
-    "color": "hsla(182,69%,71%,0.56)"
+    "backgroundColor": "hsla(348,32%,0%,0.71)",
+    "color": "hsla(108,7%,50%,0.86)"
   },
   {
-    "backgroundColor": "hsla(257,25%,65%,0.80)",
-    "color": "hsla(17,0%,15%,0.41)"
+    "backgroundColor": "hsla(223,26%,58%,0.73)",
+    "color": "hsla(343,1%,8%,0.90)"
   },
   {
-    "backgroundColor": "hsla(66,0%,72%,0.99)",
-    "color": "hsla(186,75%,22%,0.43)"
+    "backgroundColor": "hsla(246,49%,80%,0.91)",
+    "color": "hsla(6,24%,30%,0.93)"
   },
   {
-    "backgroundColor": "hsla(52,79%,12%,0.78)",
-    "color": "hsla(172,54%,62%,0.50)"
+    "backgroundColor": "hsla(286,86%,30%,0.95)",
+    "color": "hsla(46,61%,80%,0.93)"
   },
   {
-    "backgroundColor": "hsla(332,9%,0%,0.78)",
-    "color": "hsla(92,84%,50%,0.58)"
+    "backgroundColor": "hsla(355,35%,9%,0.87)",
+    "color": "hsla(115,10%,59%,0.82)"
   },
   {
-    "backgroundColor": "hsla(113,32%,88%,0.97)",
-    "color": "hsla(233,7%,38%,0.46)"
+    "backgroundColor": "hsla(107,30%,93%,0.91)",
+    "color": "hsla(227,5%,43%,0.90)"
   },
   {
-    "backgroundColor": "hsla(148,50%,60%,0.80)",
-    "color": "hsla(268,25%,10%,0.60)"
+    "backgroundColor": "hsla(345,17%,13%,0.90)",
+    "color": "hsla(105,92%,63%,0.92)"
   },
   {
-    "backgroundColor": "hsla(99,73%,2%,0.96)",
-    "color": "hsla(219,48%,52%,0.49)"
+    "backgroundColor": "hsla(189,54%,1%,0.89)",
+    "color": "hsla(309,29%,51%,0.94)"
   },
   {
-    "backgroundColor": "hsla(300,30%,55%,0.97)",
-    "color": "hsla(60,5%,5%,0.52)"
+    "backgroundColor": "hsla(17,12%,57%,0.84)",
+    "color": "hsla(137,87%,7%,0.97)"
   },
   {
-    "backgroundColor": "hsla(105,15%,13%,0.78)",
-    "color": "hsla(225,90%,63%,0.59)"
+    "backgroundColor": "hsla(58,54%,34%,0.91)",
+    "color": "hsla(178,29%,84%,0.94)"
   },
   {
-    "backgroundColor": "hsla(189,29%,47%,0.77)",
-    "color": "hsla(309,4%,97%,0.47)"
+    "backgroundColor": "hsla(225,88%,63%,0.82)",
+    "color": "hsla(345,63%,13%,0.83)"
   },
   {
-    "backgroundColor": "hsla(327,0%,30%,0.98)",
-    "color": "hsla(87,75%,80%,0.51)"
+    "backgroundColor": "hsla(48,49%,52%,0.76)",
+    "color": "hsla(168,24%,2%,0.92)"
   },
   {
-    "backgroundColor": "hsla(110,24%,3%,0.75)",
-    "color": "hsla(230,99%,53%,0.44)"
+    "backgroundColor": "hsla(97,72%,93%,0.96)",
+    "color": "hsla(217,47%,43%,0.94)"
   },
   {
-    "backgroundColor": "hsla(125,89%,37%,0.70)",
-    "color": "hsla(245,64%,87%,0.49)"
+    "backgroundColor": "hsla(269,49%,22%,0.91)",
+    "color": "hsla(29,24%,72%,0.96)"
   },
   {
-    "backgroundColor": "hsla(206,28%,6%,0.94)",
-    "color": "hsla(326,3%,56%,0.54)"
+    "backgroundColor": "hsla(60,60%,36%,0.81)",
+    "color": "hsla(180,35%,86%,0.84)"
   },
   {
-    "backgroundColor": "hsla(156,45%,63%,0.75)",
-    "color": "hsla(276,20%,13%,0.53)"
+    "backgroundColor": "hsla(191,97%,18%,0.91)",
+    "color": "hsla(311,72%,68%,0.90)"
   },
   {
-    "backgroundColor": "hsla(256,0%,22%,0.75)",
-    "color": "hsla(16,75%,72%,0.56)"
+    "backgroundColor": "hsla(325,54%,22%,0.85)",
+    "color": "hsla(85,29%,72%,0.99)"
   },
   {
-    "backgroundColor": "hsla(193,25%,28%,0.82)",
-    "color": "hsla(313,0%,78%,0.59)"
+    "backgroundColor": "hsla(340,6%,95%,0.96)",
+    "color": "hsla(100,81%,45%,0.88)"
   },
   {
-    "backgroundColor": "hsla(189,4%,23%,0.82)",
-    "color": "hsla(309,79%,73%,0.44)"
+    "backgroundColor": "hsla(16,70%,35%,0.81)",
+    "color": "hsla(136,45%,85%,0.93)"
   },
   {
-    "backgroundColor": "hsla(289,73%,8%,0.96)",
-    "color": "hsla(49,48%,58%,0.52)"
+    "backgroundColor": "hsla(230,89%,80%,0.74)",
+    "color": "hsla(350,64%,30%,0.96)"
   },
   {
-    "backgroundColor": "hsla(43,67%,31%,0.98)",
-    "color": "hsla(163,42%,81%,0.48)"
+    "backgroundColor": "hsla(19,81%,77%,0.97)",
+    "color": "hsla(139,56%,27%,0.85)"
   },
   {
-    "backgroundColor": "hsla(56,78%,36%,0.94)",
-    "color": "hsla(176,53%,86%,0.44)"
+    "backgroundColor": "hsla(38,5%,87%,0.94)",
+    "color": "hsla(158,80%,37%,0.82)"
   },
   {
-    "backgroundColor": "hsla(235,68%,4%,0.75)",
-    "color": "hsla(355,43%,54%,0.57)"
+    "backgroundColor": "hsla(127,17%,46%,0.76)",
+    "color": "hsla(247,92%,96%,0.94)"
   },
   {
-    "backgroundColor": "hsla(264,63%,18%,0.93)",
-    "color": "hsla(24,38%,68%,0.50)"
+    "backgroundColor": "hsla(83,39%,50%,0.83)",
+    "color": "hsla(203,14%,0%,0.82)"
   },
   {
-    "backgroundColor": "hsla(217,58%,49%,0.77)",
-    "color": "hsla(337,33%,99%,0.60)"
+    "backgroundColor": "hsla(241,16%,55%,0.88)",
+    "color": "hsla(1,91%,5%,0.94)"
   },
   {
-    "backgroundColor": "hsla(165,76%,15%,0.98)",
-    "color": "hsla(285,51%,65%,0.59)"
+    "backgroundColor": "hsla(122,11%,15%,0.95)",
+    "color": "hsla(242,86%,65%,0.94)"
   },
   {
-    "backgroundColor": "hsla(31,23%,26%,0.71)",
-    "color": "hsla(151,98%,76%,0.40)"
+    "backgroundColor": "hsla(101,75%,28%,0.99)",
+    "color": "hsla(221,50%,78%,0.99)"
   },
   {
-    "backgroundColor": "hsla(55,64%,53%,0.97)",
-    "color": "hsla(175,39%,3%,0.59)"
+    "backgroundColor": "hsla(308,59%,27%,0.84)",
+    "color": "hsla(68,34%,77%,0.86)"
   },
   {
-    "backgroundColor": "hsla(208,19%,82%,0.93)",
-    "color": "hsla(328,94%,32%,0.53)"
+    "backgroundColor": "hsla(9,66%,4%,0.84)",
+    "color": "hsla(129,41%,54%,0.96)"
   },
   {
-    "backgroundColor": "hsla(154,72%,58%,0.78)",
-    "color": "hsla(274,47%,8%,0.51)"
+    "backgroundColor": "hsla(274,74%,47%,0.98)",
+    "color": "hsla(34,49%,97%,0.81)"
   },
   {
-    "backgroundColor": "hsla(331,40%,43%,0.83)",
-    "color": "hsla(91,15%,93%,0.55)"
+    "backgroundColor": "hsla(230,65%,60%,0.86)",
+    "color": "hsla(350,40%,10%,0.95)"
   },
   {
-    "backgroundColor": "hsla(142,86%,65%,0.95)",
-    "color": "hsla(262,61%,15%,0.45)"
+    "backgroundColor": "hsla(167,70%,97%,0.91)",
+    "color": "hsla(287,45%,47%,0.80)"
   },
   {
-    "backgroundColor": "hsla(335,16%,95%,0.86)",
-    "color": "hsla(95,91%,45%,0.46)"
+    "backgroundColor": "hsla(148,60%,88%,0.75)",
+    "color": "hsla(268,35%,38%,0.97)"
   },
   {
-    "backgroundColor": "hsla(62,4%,11%,0.71)",
-    "color": "hsla(182,79%,61%,0.54)"
+    "backgroundColor": "hsla(74,10%,23%,0.97)",
+    "color": "hsla(194,85%,73%,0.84)"
   },
   {
-    "backgroundColor": "hsla(86,15%,42%,0.95)",
-    "color": "hsla(206,90%,92%,0.54)"
+    "backgroundColor": "hsla(199,99%,25%,0.92)",
+    "color": "hsla(319,74%,75%,0.82)"
   },
   {
-    "backgroundColor": "hsla(176,89%,67%,0.99)",
-    "color": "hsla(296,64%,17%,0.46)"
+    "backgroundColor": "hsla(38,34%,38%,0.94)",
+    "color": "hsla(158,9%,88%,0.87)"
   },
   {
-    "backgroundColor": "hsla(20,78%,51%,0.79)",
-    "color": "hsla(140,53%,1%,0.48)"
+    "backgroundColor": "hsla(2,77%,22%,0.71)",
+    "color": "hsla(122,52%,72%,0.83)"
   },
   {
-    "backgroundColor": "hsla(235,43%,11%,0.85)",
-    "color": "hsla(355,18%,61%,0.44)"
+    "backgroundColor": "hsla(309,74%,39%,0.75)",
+    "color": "hsla(69,49%,89%,0.95)"
   },
   {
-    "backgroundColor": "hsla(244,54%,3%,0.72)",
-    "color": "hsla(4,29%,53%,0.46)"
+    "backgroundColor": "hsla(56,28%,53%,0.88)",
+    "color": "hsla(176,3%,3%,0.85)"
   },
   {
-    "backgroundColor": "hsla(223,86%,48%,0.90)",
-    "color": "hsla(343,61%,98%,0.48)"
+    "backgroundColor": "hsla(56,58%,66%,0.73)",
+    "color": "hsla(176,33%,16%,1.00)"
   },
   {
-    "backgroundColor": "hsla(279,62%,84%,0.90)",
-    "color": "hsla(39,37%,34%,0.47)"
+    "backgroundColor": "hsla(93,81%,13%,0.91)",
+    "color": "hsla(213,56%,63%,0.89)"
   },
   {
-    "backgroundColor": "hsla(237,22%,94%,0.98)",
-    "color": "hsla(357,97%,44%,0.51)"
+    "backgroundColor": "hsla(100,34%,76%,0.96)",
+    "color": "hsla(220,9%,26%,0.94)"
   },
   {
-    "backgroundColor": "hsla(236,92%,33%,0.90)",
-    "color": "hsla(356,67%,83%,0.40)"
+    "backgroundColor": "hsla(273,45%,16%,0.95)",
+    "color": "hsla(33,20%,66%,0.81)"
   },
   {
-    "backgroundColor": "hsla(242,66%,89%,0.74)",
-    "color": "hsla(2,41%,39%,0.60)"
+    "backgroundColor": "hsla(163,3%,49%,0.84)",
+    "color": "hsla(283,78%,99%,0.83)"
   },
   {
-    "backgroundColor": "hsla(108,56%,61%,0.93)",
-    "color": "hsla(228,31%,11%,0.57)"
+    "backgroundColor": "hsla(68,56%,88%,0.94)",
+    "color": "hsla(188,31%,38%,0.93)"
   },
   {
-    "backgroundColor": "hsla(282,48%,81%,0.75)",
-    "color": "hsla(42,23%,31%,0.50)"
+    "backgroundColor": "hsla(53,73%,84%,0.99)",
+    "color": "hsla(173,48%,34%,0.93)"
   },
   {
-    "backgroundColor": "hsla(144,66%,73%,0.98)",
-    "color": "hsla(264,41%,23%,0.57)"
+    "backgroundColor": "hsla(235,27%,50%,0.80)",
+    "color": "hsla(355,2%,0%,0.87)"
   },
   {
-    "backgroundColor": "hsla(68,29%,9%,1.00)",
-    "color": "hsla(188,4%,59%,0.55)"
+    "backgroundColor": "hsla(25,60%,90%,0.91)",
+    "color": "hsla(145,35%,40%,0.87)"
   },
   {
-    "backgroundColor": "hsla(119,5%,2%,0.95)",
-    "color": "hsla(239,80%,52%,0.56)"
+    "backgroundColor": "hsla(93,39%,97%,0.84)",
+    "color": "hsla(213,14%,47%,0.98)"
   },
   {
-    "backgroundColor": "hsla(216,41%,17%,0.82)",
-    "color": "hsla(336,16%,67%,0.44)"
+    "backgroundColor": "hsla(353,11%,52%,0.94)",
+    "color": "hsla(113,86%,2%,0.92)"
   },
   {
-    "backgroundColor": "hsla(306,47%,2%,0.80)",
-    "color": "hsla(66,22%,52%,0.47)"
+    "backgroundColor": "hsla(322,61%,11%,0.95)",
+    "color": "hsla(82,36%,61%,0.85)"
   },
   {
-    "backgroundColor": "hsla(62,27%,11%,0.72)",
-    "color": "hsla(182,2%,61%,0.57)"
+    "backgroundColor": "hsla(172,73%,15%,0.71)",
+    "color": "hsla(292,48%,65%,0.83)"
   },
   {
-    "backgroundColor": "hsla(334,42%,17%,0.94)",
-    "color": "hsla(94,17%,67%,0.51)"
+    "backgroundColor": "hsla(352,93%,45%,0.71)",
+    "color": "hsla(112,68%,95%,0.90)"
   },
   {
-    "backgroundColor": "hsla(102,35%,12%,0.83)",
-    "color": "hsla(222,10%,62%,0.40)"
+    "backgroundColor": "hsla(295,19%,66%,0.93)",
+    "color": "hsla(55,94%,16%,0.94)"
   },
   {
-    "backgroundColor": "hsla(4,37%,40%,0.83)",
-    "color": "hsla(124,12%,90%,0.45)"
+    "backgroundColor": "hsla(284,57%,8%,0.71)",
+    "color": "hsla(44,32%,58%,0.83)"
   },
   {
-    "backgroundColor": "hsla(65,16%,51%,0.87)",
-    "color": "hsla(185,91%,1%,0.49)"
+    "backgroundColor": "hsla(347,32%,93%,0.81)",
+    "color": "hsla(107,7%,43%,0.95)"
   },
   {
-    "backgroundColor": "hsla(349,47%,81%,0.81)",
-    "color": "hsla(109,22%,31%,0.53)"
+    "backgroundColor": "hsla(41,52%,14%,0.95)",
+    "color": "hsla(161,27%,64%,0.98)"
   },
   {
-    "backgroundColor": "hsla(283,66%,2%,0.87)",
-    "color": "hsla(43,41%,52%,0.50)"
+    "backgroundColor": "hsla(90,25%,86%,0.82)",
+    "color": "hsla(210,0%,36%,0.81)"
   },
   {
-    "backgroundColor": "hsla(293,73%,68%,0.82)",
-    "color": "hsla(53,48%,18%,0.55)"
+    "backgroundColor": "hsla(72,3%,26%,0.91)",
+    "color": "hsla(192,78%,76%,0.97)"
   },
   {
-    "backgroundColor": "hsla(7,27%,19%,0.79)",
-    "color": "hsla(127,2%,69%,0.49)"
+    "backgroundColor": "hsla(70,23%,45%,0.82)",
+    "color": "hsla(190,98%,95%,0.96)"
   },
   {
-    "backgroundColor": "hsla(295,21%,60%,0.80)",
-    "color": "hsla(55,96%,10%,0.47)"
+    "backgroundColor": "hsla(82,11%,98%,0.92)",
+    "color": "hsla(202,86%,48%,0.98)"
   },
   {
-    "backgroundColor": "hsla(169,75%,99%,0.92)",
-    "color": "hsla(289,50%,49%,0.48)"
+    "backgroundColor": "hsla(194,1%,14%,0.85)",
+    "color": "hsla(314,76%,64%,0.91)"
   },
   {
-    "backgroundColor": "hsla(100,98%,25%,0.88)",
-    "color": "hsla(220,73%,75%,0.42)"
+    "backgroundColor": "hsla(283,21%,96%,0.96)",
+    "color": "hsla(43,96%,46%,0.99)"
   },
   {
-    "backgroundColor": "hsla(28,35%,72%,0.95)",
-    "color": "hsla(148,10%,22%,0.58)"
+    "backgroundColor": "hsla(66,26%,74%,0.77)",
+    "color": "hsla(186,1%,24%,0.85)"
   },
   {
-    "backgroundColor": "hsla(325,92%,6%,0.87)",
-    "color": "hsla(85,67%,56%,0.50)"
+    "backgroundColor": "hsla(81,99%,21%,0.86)",
+    "color": "hsla(201,74%,71%,0.92)"
   },
   {
-    "backgroundColor": "hsla(332,36%,58%,0.82)",
-    "color": "hsla(92,11%,8%,0.57)"
+    "backgroundColor": "hsla(324,47%,14%,0.98)",
+    "color": "hsla(84,22%,64%,0.97)"
   },
   {
-    "backgroundColor": "hsla(207,13%,47%,0.78)",
-    "color": "hsla(327,88%,97%,0.49)"
+    "backgroundColor": "hsla(169,2%,50%,0.79)",
+    "color": "hsla(289,77%,0%,0.85)"
   },
   {
-    "backgroundColor": "hsla(112,53%,35%,0.75)",
-    "color": "hsla(232,28%,85%,0.60)"
+    "backgroundColor": "hsla(183,6%,95%,0.75)",
+    "color": "hsla(303,81%,45%,0.98)"
   },
   {
-    "backgroundColor": "hsla(161,8%,36%,0.90)",
-    "color": "hsla(281,83%,86%,0.45)"
+    "backgroundColor": "hsla(10,60%,86%,0.80)",
+    "color": "hsla(130,35%,36%,0.85)"
   },
   {
-    "backgroundColor": "hsla(253,35%,66%,0.88)",
-    "color": "hsla(13,10%,16%,0.50)"
+    "backgroundColor": "hsla(33,49%,84%,0.81)",
+    "color": "hsla(153,24%,34%,0.85)"
   },
   {
-    "backgroundColor": "hsla(59,47%,97%,1.00)",
-    "color": "hsla(179,22%,47%,0.52)"
+    "backgroundColor": "hsla(103,28%,47%,0.76)",
+    "color": "hsla(223,3%,97%,0.92)"
   },
   {
-    "backgroundColor": "hsla(243,89%,22%,0.72)",
-    "color": "hsla(3,64%,72%,0.47)"
+    "backgroundColor": "hsla(140,16%,8%,0.85)",
+    "color": "hsla(260,91%,58%,0.98)"
   },
   {
-    "backgroundColor": "hsla(316,45%,72%,0.87)",
-    "color": "hsla(76,20%,22%,0.53)"
+    "backgroundColor": "hsla(129,90%,24%,0.84)",
+    "color": "hsla(249,65%,74%,0.84)"
   },
   {
-    "backgroundColor": "hsla(223,16%,2%,0.78)",
-    "color": "hsla(343,91%,52%,0.41)"
+    "backgroundColor": "hsla(160,82%,64%,0.96)",
+    "color": "hsla(280,57%,14%,0.95)"
   },
   {
-    "backgroundColor": "hsla(52,0%,9%,0.88)",
-    "color": "hsla(172,75%,59%,0.45)"
+    "backgroundColor": "hsla(188,83%,18%,0.87)",
+    "color": "hsla(308,58%,68%,0.92)"
   },
   {
-    "backgroundColor": "hsla(262,92%,61%,0.83)",
-    "color": "hsla(22,67%,11%,0.47)"
+    "backgroundColor": "hsla(260,10%,80%,0.86)",
+    "color": "hsla(20,85%,30%,0.87)"
   },
   {
-    "backgroundColor": "hsla(338,57%,35%,0.72)",
-    "color": "hsla(98,32%,85%,0.53)"
+    "backgroundColor": "hsla(177,12%,19%,0.85)",
+    "color": "hsla(297,87%,69%,0.97)"
   },
   {
-    "backgroundColor": "hsla(74,61%,23%,0.83)",
-    "color": "hsla(194,36%,73%,0.49)"
+    "backgroundColor": "hsla(344,4%,10%,0.79)",
+    "color": "hsla(104,79%,60%,0.90)"
   },
   {
-    "backgroundColor": "hsla(103,72%,72%,0.79)",
-    "color": "hsla(223,47%,22%,0.59)"
+    "backgroundColor": "hsla(288,42%,96%,0.94)",
+    "color": "hsla(48,17%,46%,0.87)"
   },
   {
-    "backgroundColor": "hsla(126,0%,19%,0.86)",
-    "color": "hsla(246,75%,69%,0.51)"
+    "backgroundColor": "hsla(240,53%,60%,0.83)",
+    "color": "hsla(0,28%,10%,0.90)"
   },
   {
-    "backgroundColor": "hsla(83,16%,39%,0.78)",
-    "color": "hsla(203,91%,89%,0.42)"
+    "backgroundColor": "hsla(85,39%,88%,0.99)",
+    "color": "hsla(205,14%,38%,0.85)"
   },
   {
-    "backgroundColor": "hsla(217,63%,84%,0.95)",
-    "color": "hsla(337,38%,34%,0.44)"
+    "backgroundColor": "hsla(174,2%,37%,0.95)",
+    "color": "hsla(294,77%,87%,0.86)"
   },
   {
-    "backgroundColor": "hsla(180,19%,80%,0.71)",
-    "color": "hsla(300,94%,30%,0.43)"
+    "backgroundColor": "hsla(60,42%,72%,0.94)",
+    "color": "hsla(180,17%,22%,0.95)"
   },
   {
-    "backgroundColor": "hsla(98,2%,37%,0.85)",
-    "color": "hsla(218,77%,87%,0.44)"
+    "backgroundColor": "hsla(185,1%,64%,0.71)",
+    "color": "hsla(305,76%,14%,0.95)"
   },
   {
-    "backgroundColor": "hsla(320,92%,14%,0.89)",
-    "color": "hsla(80,67%,64%,0.52)"
+    "backgroundColor": "hsla(15,66%,61%,0.82)",
+    "color": "hsla(135,41%,11%,0.96)"
   },
   {
-    "backgroundColor": "hsla(247,96%,87%,0.95)",
-    "color": "hsla(7,71%,37%,0.54)"
+    "backgroundColor": "hsla(141,42%,28%,0.89)",
+    "color": "hsla(261,17%,78%,0.81)"
   },
   {
-    "backgroundColor": "hsla(176,33%,35%,0.71)",
-    "color": "hsla(296,8%,85%,0.58)"
+    "backgroundColor": "hsla(358,4%,8%,0.73)",
+    "color": "hsla(118,79%,58%,0.88)"
   },
   {
-    "backgroundColor": "hsla(227,20%,92%,0.94)",
-    "color": "hsla(347,95%,42%,0.56)"
+    "backgroundColor": "hsla(75,86%,48%,0.83)",
+    "color": "hsla(195,61%,98%,0.90)"
   },
   {
-    "backgroundColor": "hsla(109,13%,27%,0.99)",
-    "color": "hsla(229,88%,77%,0.50)"
+    "backgroundColor": "hsla(246,66%,61%,0.75)",
+    "color": "hsla(6,41%,11%,0.81)"
   },
   {
-    "backgroundColor": "hsla(31,71%,45%,0.90)",
-    "color": "hsla(151,46%,95%,0.43)"
+    "backgroundColor": "hsla(164,21%,0%,0.74)",
+    "color": "hsla(284,96%,50%,0.84)"
   },
   {
-    "backgroundColor": "hsla(11,61%,68%,0.95)",
-    "color": "hsla(131,36%,18%,0.53)"
+    "backgroundColor": "hsla(203,71%,30%,0.78)",
+    "color": "hsla(323,46%,80%,0.86)"
   },
   {
-    "backgroundColor": "hsla(301,25%,13%,0.92)",
-    "color": "hsla(61,0%,63%,0.42)"
+    "backgroundColor": "hsla(264,14%,98%,0.84)",
+    "color": "hsla(24,89%,48%,0.98)"
   },
   {
-    "backgroundColor": "hsla(169,86%,98%,0.84)",
-    "color": "hsla(289,61%,48%,0.48)"
+    "backgroundColor": "hsla(71,7%,25%,0.99)",
+    "color": "hsla(191,82%,75%,0.98)"
   },
   {
-    "backgroundColor": "hsla(321,18%,92%,0.78)",
-    "color": "hsla(81,93%,42%,0.53)"
+    "backgroundColor": "hsla(43,33%,72%,0.85)",
+    "color": "hsla(163,8%,22%,0.88)"
   },
   {
-    "backgroundColor": "hsla(119,95%,72%,0.73)",
-    "color": "hsla(239,70%,22%,0.43)"
+    "backgroundColor": "hsla(51,33%,5%,0.83)",
+    "color": "hsla(171,8%,55%,0.86)"
   },
   {
-    "backgroundColor": "hsla(204,19%,99%,0.83)",
-    "color": "hsla(324,94%,49%,0.41)"
+    "backgroundColor": "hsla(31,76%,52%,0.73)",
+    "color": "hsla(151,51%,2%,0.95)"
   },
   {
-    "backgroundColor": "hsla(329,89%,37%,0.82)",
-    "color": "hsla(89,64%,87%,0.50)"
+    "backgroundColor": "hsla(82,33%,57%,0.94)",
+    "color": "hsla(202,8%,7%,0.90)"
   },
   {
-    "backgroundColor": "hsla(301,47%,35%,0.89)",
-    "color": "hsla(61,22%,85%,0.51)"
+    "backgroundColor": "hsla(55,81%,18%,0.74)",
+    "color": "hsla(175,56%,68%,0.97)"
   },
   {
-    "backgroundColor": "hsla(219,92%,70%,0.97)",
-    "color": "hsla(339,67%,20%,0.58)"
+    "backgroundColor": "hsla(191,51%,39%,0.82)",
+    "color": "hsla(311,26%,89%,0.90)"
   },
   {
-    "backgroundColor": "hsla(182,36%,79%,0.77)",
-    "color": "hsla(302,11%,29%,0.53)"
+    "backgroundColor": "hsla(104,38%,37%,0.93)",
+    "color": "hsla(224,13%,87%,0.86)"
   },
   {
-    "backgroundColor": "hsla(65,13%,67%,0.96)",
-    "color": "hsla(185,88%,17%,0.58)"
+    "backgroundColor": "hsla(343,69%,63%,0.81)",
+    "color": "hsla(103,44%,13%,0.82)"
   },
   {
-    "backgroundColor": "hsla(11,65%,5%,0.89)",
-    "color": "hsla(131,40%,55%,0.50)"
+    "backgroundColor": "hsla(170,94%,7%,0.72)",
+    "color": "hsla(290,69%,57%,0.96)"
   },
   {
-    "backgroundColor": "hsla(295,1%,19%,0.97)",
-    "color": "hsla(55,76%,69%,0.52)"
+    "backgroundColor": "hsla(160,81%,89%,0.72)",
+    "color": "hsla(280,56%,39%,0.86)"
   },
   {
-    "backgroundColor": "hsla(50,13%,17%,0.74)",
-    "color": "hsla(170,88%,67%,0.47)"
+    "backgroundColor": "hsla(216,40%,98%,0.97)",
+    "color": "hsla(336,15%,48%,0.90)"
   },
   {
-    "backgroundColor": "hsla(2,52%,86%,0.74)",
-    "color": "hsla(122,27%,36%,0.48)"
+    "backgroundColor": "hsla(300,75%,94%,0.96)",
+    "color": "hsla(60,50%,44%,0.82)"
   },
   {
-    "backgroundColor": "hsla(0,3%,24%,0.85)",
-    "color": "hsla(120,78%,74%,0.42)"
+    "backgroundColor": "hsla(9,15%,32%,0.75)",
+    "color": "hsla(129,90%,82%,0.97)"
   },
   {
-    "backgroundColor": "hsla(196,30%,87%,0.83)",
-    "color": "hsla(316,5%,37%,0.56)"
+    "backgroundColor": "hsla(263,48%,52%,0.93)",
+    "color": "hsla(23,23%,2%,0.83)"
   },
   {
-    "backgroundColor": "hsla(159,26%,33%,0.75)",
-    "color": "hsla(279,1%,83%,0.53)"
+    "backgroundColor": "hsla(178,81%,64%,0.83)",
+    "color": "hsla(298,56%,14%,0.95)"
   },
   {
-    "backgroundColor": "hsla(122,28%,40%,0.86)",
-    "color": "hsla(242,3%,90%,0.55)"
+    "backgroundColor": "hsla(120,60%,98%,0.79)",
+    "color": "hsla(240,35%,48%,0.87)"
   },
   {
-    "backgroundColor": "hsla(122,34%,34%,0.93)",
-    "color": "hsla(242,9%,84%,0.59)"
+    "backgroundColor": "hsla(19,21%,74%,0.82)",
+    "color": "hsla(139,96%,24%,0.94)"
   },
   {
-    "backgroundColor": "hsla(282,18%,43%,0.78)",
-    "color": "hsla(42,93%,93%,0.60)"
+    "backgroundColor": "hsla(29,8%,93%,0.74)",
+    "color": "hsla(149,83%,43%,0.88)"
   },
   {
-    "backgroundColor": "hsla(265,23%,63%,0.89)",
-    "color": "hsla(25,98%,13%,0.42)"
+    "backgroundColor": "hsla(146,79%,14%,0.73)",
+    "color": "hsla(266,54%,64%,0.94)"
   },
   {
-    "backgroundColor": "hsla(252,3%,13%,0.77)",
-    "color": "hsla(12,78%,63%,0.53)"
+    "backgroundColor": "hsla(100,44%,50%,0.79)",
+    "color": "hsla(220,19%,0%,0.89)"
   },
   {
-    "backgroundColor": "hsla(227,32%,91%,0.86)",
-    "color": "hsla(347,7%,41%,0.52)"
+    "backgroundColor": "hsla(314,53%,30%,0.90)",
+    "color": "hsla(74,28%,80%,1.00)"
   },
   {
-    "backgroundColor": "hsla(253,36%,8%,0.85)",
-    "color": "hsla(13,11%,58%,0.48)"
+    "backgroundColor": "hsla(52,9%,6%,0.98)",
+    "color": "hsla(172,84%,56%,0.94)"
   },
   {
-    "backgroundColor": "hsla(173,78%,94%,0.86)",
-    "color": "hsla(293,53%,44%,0.55)"
+    "backgroundColor": "hsla(288,50%,72%,0.98)",
+    "color": "hsla(48,25%,22%,0.81)"
   },
   {
-    "backgroundColor": "hsla(316,92%,17%,0.79)",
-    "color": "hsla(76,67%,67%,0.48)"
+    "backgroundColor": "hsla(187,6%,29%,0.92)",
+    "color": "hsla(307,81%,79%,0.88)"
   },
   {
-    "backgroundColor": "hsla(202,73%,35%,0.82)",
-    "color": "hsla(322,48%,85%,0.51)"
+    "backgroundColor": "hsla(99,93%,63%,0.94)",
+    "color": "hsla(219,68%,13%,0.98)"
   },
   {
-    "backgroundColor": "hsla(308,78%,11%,0.81)",
-    "color": "hsla(68,53%,61%,0.42)"
+    "backgroundColor": "hsla(104,11%,66%,0.84)",
+    "color": "hsla(224,86%,16%,0.87)"
   },
   {
-    "backgroundColor": "hsla(330,20%,54%,0.75)",
-    "color": "hsla(90,95%,4%,0.43)"
+    "backgroundColor": "hsla(142,50%,79%,0.71)",
+    "color": "hsla(262,25%,29%,0.89)"
   },
   {
-    "backgroundColor": "hsla(307,65%,59%,0.72)",
-    "color": "hsla(67,40%,9%,0.43)"
+    "backgroundColor": "hsla(152,15%,27%,0.96)",
+    "color": "hsla(272,90%,77%,0.96)"
   },
   {
-    "backgroundColor": "hsla(100,89%,2%,0.88)",
-    "color": "hsla(220,64%,52%,0.54)"
+    "backgroundColor": "hsla(159,0%,51%,0.96)",
+    "color": "hsla(279,75%,1%,0.85)"
   },
   {
-    "backgroundColor": "hsla(223,3%,45%,0.85)",
-    "color": "hsla(343,78%,95%,0.47)"
+    "backgroundColor": "hsla(45,7%,1%,0.76)",
+    "color": "hsla(165,82%,51%,0.99)"
   },
   {
-    "backgroundColor": "hsla(181,2%,98%,0.97)",
-    "color": "hsla(301,77%,48%,0.58)"
+    "backgroundColor": "hsla(201,6%,42%,0.99)",
+    "color": "hsla(321,81%,92%,0.94)"
   },
   {
-    "backgroundColor": "hsla(222,43%,20%,0.99)",
-    "color": "hsla(342,18%,70%,0.44)"
+    "backgroundColor": "hsla(279,88%,1%,0.86)",
+    "color": "hsla(39,63%,51%,0.86)"
   },
   {
-    "backgroundColor": "hsla(171,25%,78%,0.99)",
-    "color": "hsla(291,0%,28%,0.56)"
+    "backgroundColor": "hsla(260,87%,88%,0.86)",
+    "color": "hsla(20,62%,38%,0.92)"
   },
   {
-    "backgroundColor": "hsla(211,65%,97%,0.85)",
-    "color": "hsla(331,40%,47%,0.45)"
+    "backgroundColor": "hsla(138,11%,75%,0.87)",
+    "color": "hsla(258,86%,25%,0.93)"
   },
   {
-    "backgroundColor": "hsla(21,71%,91%,0.70)",
-    "color": "hsla(141,46%,41%,0.42)"
+    "backgroundColor": "hsla(337,97%,42%,0.88)",
+    "color": "hsla(97,72%,92%,0.97)"
   },
   {
-    "backgroundColor": "hsla(339,38%,10%,0.82)",
-    "color": "hsla(99,13%,60%,0.47)"
+    "backgroundColor": "hsla(320,56%,72%,0.79)",
+    "color": "hsla(80,31%,22%,0.93)"
   },
   {
-    "backgroundColor": "hsla(242,5%,0%,0.72)",
-    "color": "hsla(2,80%,50%,0.41)"
+    "backgroundColor": "hsla(113,61%,38%,0.98)",
+    "color": "hsla(233,36%,88%,0.94)"
   },
   {
-    "backgroundColor": "hsla(103,9%,32%,0.76)",
-    "color": "hsla(223,84%,82%,0.45)"
+    "backgroundColor": "hsla(107,52%,27%,0.73)",
+    "color": "hsla(227,27%,77%,0.86)"
   },
   {
-    "backgroundColor": "hsla(91,9%,80%,0.95)",
-    "color": "hsla(211,84%,30%,0.47)"
+    "backgroundColor": "hsla(350,97%,30%,0.71)",
+    "color": "hsla(110,72%,80%,0.92)"
   },
   {
-    "backgroundColor": "hsla(7,64%,75%,0.86)",
-    "color": "hsla(127,39%,25%,0.47)"
+    "backgroundColor": "hsla(93,23%,14%,0.92)",
+    "color": "hsla(213,98%,64%,0.96)"
   }
 ]
