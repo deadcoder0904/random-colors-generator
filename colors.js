@@ -17,8 +17,8 @@ const calculate = (inc,min,max) => {
 }
 
 const generate2DigitOpacity = () => {
-	const opacity1 = randomNumber(0.2,0.5).toFixed(2)
-	const opacity2 = randomNumber(0.6,1).toFixed(2)
+	const opacity1 = randomNumber(0.7,1).toFixed(2)
+	const opacity2 = randomNumber(0.4,0.6).toFixed(2)
 	return [
 		opacity1,
 		opacity2
